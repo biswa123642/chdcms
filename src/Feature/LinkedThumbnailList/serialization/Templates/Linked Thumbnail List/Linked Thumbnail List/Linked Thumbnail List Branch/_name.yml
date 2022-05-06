@@ -1,0 +1,27 @@
+﻿---
+ID: "bc6bb9a2-36db-47ed-932e-53f79d88e60b"
+Parent: "6f13e7ea-9dd6-4933-bebf-47cb659579f9"
+Template: "99c0b04f-878a-4594-a187-d6926a47e672"
+Path: /sitecore/templates/Feature/OneWeb/Linked Thumbnail List/Linked Thumbnail List/Linked Thumbnail List Branch/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171019T090742Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f8beb383-0021-4151-92ea-75849dc28d53"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220404T113559Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "c97efceb-a8df-421f-ac9a-85e25b089b8d"
+Parent: "4a3e84e9-62f8-4df8-90de-343c4a04d490"
+Template: "4c650ab1-7dab-447c-9836-bb984df71842"
+Path: /sitecore/content/OneWeb/Default/Data/Videos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113149Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c56aea50-9463-401a-8fb2-886dbd2e91eb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113149Z

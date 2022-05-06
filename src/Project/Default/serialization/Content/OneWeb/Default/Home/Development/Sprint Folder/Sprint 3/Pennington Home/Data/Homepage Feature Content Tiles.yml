@@ -1,0 +1,39 @@
+﻿---
+ID: "49662c40-749d-4e7f-8533-4df318cea8e1"
+Parent: "82dd88f8-bb8d-40f8-854f-9cb2ad99afca"
+Template: "c09ac6c9-6478-4ab7-87c9-ce5e87bbad79"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 3/Pennington Home/Data/Homepage Feature Content Tiles
+BranchID: "bb7277a3-96ea-4093-939c-48bb45d51b5a"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{A14D9266-1924-4E7F-87CC-760E2F8429CE}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2BC9BF9A-60B4-444B-B1EE-B09F3D9AAF3A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T085950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46d6e202-0d53-4e48-aecb-cb035f747356"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T085950Z

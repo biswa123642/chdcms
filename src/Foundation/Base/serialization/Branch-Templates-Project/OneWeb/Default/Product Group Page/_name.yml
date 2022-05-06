@@ -1,0 +1,27 @@
+﻿---
+ID: "402a751d-3409-4335-93c0-6919c524a2a1"
+Parent: "409396b1-bcd7-46b6-8b9a-7f03316aef0c"
+Template: "7bdf7d45-c98f-4e4d-ac3a-ad8035780bbe"
+Path: /sitecore/templates/Branches/Project/OneWeb/Default/Product Group Page/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T052737Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b096ee9-ce90-436d-a7bc-44b1f1a8f49d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220321T052737Z

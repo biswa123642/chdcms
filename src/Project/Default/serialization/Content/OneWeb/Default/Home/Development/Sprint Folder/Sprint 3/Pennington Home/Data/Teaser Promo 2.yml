@@ -1,0 +1,65 @@
+﻿---
+ID: "265d2f51-f7eb-4411-ae80-7bbd7978455b"
+Parent: "82dd88f8-bb8d-40f8-854f-9cb2ad99afca"
+Template: "d1070ed7-b4f7-4c03-b622-f9b5fb072dea"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 3/Pennington Home/Data/Teaser Promo 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T104058Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68a9ed16-a3b4-4b4f-b9e8-7b5585772a62"
+      Hint: SecondCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "6e2daeb3-ffb0-49a7-a1ed-ff96fe9e2f95"
+      Hint: FourthCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "7cf24deb-783d-4e7a-be2d-1c5410b73c66"
+      Hint: FirstCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Contact" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "81651106-4b95-4713-84df-90a36c488b2f"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{F8FF3DE6-C118-42AA-9AF9-E5FA90FC46EC}" />
+    - ID: "84b5c8d1-65b8-4b4c-abed-5b515209bced"
+      Hint: CTAIconTwo
+      Value: |
+        <image mediaid="{38E72D01-C0C9-41DC-8E82-44955449239A}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29c6f58a-5215-4a28-819f-17cbc51c3091"
+    - ID: "9915b896-f39e-4a8e-94bc-1a89cd147b04"
+      Hint: CTAIconOne
+      Value: |
+        <image mediaid="{99E00856-FDF6-46C4-8F75-3FD85AB1C2FF}" />
+    - ID: "9fd53b32-f6f3-484c-b662-d9a1b2013a0d"
+      Hint: Description
+      Value: "Central Pet Distribution is committed to the financial health and prosperity of the independent pet retailer. Finding cutting-edge solutions that truly impact and enhance a retailer's business is our never-ending endeavor."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca6a3070-03e0-47cf-ba54-c58f83c49cfa"
+      Hint: Title
+      Value: <p>Pet</p><p>Distribution</p>
+    - ID: "d5db3ec5-82d2-4995-b094-d53b8d029187"
+      Hint: ThirdCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T115335Z

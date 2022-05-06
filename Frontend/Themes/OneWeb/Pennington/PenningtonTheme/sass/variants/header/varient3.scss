@@ -1,0 +1,75 @@
+&.varient-3 {
+    background-color: $white;
+    //nav menu
+    .hamburger {
+        .icon-bar {
+            background-color: $text-black;
+        }
+    }
+    .header-global-menu {
+        background-color: $white;
+        padding-bottom: 25px;
+        ul.items {
+            li.item {
+                a{
+                    color: $text-black;
+                    &:before {
+                        color: $text-black;
+                    }
+                }
+                .has-sublist {
+                    &:hover {
+                        &:before {
+                            color: $text-yellow-dark;
+                        }
+                        a {
+                            color: $text-yellow-dark;
+                        }
+                    }
+                }
+
+                ul.sub-menu-list {
+                    padding: 0;
+                    a {
+                        padding: 3px 14px;
+                        display: block;
+                        line-height: 20px;
+                        font-size: 14px;
+                        &:hover {
+                            background-color: $text-black;
+                            color: $text-yellow-dark;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .search-box {
+        z-index: 1;
+    }
+    .search-box-button {
+        color: $text-black;
+    }
+}
+@include respond-to(bootstrap-lgDesktop) {
+    &.varient-3 {
+
+        //nav menu
+        .header-global-menu {
+            padding-bottom: 0;
+            ul.items {
+                li.item {
+                    ul.sub-menu-list {
+                        border: 1px solid rgba(0, 0, 0, 0.15);
+                        background: $white;
+                        z-index: 1;
+                        border-radius: 4px;
+                        -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.18%);
+                        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.18%);
+                        background-clip: padding-box;
+                    }
+                }
+            }
+        }
+    }
+}

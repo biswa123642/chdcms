@@ -1,0 +1,37 @@
+﻿---
+ID: "40f83bc4-d340-4a5f-92a5-856acb595e6f"
+Parent: "3f4952a0-d365-4e55-915a-9c43431ec706"
+Template: "89d040b7-105e-42ba-ab77-40b955bf1497"
+Path: /sitecore/content/OneWeb/Default/Data/Our Story/Fertilizer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T135210Z
+    - ID: "40761a54-86ff-42e9-8a58-8ec4823a95bf"
+      Hint: SubTitle
+      Value: Fertilizer
+    - ID: "88626934-cbf9-42ec-9278-5e67819ff269"
+      Hint: BrandDescription
+      Value: For more than 70 years, homeowners and lawn and garden professionals have trusted the Pennington name.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f20ad1b-622b-42de-b71c-a4a0730aae9e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220422T052328Z
+    - ID: "da855756-75ea-4220-b5cd-bcaabe9ef7d0"
+      Hint: BrandLogo
+      Value: |
+        <image mediaid="{C5A15F81-EEA6-41BF-90FC-28280ACD0AE9}" />
+    - ID: "f83550c0-3d8d-4626-af31-d9840375ee0d"
+      Hint: CTA
+      Value: |
+        <link text="ABOUT" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

@@ -1,0 +1,58 @@
+﻿---
+ID: "a1c339ed-51f9-4056-ad73-1dd9603a795a"
+Parent: "fa83907e-0d8d-4308-973b-0aee29e5bbc7"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/HeaderGlobalMenu/TwoLevelNavigation/Section/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    	{{flag= i_item.HasSubMenu.raw | string.contains "1" }}
+    	{{ if flag==true
+    	subListClass="has-sublist"
+    	end}}
+    	<div class="{{subListClass}}">
+    	    {{sc_editframe i_item 'Custom List'}}
+    		{{ sc_field i_item "Link"}}
+    	    {{sc_endeditframe}}
+    	</div>
+    	{{ if flag==true}}
+    	<ul class="sub-menu-list">
+    		{{ for subnav in i_item.Children}}
+    		<li class="sub-menu-item">
+    		    {{sc_editframe subnav 'Custom List'}}
+    			{{ sc_field subnav "Link"}}
+    			{{sc_endeditframe}}
+    		</li>
+    		{{end}}
+    	</ul>
+    	{{end}}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F0810E42-4851-4176-ADBE-1129BC14825D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T120058Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f134b3d8-f9bd-4519-9847-ad26e470a01a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220228T093932Z

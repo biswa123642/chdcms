@@ -1,0 +1,47 @@
+﻿---
+ID: "9d15a286-c9cd-4be6-896e-ba7ea2db902e"
+Parent: "b0389cf3-5d57-4833-805e-ac4d408f4cbf"
+Template: "89d040b7-105e-42ba-ab77-40b955bf1497"
+Path: "/sitecore/content/OneWeb/Default/Data/Generic Content List/Leader-Dog"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T154518Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "88626934-cbf9-42ec-9278-5e67819ff269"
+      Hint: BrandDescription
+      Value: |
+        
+        Our chew toy donations comfort and entertain guide dogs in training through the Leader Dogs for the Blind program. When these pups are not preparing to assist people who are deaf, blind, or visually impaired, they enjoy our chew toys during playtime while they strengthen their bond with their handler.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a405ca9-d9ff-48ea-be31-d23119573387"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T163339Z
+    - ID: "da855756-75ea-4220-b5cd-bcaabe9ef7d0"
+      Hint: BrandLogo
+      Value: |
+        <image mediaid="{3917F145-96AD-4B07-9873-4F7336154BF5}" ></image>
+    - ID: "f83550c0-3d8d-4626-af31-d9840375ee0d"
+      Hint: CTA
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

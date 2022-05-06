@@ -1,0 +1,48 @@
+﻿---
+ID: "e90eb752-ff59-491d-b757-7d9978396763"
+Parent: "6789f08c-3b54-488e-9c0a-c3177f0eadc9"
+Template: "e229ce6c-561d-41d9-b521-efbf47d00b6c"
+Path: /sitecore/content/OneWeb/Default/Data/Header Global Menu/Global Menu Data right/Where To Buy
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 88
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F75C8541-EAE2-45C8-873D-ABE4A09CCD3A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T120058Z
+    - ID: "2d366fb9-cb2f-48ab-bafa-c29c581934c5"
+      Hint: Link
+      Value: |
+        <link linktype="internal" text="WHERE TO BUY" querystring="" target="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ed558e0-d1bf-4a25-a652-e5f3003334a4"
+    - ID: "b6784c02-1bfd-4ff8-951e-8fef2cdf0739"
+      Hint: HasSubMenu
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220228T090307Z

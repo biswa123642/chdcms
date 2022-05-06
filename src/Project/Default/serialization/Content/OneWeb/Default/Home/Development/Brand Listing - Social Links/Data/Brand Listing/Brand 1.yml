@@ -1,0 +1,50 @@
+﻿---
+ID: "7af0585c-523d-44f5-9d98-7352346b7d36"
+Parent: "76e1fb02-0458-4d9b-93f7-555038cdc961"
+Template: "21e9bd9f-1259-4a0a-b862-a250abf7a8b1"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/Brand Listing - Social Links/Data/Brand Listing/Brand 1"
+BranchID: "574ddb5d-100b-48b0-a8eb-91aa817a72f2"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{39307E3D-CDBA-4837-9D1E-600F549967BA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1a984fb2-76bd-4a5b-a71b-c163ae3d23e9"
+      Hint: Image
+      Value: |
+        <image mediaid="{9E9936A2-53AA-4CC9-A370-0CCA81AD415A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220302T083016Z
+    - ID: "3fbfed70-8606-40c5-9e84-45a03aa258d5"
+      Hint: Link
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{DBDA0593-7CFA-43DF-AAD4-B2FE7D3A9ADA}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d4e8dc40-944a-41b5-9a48-d4afff80cba9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220302T114027Z
+    - ID: "f35d245b-3a57-4132-a025-00a22429f296"
+      Hint: IconClass
+      Value: 

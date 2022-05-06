@@ -1,0 +1,21 @@
+{
+  "namespace": "Feature.Search",
+  "references": [
+    "*Foundation.*"
+  ],
+  "items": {
+    "includes": [
+      {
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/OneWeb/Search",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/OneWeb/Search",
+        "scope": "itemAndDescendants",
+        "allowedPushOperations": "createUpdateAndDelete"
+      }
+    ]
+  }
+}

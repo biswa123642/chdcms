@@ -1,0 +1,49 @@
+﻿---
+ID: "b8a5f997-023f-4c7f-ad9c-dc9d74ec75c1"
+Parent: "42f852ea-8f09-42c5-b580-27cabc03e6cc"
+Template: "d1070ed7-b4f7-4c03-b622-f9b5fb072dea"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Three column layout with each column having text images and CTA button/Data/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T075927Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7cf24deb-783d-4e7a-be2d-1c5410b73c66"
+      Hint: FirstCTA
+      Value: |
+        <link text="Get Started" linktype="anchor" url="Get Started" anchor="Get Started" title="" class="sxa-btn-primary" />
+    - ID: "81651106-4b95-4713-84df-90a36c488b2f"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{E1F48AD2-6A67-4152-B95C-B4BC37DB5A44}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81c6688e-5586-4e42-919a-e2c71107cd63"
+    - ID: "9fd53b32-f6f3-484c-b662-d9a1b2013a0d"
+      Hint: Description
+      Value: |
+        <strong style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; text-align: justify;">Lorem Ipsum</strong><span style="background-color: #ffffff; text-align: justify; color: #000000;">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum.</span>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca6a3070-03e0-47cf-ba54-c58f83c49cfa"
+      Hint: Title
+      Value: Get a Personalized pest control solution in second.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220214T114156Z

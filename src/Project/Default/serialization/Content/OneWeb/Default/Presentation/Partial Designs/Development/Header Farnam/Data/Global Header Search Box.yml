@@ -1,0 +1,31 @@
+﻿---
+ID: "0aab5cab-6a73-437b-ae66-6abea0e7a798"
+Parent: "644787c6-0d76-4348-a1ba-07e7b7278cd7"
+Template: "1c04fd61-1d87-4590-acfe-9cc186865ab3"
+Path: /sitecore/content/OneWeb/Default/Presentation/Partial Designs/Development/Header Farnam/Data/Global Header Search Box
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T090147Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18e8ef05-3379-4410-b9cb-d07300079492"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220217T090147Z

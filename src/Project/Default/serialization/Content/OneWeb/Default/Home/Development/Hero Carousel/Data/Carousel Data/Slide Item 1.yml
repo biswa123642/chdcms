@@ -1,0 +1,56 @@
+﻿---
+ID: "d8dcd694-648f-43b4-a5b7-08accee44093"
+Parent: "ac561d61-795a-4036-b1a6-240ccedeac91"
+Template: "3c7c79e8-554d-46d9-bf1a-63da22a4ee6f"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Carousel/Data/Carousel Data/Slide Item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0F1F8145-0F2D-425C-A054-B3C8E04B6059}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220127T104516Z
+    - ID: "3bfd4b9e-3049-4c8d-a9b5-6bebb83f895d"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{7C899546-B829-4FC6-8088-33639F8EF62A}" height="200" hspace="" width="380" alt="" vspace="" />
+    - ID: "673ab889-05ad-4952-abe3-b145f6296383"
+      Hint: IsSlideCardCTAButton
+      Value: 1
+    - ID: "76cfd5c3-e3b6-44c7-ac23-c287015b6772"
+      Hint: HideSlideOverlayCard
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7d40544a-7d32-4231-946b-4075f0b5e292"
+    - ID: "a8933445-15ca-4e23-b171-a33892eb0ef8"
+      Hint: SlideCardTitle
+      Value: |
+        Not Your Ordinary<br />
+        Pee Pad
+    - ID: "b34e88f9-8800-43b1-92b5-029fbfae12e9"
+      Hint: SlideCardLogo
+      Value: |
+        <image mediaid="{C97BC912-0A8E-42FD-9F44-01143D5C506A}" height="56" hspace="" width="100" alt="" vspace="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d691b058-6e52-4e4b-baae-a23aed9de6e0"
+      Hint: SlideCardSubText
+      Value: "Wetness-activated borders are the ultimate safeguard against edge leaks and runoff."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T124013Z
+    - ID: "e10d2e79-68cc-438a-a732-abf80f62be76"
+      Hint: SlideCardCTA
+      Value: |
+        <link text="Click me" linktype="external" url="http://www.youtube.com" anchor="" target="" />

@@ -1,0 +1,93 @@
+﻿---
+ID: "fa33c54c-79e9-41c6-8b5f-6d9f9e4b523f"
+Parent: "fde0a0e1-6b0a-4edc-a5ba-002ddd39805c"
+Template: "f3e6da4e-5d19-49b8-9737-2ee2e9067757"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Banner/Data/Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T122729Z
+    - ID: "2f396e45-5464-485c-a98c-091f8848fb6a"
+      Hint: HeroImageDesktop
+      Value: |
+        <image mediaid="{D93D16C1-3A91-48EC-88F5-A01D0F7E4125}" alt="Hero Banner" height="" width="" hspace="" vspace="" />
+    - ID: "41b17cd3-d543-4c7c-9bfa-b21765882326"
+      Hint: HeroImageMobile
+      Value: |
+        <image mediaid="{CB4897E6-8B57-4D95-9847-EF3BC231600E}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ed41664d-b2a6-4187-8c90-50753abcd85e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nehaj
+    - ID: "c4294fa3-7849-4f74-bdbe-0fee45ae32fe"
+      Hint: HeroBannerTitle
+      Value: |
+        Home is central to life - <br />
+        we are Central to home
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T085253Z
+    - ID: "e829eba5-21e1-443d-929c-71b8d331f023"
+      Hint: HeroBannerCTA
+      Value: |
+        <link linktype="internal" />
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "055a2c41-4d44-4441-b589-b86f39cc64e5"
+      Hint: HeroImageTablet
+      Value: |
+        <image mediaid="{09D56B52-7609-42E6-9D7A-AC1C070F3559}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220208T085253Z
+    - ID: "2f396e45-5464-485c-a98c-091f8848fb6a"
+      Hint: HeroImageDesktop
+      Value: |
+        <image mediaid="{D93D16C1-3A91-48EC-88F5-A01D0F7E4125}" />
+    - ID: "41b17cd3-d543-4c7c-9bfa-b21765882326"
+      Hint: HeroImageMobile
+      Value: |
+        <image mediaid="{CB4897E6-8B57-4D95-9847-EF3BC231600E}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\nehaj
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\nehaj
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3490ea97-3aa2-4c2f-8928-4fa885705e60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\adityag
+    - ID: "c4294fa3-7849-4f74-bdbe-0fee45ae32fe"
+      Hint: HeroBannerTitle
+      Value: |
+        Home is central to life - <br />
+        we are Central to home!@#$a
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20220208T085253Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T113611Z
+    - ID: "e829eba5-21e1-443d-929c-71b8d331f023"
+      Hint: HeroBannerCTA
+      Value: |
+        <link linktype="internal" />

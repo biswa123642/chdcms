@@ -1,0 +1,47 @@
+﻿---
+ID: "0c7c2696-7a8c-4429-8655-72226a2cff6b"
+Parent: "20c25c16-4dbc-4a8b-bd26-e72115ae42e1"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/OneWeb/Default/Data/Promos/About Us Overview
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: <h1>Keeping Pets Happy, Healthy, and Clean for Over 50 Years</h1>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T132811Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
+      Hint: PromoIcon2
+      Value: |
+        <image mediaid="{2EA71B14-D192-4078-9A2A-764E568E44FB}" height="" hspace="" width="" alt="ab" vspace="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "153b9161-8b48-49a6-82df-78ab8145c209"
+    - ID: "b59adc09-32a3-46f2-aede-b0c633979263"
+      Hint: PromoText2
+      Value: |
+        <p>As pet parents ourselves, everything we do at Four Paws is centered around one thing: helping fellow pet parents and their furry friends live their best lives together.</p>
+        <p>Our team of dog &amp; cat lovers designs simple yet innovative pet products to take the guesswork out of caring for your best friend. We help you master potty time, conquer shedding season, and even keep your pet's gut health in check so you can focus on the fun stuff, like neighborhood walks and quality couch time.</p>
+        <p>Ever since creating Wee-Wee<span>&reg;</span>&nbsp;Pads&mdash;America's original trusted pads-back in 1970, we've spent more than 50 years providing pet parents like you the most reliable solutions to keep pets<span>&nbsp;<strong>happy, healthy, and clean</strong></span>.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220419T105005Z

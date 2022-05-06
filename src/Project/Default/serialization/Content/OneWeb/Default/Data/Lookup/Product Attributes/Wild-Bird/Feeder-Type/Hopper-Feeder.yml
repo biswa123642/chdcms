@@ -1,0 +1,29 @@
+﻿---
+ID: "757b9e5f-b174-4cda-a85a-6c1c382b46e0"
+Parent: "2c202880-a818-4f76-98ba-0a0642b25a9d"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: "/sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Wild-Bird/Feeder-Type/Hopper-Feeder"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T124343Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: "Hopper-Feeder"
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Hopper Feeder
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "35075b5b-4944-4ff4-8222-270eaf495ede"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T124348Z

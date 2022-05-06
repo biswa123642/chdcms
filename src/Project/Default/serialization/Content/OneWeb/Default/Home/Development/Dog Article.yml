@@ -1,0 +1,43 @@
+﻿---
+ID: "082f4486-0cc8-4f43-992a-2f6bfca8c34a"
+Parent: "45b039a4-d895-47c7-9a30-21ab882774e5"
+Template: "057af325-c948-4918-a4e4-2c3f6cf04524"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Dog Article
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54B9411-325A-4D45-A3EC-D30ECB4E809A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06e34e6f-1cbe-4a99-b264-03222fe0a1f2"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{8B8E8093-40E6-47AA-AD9D-BD79D3A52D99}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T104722Z
+    - ID: "36aa965e-f5ea-4871-a55b-53e090d5026e"
+      Hint: ArticleType
+      Value: "{25960560-DE80-4498-B085-15E3AA9A08BC}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Dog Article
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: Dog Article
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "60a4db3b-6af0-4cf1-a678-7e907d90b91e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220325T075135Z

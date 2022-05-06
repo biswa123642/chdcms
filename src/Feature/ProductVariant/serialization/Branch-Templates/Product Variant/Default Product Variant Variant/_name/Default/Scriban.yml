@@ -1,0 +1,144 @@
+﻿---
+ID: "151981ae-e726-4f73-bd40-13935f0408b1"
+Parent: "d7a480e9-9285-4ca0-918d-9a505892f5cb"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Product Variant/Default Product Variant Variant/$name/Default/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{i_variantgroups=i_page.children}}
+    {{for i_variantgroup in i_variantgroups}}
+        {{template = i_variantgroup.template_id }}
+        {{if template | string.contains "F9CF5C0401C34060A1431E12421C09BE"}}
+            {{primaryName = sc_field i_variantgroup "PrimaryVariationName"}}
+            {{secondaryName= sc_field i_variantgroup "SecondaryVariationName"}}
+            {{tertiaryName= sc_field i_variantgroup "TertiaryVariationName"}}
+           
+            {{ selected_variants = sc_followmany i_variantgroup "ChooseVariant"}}
+            {{ vcount = selected_variants | array.size}} 
+            {{if vcount > 0 }}
+                {{primaryArray = selected_variants | array.map "PrimaryVariationValue" }}
+                {{secondaryArray= selected_variants | array.map "SecondaryVariationValue"}}
+                {{tertiaryArray= selected_variants | array.map "TertiaryVariationValue"}}
+    
+                {{p_unique = []}} {{s_unique=[]}} {{t_unique=[]}}
+    
+                {{ for i in primaryArray}}
+                    {{ if !(p_unique| array.contains i.raw)}}
+                        {{p_unique= p_unique| array.add i.raw}}
+                    {{end}}
+                {{end}}
+    
+                <h4>{{primaryName}}</h4>
+                <select name="PrimaryVariationValue" id="primaryvariationvalue">
+                {{for p_value in p_unique}}
+                    <option value="{{p_value}}"> {{p_value}} </option>
+                {{end}}
+                </select>
+    
+                {{if secondaryArray != ""}}
+                    {{ for i in secondaryArray}}
+                        {{ if !(s_unique| array.contains i.raw)}}
+                            {{s_unique= s_unique| array.add i.raw}}
+                        {{end}}
+                    {{end}}
+                    <h4>{{secondaryName}}</h4>
+                    <select name="SecondaryVariationValue" id="secondaryvariationvalue">
+                    {{for s_value in s_unique}}
+                        <option value="{{s_value}}"> {{s_value}} </option>
+                    {{end}}
+                    </select>
+                {{end}}
+    
+                {{if tertiaryArray != ""}}
+                    {{ for i in tertiaryArray}}
+                        {{ if !(t_unique| array.contains i.raw)}}
+                            {{t_unique= t_unique| array.add i.raw}}
+                        {{end}}
+                    {{end}}
+                    <h4>{{tertiaryName}}</h4>
+                    <select name="TertiaryVariationValue" id="tertiaryvariationvalue">
+                    {{for t_value in t_unique}}
+                        <option value="{{t_value}}"> {{t_value}} </option>
+                    {{end}}
+                    </select>
+                {{end}}
+    
+            {{else}}
+                {{all_variants = i_variantgroup.children}}
+                {{primaryArray = all_variants | array.map "PrimaryVariationValue" }}
+                {{secondaryArray= all_variants | array.map "SecondaryVariationValue"}}
+                {{tertiaryArray= all_variants | array.map "TertiaryVariationValue"}}
+    
+                {{p_unique = []}} {{s_unique=[]}} {{t_unique=[]}}
+    
+                {{ for i in primaryArray}}
+                    {{ if !(p_unique| array.contains i.raw)}}
+                        {{p_unique= p_unique| array.add i.raw}}
+                    {{end}}
+                {{end}}
+                        
+                <h4>{{primaryName}}</h4>
+                <select name="PrimaryVariationValue" id="primaryvariationvalue">
+                {{for p_value in p_unique}}
+                    <option value="{{p_value}}"> {{p_value}} </option>
+                {{end}}
+                </select>
+    
+                {{if secondaryArray != ""}}
+                    {{ for i in secondaryArray}}
+                        {{ if !(s_unique| array.contains i.raw)}}
+                            {{s_unique= s_unique| array.add i.raw}}
+                        {{end}}
+                    {{end}}
+                    <h4>{{secondaryName}}</h4>
+                    <select name="SecondaryVariationValue" id="secondaryvariationvalue">
+                    {{for s_value in s_unique}}
+                        <option value="{{s_value}}"> {{s_value}} </option>
+                    {{end}}
+                    </select>
+                {{end}}
+    
+                {{if tertiaryArray != ""}}
+                    {{ for i in tertiaryArray}}
+                        {{ if !(t_unique| array.contains i.raw)}}
+                            {{t_unique= t_unique| array.add i.raw}}
+                        {{end}}
+                    {{end}}
+                    <h4>{{tertiaryName}}</h4>
+                    <select name="TertiaryVariationValue" id="tertiaryvariationvalue">
+                    {{for t_value in t_unique}}
+                        <option value="{{t_value}}"> {{t_value}} </option>
+                    {{end}}
+                    </select>
+                {{end}}
+            {{end}}
+        {{end}}
+    {{end}}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T092847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c7a96d5-d097-4684-a9c3-b4ca36068bd1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220412T132435Z

@@ -1,0 +1,275 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/fonts/fonts";
+@import "base/bootstrap/bootstrap";
+@import "base/fontawesome/font-awesome";
+html {
+    font-size: 62.5%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    margin-bottom: 0px;
+    height: auto !important;
+}
+
+body {
+    @include opensans-font-stack();
+    position: relative;
+    font-size: 1.6rem;
+    overflow: auto;
+    color: $text-basic;
+    line-height: $line-height;
+    //background: $page-bg;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    height: auto !important;
+    &.on-page-editor {
+        background: $page-bg-editor !important;
+    }
+}
+
+.center {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    &:hover {
+        transform: none;
+    }
+}
+
+a {
+    color: $text-basic;
+    cursor: pointer;
+    // font-size: 0.85em;
+    &:hover {
+        color: $text-basic-active;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 7vw;
+    font-weight: 900;
+    line-height: 1.27;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 0;
+    margin-bottom: 10px;
+    line-height: 1.2;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1em;
+}
+
+h5 {
+    font-size: 0.83em;
+}
+
+h6 {
+    font-size: 0.67em;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+.xa-variable {
+    border: 0px;
+    padding: 1px;
+    margin: 0px;
+    background-color: #ebebe4;
+    color: #545454;
+    user-select: none;
+    pointer-events: none;
+}
+
+//Navigation Bar fix
+#breadcrumbMenuSubcontrol_context_menu * {
+    box-sizing: initial;
+}
+
+.indent-top {
+    padding-top: 3rem;
+}
+
+.indent-bottom {
+    padding-bottom: 3rem;
+}
+
+@include respond-to(tab) {
+    h1 {
+        font-size: 5vw;
+    }
+    .indent-top {
+        padding-top: 5.5rem;
+    }
+    .indent-bottom {
+        padding-bottom: 5.5rem;
+    }
+}
+
+//End navigation bar fix
+// background color and child according that background color
+
+/* important is uing for override current class property */
+
+.light-green-bg {
+    background-color: $light-green !important;
+    * {
+        color: $dark-green !important;
+        border-color: $dark-green !important;
+    }
+    .sxa-btn {
+        a {
+            background-color: $bg-transparent;
+            border: 1px solid $dark-green;
+            color: $dark-green;
+        }
+    }
+}
+
+.dark-green-bg {
+    background-color: $dark-green !important;
+    * {
+        color: $white !important;
+        border-color: $white !important;
+    }
+    .sxa-btn {
+        a {
+            background-color: $bg-transparent;
+            border: 1.2px solid $white;
+        }
+    }
+}
+
+.white-bg {
+    background-color: $white !important;
+    * {
+        color: $text-basic !important;
+        border-color: $bg-black !important;
+    }
+    .sxa-btn-primary {
+        a {
+            background-color: $bg-transparent;
+            border-color: $text-basic;
+        }
+    }
+}
+
+.orange-bg {
+    background-color: $orange !important;
+    * {
+        border-color: $white !important;
+        &:not(a) {
+            color: $white !important;
+        }
+    }
+    .sxa-btn-primary {
+        a {
+            background-color: $white;
+            color: $orange;
+            border: none;
+            &:hover {
+                background-color: $dark-orange-hover;
+                color: $white;
+                transform: none;
+            }
+        }
+    }
+}
+
+.dark-gray-bg {
+    background-color: $text-secondary !important;
+    * {
+        color: $white !important;
+        border-color: $white !important;
+    }
+    .sxa-btn-primary {
+        a {
+            background-color: $bg-transparent;
+            border: 1.2px solid $white;
+        }
+    }
+}
+
+.blue-bg {
+    background-color: $bg-blue-active !important;
+    * {
+        color: $white !important;
+        border-color: $white !important;
+    }
+    .sxa-btn-primary {
+        a {
+            background-color: $bg-transparent;
+            border: 1.2px solid $white;
+        }
+    }
+}
+
+.light-gray-bg {
+    background-color: $bg-light-gray;
+    * {
+        color: $text-black !important;
+        border-color: $text-black !important;
+    }
+    .sxa-btn-primary {
+        a {
+            background-color: $bg-transparent;
+            border: 1.2px solid $text-black;
+        }
+    }
+}
+
+
+/* .component {
+    &.content-green {
+        * {
+            color: $dark-green !important;
+            border-color: $dark-green !important;
+        }
+        .CTA,
+        a {
+            &:hover {
+                background-color: $dark-green;
+                color: $white;
+            }
+        }
+    }
+} */
+
+// positioning
+.position-center {
+    .row {
+        justify-content: center;
+    }
+}
+
+// breadcrumb disable 
+.breadcrumb-disable {
+    display: none;
+}
+
+// field image line height
+.field-image {
+    line-height: 0;
+}

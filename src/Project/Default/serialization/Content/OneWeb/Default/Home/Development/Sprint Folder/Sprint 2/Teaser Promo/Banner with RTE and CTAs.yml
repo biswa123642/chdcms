@@ -1,0 +1,63 @@
+﻿---
+ID: "73c3b13d-a461-4c09-bbac-31cfb5676d9d"
+Parent: "ed92ce6c-376f-40c8-b482-a801671ae4c3"
+Template: "0bec8e55-1f86-4c69-94d3-8651e1a1d38a"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Teaser Promo/Banner with RTE and CTAs
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{8B992CA5-C2E2-4B35-B0BA-0BEFC90468E2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{D878B652-9069-4219-A146-768762D184ED}"
+              p:before="*"
+              s:ds="local:/Data/Test"
+              s:id="{28F481FC-631F-4BDF-9130-A2DA74164968}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BB3BA5054-8690-4DFC-A2A3-595DB38055D5%7D&amp;Styles=%7B69D209DD-5FA5-49C5-AE9D-D462BB26C34D%7D%7C%7B48194A28-1F87-4086-AADC-E2B09B8EA318%7D%7C%7BADDFB720-BE49-4750-BD0A-48FCBFDA5647%7D&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/container-1" />
+            <r
+              uid="{769E0767-C2A6-40E1-B76A-A2EF31C17550}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T094516Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Banner with RTE and CTAs
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: Banner with RTE and CTAs
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f91889cc-75da-4ef2-b969-dccfe0fd31e6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220226T083117Z

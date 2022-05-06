@@ -1,0 +1,91 @@
+﻿---
+ID: "cfc5394b-a9ff-4d04-a33f-4a0600112fbd"
+Parent: "45b039a4-d895-47c7-9a30-21ab882774e5"
+Template: "0bec8e55-1f86-4c69-94d3-8651e1a1d38a"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Email Signup
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{6CE5AD68-7D8F-45F5-A627-3492C040A38A}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5D01B5FA-9627-485B-807A-5E4AAADE6B25}"
+          p:before="*"
+          s:ds="local:/Data/Email Signup Details"
+          s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+          s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{225CB3AD-0F5B-4C1A-9989-CA8C6B38FA30}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Signup Hubspot Form"
+          s:id="{882F60C4-4A33-4995-AC39-C8FF97EE8F1D}"
+          s:par="Reset Caching Options&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5D01B5FA-9627-485B-807A-5E4AAADE6B25}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles=%7B48194A28-1F87-4086-AADC-E2B09B8EA318%7D%7C%7BADDFB720-BE49-4750-BD0A-48FCBFDA5647%7D&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2&amp;CacheClearingBehavior=Clear%20on%20publish"
+              s:ph="/main/container-3" />
+            <r
+              uid="{225CB3AD-0F5B-4C1A-9989-CA8C6B38FA30}">
+              <p:d />
+            </r>
+            <r
+              uid="{E93FCA82-6A25-4EEA-93E8-20CAB6AE68C2}"
+              p:after="r[@uid='{5D01B5FA-9627-485B-807A-5E4AAADE6B25}']"
+              s:ds="local:/Data/Signup Hubspot Form"
+              s:id="{882F60C4-4A33-4995-AC39-C8FF97EE8F1D}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B0A165447-FFF3-44FB-8521-2AFCDFEA24E5%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/main/container-3" />
+            <r
+              uid="{2A548AE0-27C2-437D-B8C4-3021D0C25D0E}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220207T124408Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Email Signup
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: Email Signup
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a94730ec-3d03-4687-ab57-e488f4aa5fcf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220214T084123Z

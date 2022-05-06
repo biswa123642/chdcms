@@ -1,0 +1,18 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/fonts/fonts";
+@import "base/fontawesome/font-awesome";
+
+.slick-dots {
+	li {
+       
+		border: 1px solid $text-basic;
+		background-color: transparent;
+		border-radius: 0;
+		&.slick-active{
+			background-color: $text-basic;
+			border-color: $text-basic;
+		}
+	}
+}

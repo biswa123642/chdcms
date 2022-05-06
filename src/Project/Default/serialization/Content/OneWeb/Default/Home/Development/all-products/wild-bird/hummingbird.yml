@@ -1,0 +1,56 @@
+﻿---
+ID: "66d993eb-90c0-4243-8c11-05787214f786"
+Parent: "f3d29e24-17e9-4129-b1d6-14656c8910e4"
+Template: "7bdf7d45-c98f-4e4d-ac3a-ad8035780bbe"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/all-products/wild-bird/hummingbird"
+BranchID: "409396b1-bcd7-46b6-8b9a-7f03316aef0c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{402A751D-3409-4335-93C0-6919C524A2A1}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T141216Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: hummingbird
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: hummingbird
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2c9595f6-d263-438c-bfaf-3042c882be9a"
+    - ID: "92f32441-cec4-42a7-ba44-83e8bb569c74"
+      Hint: Facet Attributes
+      Value: |
+        {86627173-692A-4ED5-8C56-335213CFA70E}
+        {3ADAAD07-31A1-4210-A049-75476F56570D}
+        {2C202880-A818-4F76-98BA-0A0642B25A9D}
+        {3494830B-A843-4D72-8F25-C7329BAC0BF0}
+    - ID: "b0c26a8e-ed75-4fac-9729-461caba576a0"
+      Hint: Product Details Attributes
+      Value: |
+        {3ADAAD07-31A1-4210-A049-75476F56570D}
+        {2C202880-A818-4F76-98BA-0A0642B25A9D}
+        {3494830B-A843-4D72-8F25-C7329BAC0BF0}
+        {86627173-692A-4ED5-8C56-335213CFA70E}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T165610Z

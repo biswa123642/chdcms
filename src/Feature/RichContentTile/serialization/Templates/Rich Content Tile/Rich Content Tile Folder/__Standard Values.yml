@@ -1,0 +1,33 @@
+﻿---
+ID: "552634d7-a7b0-4567-969f-201928b2d09f"
+Parent: "7c637952-371e-4f6a-9078-f3b67399e814"
+Template: "7c637952-371e-4f6a-9078-f3b67399e814"
+Path: /sitecore/templates/Feature/OneWeb/Rich Content Tile/Rich Content Tile Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {22F452B5-451B-43A1-8139-DE1368EEC16D}
+    {7C637952-371E-4F6A-9078-F3B67399E814}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dac9006b-611b-4fdb-9837-0259c7c2bb0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220406T085019Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "8351d218-a7dd-404c-85dc-cc4f38dcecc1"
+Parent: "60bf2583-776c-4746-93b8-0d5b787aebc5"
+Template: "78eaf4cb-0300-4ecd-be80-3a1afdd4fe32"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 3/Pennington Home/Data/Image Gallery Data/Image Gallery List Item 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "100dd90d-1e9c-44b4-a8ce-35ea4bcc2f1a"
+      Hint: Image
+      Value: |
+        <image mediaid="{D41C563F-8129-4F20-BDD6-F12C8E83A4ED}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T091936Z
+    - ID: "43744896-2016-4a47-8200-4a43438399e2"
+      Hint: Title
+      Value: "Photo credit: USDA APHIS PPQ - Imported Fire Ant Station , USDA APHIS PPQ, Bugwood.org (CC BY 3.0 US)"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e6f464a8-a472-4a3e-be10-faba178c86a1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220225T114808Z

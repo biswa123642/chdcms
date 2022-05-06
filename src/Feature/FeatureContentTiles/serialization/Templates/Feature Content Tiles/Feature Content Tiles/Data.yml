@@ -1,0 +1,23 @@
+﻿---
+ID: "fa586b13-cd16-4227-8cbc-d008bb6be9bf"
+Parent: "c09ac6c9-6478-4ab7-87c9-ce5e87bbad79"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/OneWeb/Feature Content Tiles/Feature Content Tiles/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T084259Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db5b937e-4e15-47ad-909e-6593f9dd6e75"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T123508Z

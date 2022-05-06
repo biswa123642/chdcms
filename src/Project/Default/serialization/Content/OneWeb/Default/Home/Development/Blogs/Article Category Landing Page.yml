@@ -1,0 +1,23 @@
+﻿---
+ID: "1675a122-b9b7-4af7-8b97-e41ae5bd2169"
+Parent: "6b6b9890-0827-41be-98bd-ac9e7490a2bd"
+Template: "4c358b66-2bc5-44df-88a6-888a0c502e1d"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Blogs/Article Category Landing Page
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T194648Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0828bb19-2467-492e-85ae-b32d24f9263d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T194648Z

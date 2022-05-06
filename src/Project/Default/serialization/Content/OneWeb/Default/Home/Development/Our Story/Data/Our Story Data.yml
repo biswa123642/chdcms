@@ -1,0 +1,37 @@
+﻿---
+ID: "7008ea40-0d7a-4c7d-99f6-fdd8a52ac1d6"
+Parent: "46bf1ded-78a7-4d73-87a2-acd531a62da9"
+Template: "c4b001be-3e9e-4223-a779-edffa214cf7c"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Our Story/Data/Our Story Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T135735Z
+    - ID: "68bcf622-80b6-491b-b32d-e82628a494c2"
+      Hint: Description
+      Value: |
+        Some people look at a lawn as a place that requires mowing, edging, seeding, fertilizing, and more – in short, as a chore. At Pennington we see it as an outdoor living space for making unforgettable memories, and we’re dedicated to ensuring that your lawn is ready for any occasion.
+        
+        We’ve been at this for a long time, beginning in 1945 as a small seed store on Main Street in Madison, Georgia. We’re proud that Brooks Pennington Sr.’s spirit of entrepreneurship is still with us today, and this drives us to make the finest grass seed, soil amendments, fertilizers, and wild bird seed that money can buy.
+        
+        From baseball games, parties, water balloon fights or playing fetch with the family dog, millions of homeowners have relied on Pennington to set their lawns and gardens as the stage for lifelong memories.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8d61117-f06e-4fbc-9577-41b4ca85f365"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c9b09348-d8a1-410c-8459-70d48133f548"
+      Hint: OurBrands
+      Value: "{2383AA8B-430C-4663-BF8D-AF7BB05673F6}|{40F83BC4-D340-4A5F-92A5-856ACB595E6F}|{841A05F4-300D-451D-A437-6E423391504A}|{D1850FFD-B953-4447-AB7F-842B1474595C}"
+    - ID: "cc29d53e-eac8-4871-85ef-7bbf8977d3a4"
+      Hint: Title
+      Value: OUR STORY
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T140018Z

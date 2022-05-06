@@ -1,0 +1,31 @@
+﻿---
+ID: "0698216d-95a9-48d3-a602-65de787438d6"
+Parent: "f4c559fa-2eb2-4beb-97e0-890408d6878c"
+Template: "5a6bf1d1-836b-425a-a6e6-32ceaa8ff3a5"
+Path: /sitecore/content/OneWeb/Default/Settings/Browser Title
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{12A17CEC-78BC-4444-8F11-C1F8F6AFEF93}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113212Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85d33b9a-19b7-4588-b4d8-4d765fb726f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113212Z

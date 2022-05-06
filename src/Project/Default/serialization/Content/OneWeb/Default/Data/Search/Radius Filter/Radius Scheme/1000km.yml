@@ -1,0 +1,44 @@
+﻿---
+ID: "5e3357f7-75ad-4c49-85d6-a630c2d397d4"
+Parent: "297cc154-8618-4e01-a9f8-2e7b6ac74021"
+Template: "ea45c3ad-8e63-4e2a-bcc0-9e4c06f2aa12"
+Path: /sitecore/content/OneWeb/Default/Data/Search/Radius Filter/Radius Scheme/1000km
+SharedFields:
+- ID: "4f892959-fde6-4020-8569-2cf934ba412c"
+  Hint: Value
+  Value: 1000
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{20FCCAC1-598C-4899-8B15-839F3A897956}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113219Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
+      Hint: Title
+      Value: 1000km
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cb52624-38d8-4fa5-ac96-0105ad6de716"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113219Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "f5bfc41f-2a67-4ea8-bf5f-880b086b3e9e"
+Parent: "445c89d5-36fa-43aa-baec-122e5f7553a2"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Utility Navigation/Social Links/Section/Scriban/Icon
+SharedFields:
+- ID: "4a997ffd-136b-409e-8dc9-fde53ac545a3"
+  Hint: IsLink
+  Value: 2
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: class=%24%28IconClass%29
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220302T085309Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cfff8d87-f570-42e3-90a3-3570e1d56261"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220302T101424Z

@@ -1,0 +1,46 @@
+&.with-text {
+    .wrap {
+        .field-herobannertitle {
+            background-color: $dark-color;
+            text-align: left;
+            padding: 25px;
+
+            h1 {
+                margin-bottom: 3.7vw;
+                line-height: 1.1;
+                font-size: 9.3vw;
+            }
+            p {
+                font-size: 4.3vw;
+            }
+        }
+        @include respond-to(mobile-horizontal) {
+            padding-top: 100%;
+            .field-herobannertitle {
+                top:auto;
+                bottom:0;
+                -webkit-transform: translateY(0);
+                transform: translateY(0);
+            }
+        }
+        @include respond-to(mob-horizontal) {
+            .field-herobannertitle {
+                background-color: rgba(35, 31, 32, 0.75);
+                -webkit-clip-path: none;
+                clip-path: none;
+                top: 47.15%;
+                right: 9.3%;
+                width: 40%;
+                left: auto;
+                padding: 1.26%;
+                h1 {
+                    margin-bottom: 0.7vw;
+                    font-size: 3.7vw;
+                }
+                p {
+                    font-size: 1.418vw;
+                }
+            }
+        }
+    }
+}

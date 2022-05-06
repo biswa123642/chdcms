@@ -1,0 +1,105 @@
+﻿---
+ID: "e5afa6b2-7997-4227-9790-87039ae8b44b"
+Parent: "6f67afb5-19d1-44ad-916d-d3628915501d"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Multi Column Content Tiles/TwoColBanner/Wrapper/Row/Scriban
+SharedFields:
+- ID: "7b5b7e8d-e579-44aa-8174-d4594db0c2f9"
+  Hint: CssClass
+  Value: 
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{textAlign=sc_parameter "TextAlign"}}
+    {{imageAlign=sc_parameter "ImageAlign"}}
+    {{backgroundColor=sc_parameter "Background"}}
+    {{renderingClass = sc_parameter 'GridClass'}}
+    {{showOverlayFlag=sc_parameter "ShowOverlay" | string.contains "1"}}
+    {{if showOverlayFlag == true
+    showOverlay = "show-tile-overlay"
+    end}}
+    
+    {{ for child in i_item.Children 
+    
+     sc_editframe i_item 'Custom List'}}
+    <div class="col col-12 col-md-6  {{renderingClass}} {{textAlign}} {{imageAlign}} {{showOverlay}}" >
+    {{ sc_execute child "Section"}}
+    
+    
+    </div>
+    {{sc_endeditframe
+    
+    
+     end}}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T142042Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1cd19dcb-a3c0-4e60-8ea5-b86e3ec2d0d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220225T124209Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T142042Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1cd19dcb-a3c0-4e60-8ea5-b86e3ec2d0d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220225T124209Z
+  - Version: 3
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T142042Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b74b526-5e25-471b-b68a-5b1ceeeb53de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220307T114205Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "5b0becd4-3533-48d4-81d2-b47cfeda77cc"
+Parent: "e36be16d-1f09-4d85-9f18-4c4fafe390b1"
+Template: "3e53ac1b-65e8-4ae2-8c5b-8baf9c3d655e"
+Path: /sitecore/content/OneWeb/Default/Data/Search/Sort Results/Default/Title Desc
+SharedFields:
+- ID: "c95b7bad-fa93-41f0-82de-c2c2bf0a0e89"
+  Hint: Facet
+  Value: "{A7B29C15-D53A-457E-A462-F46AD7436C94}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{51206C99-3DD6-497B-A147-8D65ABFAEB86}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113219Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1498813c-fe21-4e15-bb43-e405e4af91dd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113223Z
+    - ID: "f3b01c7d-bd46-4972-ab13-4c9c95c4f23d"
+      Hint: Title
+      Value: Title Desc

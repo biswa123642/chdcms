@@ -1,0 +1,45 @@
+﻿---
+ID: "e6ea8516-55ed-4611-a45f-46edb4666f46"
+Parent: "84347fcc-f1ce-41b4-8a06-017db7167bc7"
+Template: "a14d9266-1924-4e7f-87cc-760e2f8429ce"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Feature Content Tiles/Data/Grid view image with or without CTA/Feature Content Tile item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220204T085717Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "56e00b83-fc40-44eb-8d42-cbbba12722fa"
+      Hint: IsCTAButton
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a2074f16-e7e4-40ee-87fc-36fa65092d68"
+    - ID: "ac0ef552-e2a9-4e8f-8942-4b8ab5061e4b"
+      Hint: CTA
+      Value: |
+        <link text="Learn A Bit More" linktype="external" url="https://www.google.co.in/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d140070d-9058-400a-82ca-36aee31966d5"
+      Hint: Image
+      Value: |
+        <image mediaid="{8429F323-AFA4-4D26-AA73-D70FCBC9AEEB}" ></image>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220204T102432Z

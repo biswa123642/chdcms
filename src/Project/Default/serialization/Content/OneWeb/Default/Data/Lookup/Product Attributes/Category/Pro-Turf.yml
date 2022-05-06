@@ -1,0 +1,26 @@
+﻿---
+ID: "e0264648-9227-4ed7-b81d-7b6aab03630c"
+Parent: "7e298771-454c-425b-8c4c-9b580045147d"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: "/sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Category/Pro-Turf"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T123210Z
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: "Pro-Turf"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f403c6fd-ceeb-4060-9f56-8d2b8cf8a9be"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T123210Z

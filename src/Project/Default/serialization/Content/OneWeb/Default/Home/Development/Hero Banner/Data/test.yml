@@ -1,0 +1,37 @@
+﻿---
+ID: "b48cc936-cc39-4ee0-b655-f68f97d65a0d"
+Parent: "fde0a0e1-6b0a-4edc-a5ba-002ddd39805c"
+Template: "f3e6da4e-5d19-49b8-9737-2ee2e9067757"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Banner/Data/test
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{919C5607-1DAA-454D-AFFC-2EAD7D74A7FF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220131T075320Z
+    - ID: "2f396e45-5464-485c-a98c-091f8848fb6a"
+      Hint: HeroImageDesktop
+      Value: |
+        <image mediaid="{D93D16C1-3A91-48EC-88F5-A01D0F7E4125}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71f4ce85-d5cd-4ca1-844a-c9a8c1ac614f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c4294fa3-7849-4f74-bdbe-0fee45ae32fe"
+      Hint: HeroBannerTitle
+      Value: asasdas asd a
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220131T075603Z

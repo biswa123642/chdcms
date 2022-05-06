@@ -1,0 +1,49 @@
+﻿---
+ID: "f69cd216-ef24-41af-9bda-3e9a87f7e1ce"
+Parent: "9c8c8c1d-0f2e-4203-afdb-369b04190d51"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Hero Carousel/Default Hero Carousel Variant/$name/Default/Rendering Parameter/Carousel Wrapper/Slide Container/Section/Query/Edit Frame/Slide Overlay Card/Section/Slide Card CTA
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{flag=i_item.IsSlideCardCTAButton | string.contains "1" }}
+    
+    {{if flag==true}}
+    <div class = "CTA Button class">
+    {{sc_field i_item 'SlideCardCTA'}}
+    </div>
+    {{else}}
+    <div class = "CTA Link">
+    {{sc_field i_item 'SlideCardCTA'}}
+    </div>
+    {{end}}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220127T103914Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e3e688c-9864-4869-97a6-d0d7abe104a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220127T110146Z

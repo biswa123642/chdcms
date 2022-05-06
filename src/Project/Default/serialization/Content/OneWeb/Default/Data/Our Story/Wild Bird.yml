@@ -1,0 +1,37 @@
+﻿---
+ID: "841a05f4-300d-451d-a437-6e423391504a"
+Parent: "3f4952a0-d365-4e55-915a-9c43431ec706"
+Template: "89d040b7-105e-42ba-ab77-40b955bf1497"
+Path: /sitecore/content/OneWeb/Default/Data/Our Story/Wild Bird
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T135236Z
+    - ID: "40761a54-86ff-42e9-8a58-8ec4823a95bf"
+      Hint: SubTitle
+      Value: Wild Bird
+    - ID: "88626934-cbf9-42ec-9278-5e67819ff269"
+      Hint: BrandDescription
+      Value: For nearly 60 years Pennington has sold scientifically formulated blends for your backyard birds.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f67f85c7-d14d-4b75-afa8-2a83ce5e7904"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220422T052317Z
+    - ID: "da855756-75ea-4220-b5cd-bcaabe9ef7d0"
+      Hint: BrandLogo
+      Value: |
+        <image mediaid="{55F92106-6BAB-4D03-ADC5-CB7F6488AA51}" />
+    - ID: "f83550c0-3d8d-4626-af31-d9840375ee0d"
+      Hint: CTA
+      Value: |
+        <link text="ABOUT" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

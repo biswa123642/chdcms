@@ -1,0 +1,35 @@
+// bordered
+&.variant-1 {
+    .item {
+        border-bottom: 1px solid $accordion-border;
+        &:last-child {
+            border-bottom: none;
+        }
+        &.active {
+            .toggle-header {
+                .field-heading {
+                    &::before {
+                        transform: rotate(90deg);
+                        top: 20%;
+                    }
+                }
+            }
+        }
+    }
+    .toggle-header {
+        .component {
+            .field-heading {
+                &:before {
+                    @include fa-icon();
+                    display: block;
+                    content: $fa-var-angle-right;
+                    opacity: .8;
+                    position: absolute;
+                    top: 50%;
+                    left: .5rem;
+                    transform: translateY(-50%);
+                }
+            }
+        }
+    }
+}

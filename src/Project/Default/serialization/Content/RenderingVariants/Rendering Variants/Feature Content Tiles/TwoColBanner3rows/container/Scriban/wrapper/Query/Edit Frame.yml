@@ -1,0 +1,31 @@
+﻿---
+ID: "0c431ad5-9f4a-4241-b9c9-100048452c8e"
+Parent: "c93837bc-f5a0-403f-a2fb-76cf976266d6"
+Template: "98e1c490-65e2-4f23-a4fd-d2d496cb387b"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Feature Content Tiles/TwoColBanner3rows/container/Scriban/wrapper/Query/Edit Frame
+SharedFields:
+- ID: "0a98d4be-ed1c-4388-b156-5b586c0ba10a"
+  Hint: Buttons
+  Value: Custom List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T234911Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "39d073de-4274-4885-8e9b-4aa80da99a04"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T234914Z

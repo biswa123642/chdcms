@@ -1,0 +1,42 @@
+﻿---
+ID: "998add2c-b6cb-426e-be08-813a4f6d6dda"
+Parent: "70daa9b4-eed7-4e3e-b2b7-2583e4a78820"
+Template: "a14d9266-1924-4e7f-87cc-760e2f8429ce"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Feature Content Tiles/Data/4 column layout with image CTA/Feature Content Tile item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T103538Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b7d8511-9715-4e71-9631-257ede6f3aa5"
+    - ID: "ac0ef552-e2a9-4e8f-8942-4b8ab5061e4b"
+      Hint: CTA
+      Value: |
+        <link linktype="external" url="https://www.google.co.in/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d140070d-9058-400a-82ca-36aee31966d5"
+      Hint: Image
+      Value: |
+        <image mediaid="{319B9E4B-C591-4812-AB7D-DDBC75BA746B}" ></image>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220209T123527Z

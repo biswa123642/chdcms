@@ -1,0 +1,15 @@
+&.with-title-top {
+    text-align: center;
+    .hero-banner-title {        
+        padding: 15px 0px;
+        h1,h2,h3,h4{
+            display: inline-block;
+            vertical-align: middle;
+        }
+
+        img {
+            display: inline-block;
+            vertical-align: middle;
+        }
+    }
+}

@@ -1,0 +1,59 @@
+﻿---
+ID: "809d9595-5fe1-4049-b149-9ba119c7e427"
+Parent: "0ffb182c-bdde-49e7-a895-d3250dfacba1"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Data/Texts/About Us/Keeping Pets
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220420T095451Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07bfa130-9812-4b06-8793-bc1cb8fa65e1"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="about-us-wrapper"><img alt="l" src="-/media/2EA71B14D19240789A2A764E568E44FB.ashx" />
+        </div>
+        <div class="body-copy">
+        <div class="body-title">
+        <h1>
+        Keeping Pets Happy, Healthy, and Clean for Over 50 Years
+        </h1>
+        </div>
+        <div class="body-description">
+        <p> As pet parents ourselves, everything we do at Four Paws is centered around one
+        thing: helping fellow pet parents and their furry friends live their best lives together.
+        </p>
+        <p>Our team of dog &amp; cat lovers designs simple yet innovative pet products to take
+        the guesswork out of caring for your best friend. We help you master potty time, conquer shedding
+        season, and even keep your pet's gut health in check so you can focus on the fun stuff, like
+        neighborhood walks and quality couch time.</p>
+        <p>Ever since creating Wee-Wee<sup>&reg;</sup> Pads&mdash;America's original trusted
+        pads-back in 1970, we've spent more than 50 years providing pet parents like you the most reliable
+        solutions to keep pets<span> <strong>happy, healthy, and
+        clean</strong></span>.</p>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220420T122552Z

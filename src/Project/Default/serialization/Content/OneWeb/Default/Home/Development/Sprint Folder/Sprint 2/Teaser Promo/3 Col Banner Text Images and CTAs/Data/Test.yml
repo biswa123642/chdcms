@@ -1,0 +1,65 @@
+﻿---
+ID: "7100f68f-c023-4753-9988-450887e9c341"
+Parent: "753083f3-9f23-4f18-b400-81fcdb0b290e"
+Template: "d1070ed7-b4f7-4c03-b622-f9b5fb072dea"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Teaser Promo/3 Col Banner Text Images and CTAs/Data/Test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T104058Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68a9ed16-a3b4-4b4f-b9e8-7b5585772a62"
+      Hint: SecondCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "6e2daeb3-ffb0-49a7-a1ed-ff96fe9e2f95"
+      Hint: FourthCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "7cf24deb-783d-4e7a-be2d-1c5410b73c66"
+      Hint: FirstCTA
+      Value: |
+        <link text="GET STARTED" anchor="" linktype="internal" class="" title=""  querystring="" id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" />
+    - ID: "81651106-4b95-4713-84df-90a36c488b2f"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{37A207F2-A72A-47B9-A52D-F3A169223F1B}" />
+    - ID: "84b5c8d1-65b8-4b4c-abed-5b515209bced"
+      Hint: CTAIconTwo
+      Value: |
+        <image mediaid="{38E72D01-C0C9-41DC-8E82-44955449239A}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a04b2b0-13f7-41f9-99e8-f0e409b40274"
+    - ID: "9915b896-f39e-4a8e-94bc-1a89cd147b04"
+      Hint: CTAIconOne
+      Value: |
+        <image mediaid="{99E00856-FDF6-46C4-8F75-3FD85AB1C2FF}" ></image>
+    - ID: "9fd53b32-f6f3-484c-b662-d9a1b2013a0d"
+      Hint: Description
+      Value: Answer a few simple questions and we&rsquo;ll recommend a pest control solution.&nbsp;
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca6a3070-03e0-47cf-ba54-c58f83c49cfa"
+      Hint: Title
+      Value: GET A PERSONALIZED PEST CONTROL SOLUTION IN SECONDS
+    - ID: "d5db3ec5-82d2-4995-b094-d53b8d029187"
+      Hint: ThirdCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220221T110307Z

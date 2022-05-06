@@ -1,0 +1,41 @@
+﻿---
+ID: "235b2f8e-214d-4fc1-9847-645a90714e3b"
+Parent: "aa89c505-f51a-40f3-9c0d-50d3575b99f3"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Feature Content Tiles/TwoColBanner3rows/container/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{flag= i_datasource.IsMobileCarousel | string.contains "1" }}
+    {{ if flag==true}}
+    	<div class="section-container is-mobile-carousel">
+    			{{ sc_execute i_item "wrapper" }}
+    	</div>
+    {{ else}}
+    	<div class="section-container">
+    			{{ sc_execute i_item "wrapper" }}
+    	</div>
+    {{ end }}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T234816Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ba1bd68-54d1-4b56-a46f-d4b8449c47a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T234820Z

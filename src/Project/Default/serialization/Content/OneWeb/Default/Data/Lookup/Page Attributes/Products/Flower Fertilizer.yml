@@ -1,0 +1,29 @@
+﻿---
+ID: "558e1187-aa2b-4411-95cc-c682acc3a046"
+Parent: "59e90bc9-a31d-4f6e-a601-8772cbd3d425"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Page Attributes/Products/Flower Fertilizer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T131120Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Flower Fertilizer
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Flower Fertilizer
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d560178-9376-4780-8143-3662754c6b64"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T131120Z

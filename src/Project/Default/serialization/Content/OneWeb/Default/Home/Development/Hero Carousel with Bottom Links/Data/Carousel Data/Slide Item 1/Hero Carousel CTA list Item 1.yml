@@ -1,0 +1,44 @@
+﻿---
+ID: "2f2b9269-a675-4632-9f89-6b2b5d2d2d1c"
+Parent: "e22ea1d4-ea3a-4281-9b0e-9984152a63cd"
+Template: "0c9bae31-9786-43ca-93fd-de3ef38a85d4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Carousel with Bottom Links/Data/Carousel Data/Slide Item 1/Hero Carousel CTA list Item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0FB13E06-F828-48D0-B4B6-A85C28399E89}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08376f75-ec67-4014-9916-44c83984ca8c"
+      Hint: Image
+      Value: |
+        <image mediaid="{9A4B1505-5201-459B-BD0E-FA48B55F6693}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T180933Z
+    - ID: "6c57b94a-e1ca-4e14-88be-5bf27a3b363f"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4a2e4b89-3ea3-4bfe-a4cb-98e4bee4418b"
+    - ID: "8f33dbfa-cb0e-45d5-a7aa-5256ce6d1175"
+      Hint: CTA
+      Value: |
+        <link id="{DFBF3658-FAC8-499D-9C41-0490D1CEDB13}" querystring="" text="" anchor="" title="" class="" url="/OneWeb/Default/Home/Development/Hero Banner/Data/Hero Banner with carousel/Hero Banner CTA list Item 1" linktype="internal" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c5cff45a-e3d7-4944-a938-29d1b9cba345"
+      Hint: FetchDataFromCTAListTargetItem
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T085842Z

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<Sitecore>
+		<IdentityServer>
+			<Clients>
+				<!-- used to authenticate servers with client id and client secret -->
+				<CliServerClient>
+					<ClientId>CGP_Automation</ClientId>
+					<ClientName>CGP_Automation</ClientName>
+					<AccessTokenType>0</AccessTokenType>
+					<AccessTokenLifetimeInSeconds>3600</AccessTokenLifetimeInSeconds>
+					<IdentityTokenLifetimeInSeconds>3600</IdentityTokenLifetimeInSeconds>
+					<RequireClientSecret>true</RequireClientSecret>
+					<AllowOfflineAccess>false</AllowOfflineAccess>
+					<AllowedGrantTypes>
+						<!--
+                    client_credentials authenticates with client ID and client secret
+                    which is good for CI, tools, etc. However, it's not tied to a USER,
+                    it's tied to a client ID.
+						-->
+						<AllowedGrantType1>client_credentials</AllowedGrantType1>
+					</AllowedGrantTypes>
+					<ClientSecrets>
+						<ClientSecret1>cb6642bc88ae638399c36cbf2e292c3f090ee218ec01a9699712edd0f6a992d0</ClientSecret1>
+					</ClientSecrets>
+					<AllowedScopes>
+						<!-- this is required even if not a 'user' for Sitecore to like us -->
+						<AllowedScope3>sitecore.profile.api</AllowedScope3>
+					</AllowedScopes>
+				</CliServerClient>
+			</Clients>
+		</IdentityServer>
+	</Sitecore>
+</Settings>

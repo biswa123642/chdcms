@@ -1,0 +1,44 @@
+﻿---
+ID: "2a4f989e-5f52-48f3-a578-35a8357cbb43"
+Parent: "8f0725f0-4165-4ae1-bf4a-2e40c5e93bd5"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Hero Carousel/CarouselWithCard/Div/SlideWrap/Slides/Div/EditSlideImage/Slide/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{overlayAlign=sc_parameter "OverlayAlign"}}
+    {{flag= i_item.HideSlideOverlayCard.raw | string.contains "1" }}
+    {{ if flag==false}}
+    <div class = "container" >
+        <div class = "body-copy {{overlayAlign}}">
+        {{ sc_execute i_item "Container" }}
+        </div>
+    </div>
+    {{ end }}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220127T103011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40f993ae-630f-49a3-af4e-35b271c3ba30"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220419T101000Z

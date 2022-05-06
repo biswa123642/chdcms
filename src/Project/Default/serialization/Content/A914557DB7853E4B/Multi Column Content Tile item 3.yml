@@ -1,0 +1,48 @@
+﻿---
+ID: "c3985f0d-c7c9-42a3-8386-d37b9aa302f8"
+Parent: "2c6f2a6a-ccc3-4753-a89f-db44e1932f15"
+Template: "2f7bfe05-bdd4-47ad-844f-3e3997eda6b4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Multi Column Content Tiles/3ColTileGridWithBtn/Data/3 Col Tiles With Text CTA and Button/Multi Column Content Tile item 3
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E049E519-7377-49EE-98D1-1D989548A85A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T145605Z
+    - ID: "3e9b4d48-d3be-48a0-a917-cd07b2be2d54"
+      Hint: Title
+      Value: IR Contacts
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "893add51-d3da-46a7-a026-1aaafd69370d"
+      Hint: IsCTAButton
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ddfb7005-ac49-47ed-99d8-9498121d45ac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220304T094828Z
+    - ID: "dc6fb3d9-f446-4657-84aa-7445c6ce5d9d"
+      Hint: SubText
+      Value: "View common investor-related contact information."
+    - ID: "e14eb220-b69e-4d99-a279-7666a732a16b"
+      Hint: CTA
+      Value: |
+        <link text="VIEW IR CONTACTS" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

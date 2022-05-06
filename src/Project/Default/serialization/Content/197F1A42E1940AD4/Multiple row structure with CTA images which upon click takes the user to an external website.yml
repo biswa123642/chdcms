@@ -1,0 +1,45 @@
+﻿---
+ID: "e143b268-17e1-4b1f-8c41-243d6b7291c2"
+Parent: "f4aa3810-2cfc-4618-b24a-e82d0d3a7165"
+Template: "c09ac6c9-6478-4ab7-87c9-ce5e87bbad79"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Feature Content Tiles/Data/Multiple row structure with CTA images which upon click takes the user to an external website
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{A14D9266-1924-4E7F-87CC-760E2F8429CE}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2BC9BF9A-60B4-444B-B1EE-B09F3D9AAF3A}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 3 Row Images
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T104026Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78841c6c-ffc2-4792-a4a4-e1520ca59a68"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220218T091017Z
+    - ID: "ebfc8685-4940-4f8b-ad0f-1db52342c60f"
+      Hint: Heading
+      Value: FOR SANTA'S XL HELPERS

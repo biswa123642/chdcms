@@ -1,0 +1,29 @@
+﻿---
+ID: "5aa5110b-77f1-48b7-a511-4d354a9dfc60"
+Parent: "ac806b5f-2418-44dd-bd85-c715495d5d22"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Marketing/Brand/Lilly Miller
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T131412Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Lilly Miller
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Lilly Miller
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2220aed8-e5fb-4037-932e-7ef903c512b3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T131412Z

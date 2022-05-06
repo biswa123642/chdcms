@@ -1,0 +1,31 @@
+﻿---
+ID: "f479b117-9885-4cc8-9ac6-6b94f2ba5fcf"
+Parent: "6d8abf64-9fe7-4c5f-8c01-3d66a4be9525"
+Template: "bf70a40b-6d0e-4639-9862-24bb8946094b"
+Path: /sitecore/templates/Branches/Feature/OneWeb/SEO/Available Page Script Renderings/$name
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: "{42D8B60B-8BF1-4A30-979B-8F1A298BC1EB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b74e0ece-f29a-44dd-ac4a-9e048be1a3d3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T065009Z

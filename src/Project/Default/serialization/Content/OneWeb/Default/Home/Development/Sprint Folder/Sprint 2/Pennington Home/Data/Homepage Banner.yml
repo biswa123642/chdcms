@@ -1,0 +1,36 @@
+﻿---
+ID: "ad2d58b9-37e2-4710-b099-e423dba9ebe3"
+Parent: "f8622c05-494b-4275-aff4-961da9630f70"
+Template: "f3e6da4e-5d19-49b8-9737-2ee2e9067757"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Pennington Home/Data/Homepage Banner
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{919C5607-1DAA-454D-AFFC-2EAD7D74A7FF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220208T125036Z
+    - ID: "2f396e45-5464-485c-a98c-091f8848fb6a"
+      Hint: HeroImageDesktop
+      Value: |
+        <image mediaid="{7A7FB697-5023-4524-B963-E566E0D68142}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a4f259b6-a799-4db1-b9cc-241bff983ab1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c4294fa3-7849-4f74-bdbe-0fee45ae32fe"
+      Hint: HeroBannerTitle
+      Value: |
+        <h1>GROUNDBREAKING PRODUCTS</h1>
+        <p>With over 75 years of experience, Pennington has become a trusted source for smart yard solutions.</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T123819Z

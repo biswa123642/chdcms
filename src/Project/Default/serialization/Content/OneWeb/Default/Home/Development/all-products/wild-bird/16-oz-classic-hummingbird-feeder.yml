@@ -1,0 +1,70 @@
+﻿---
+ID: "4a27b0a3-df14-4a08-9104-c78eea5b97b2"
+Parent: "f3d29e24-17e9-4129-b1d6-14656c8910e4"
+Template: "bc41b87d-2a9b-4689-9f51-80bb5b31a6e7"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/all-products/wild-bird/16-oz-classic-hummingbird-feeder"
+BranchID: "a4769d60-a7c4-4208-92d0-2d76fbbc062f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{452AB8E8-4711-4795-9C63-06FE6A1BB927}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02a41838-168c-4858-bafd-f0031b877ddc"
+      Hint: Product Attributes
+      Value: |
+        {E322DD58-53FC-41F7-8728-F1E7D77723D9}
+        {60E6E312-4347-497C-8E79-770820105C77}
+        {ED49DBCA-2B86-4E42-B913-7E1023AACC10}
+        {0E335816-2AF0-4B06-8106-A5A3CA3F8396}
+        {36800472-5FFB-44BD-9692-B49FCC942A6F}
+        {D418BFFB-8D20-4891-BFE8-F1B990EF2E2F}
+        {A69AC789-4AAB-4C5B-A080-1A52DD274CFE}
+        {A7B1B0D6-1164-4B71-B148-8159DD4B0923}
+    - ID: "1e2f8b03-c529-4fee-8663-5ec9f6b6a701"
+      Hint: Secondary Categories
+      Value: |
+        {F3D29E24-17E9-4129-B1D6-14656C8910E4}
+        {24896F38-033B-45AE-8067-7544FFD64FF2}
+        {66D993EB-90C0-4243-8C11-05787214F786}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T133802Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "16-oz-classic-hummingbird-feeder"
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: "16-oz-classic-hummingbird-feeder"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ff7f3b8-82ea-498c-a4a0-6a24a8870b54"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bf945509-c1bf-4ba9-8f06-f3bdfad2f742"
+      Hint: Search Facet Attributes
+      Value: |
+        {16365DAD-1CAA-474A-A7E2-CF765C3CB35F}
+        {3F4708E6-44D7-41C6-B3AB-29CC5AB283DB}
+        {59E90BC9-A31D-4F6E-A601-8772CBD3D425}
+        {F3DDDA23-9520-490E-80A2-B676945176E8}
+    - ID: "caaa6c5b-798c-4d26-8919-fe66d620f798"
+      Hint: Page Attributes
+      Value: |
+        {79148D6E-A331-4065-96F8-39CBAFEDFF00}
+        {D6EE426B-B745-4192-A8B5-7174C0DB1F2C}
+        {7D0B7C64-84E0-44C4-924C-2650692F7ED9}
+        {DA585AAB-0B92-49C8-B63F-9AD1DA13F2D4}
+        {041B96E0-9977-4EAC-9E00-3A54AA54C551}
+        {0CCB0E6C-FA75-4EA1-8AE8-184FDBC7B5CE}
+        {E79F66A9-8AE5-4C1D-B749-AF45BA657881}
+        {28029D34-5B80-43FA-8702-8376B6768E6C}
+        {2F57F48F-8C04-44AC-9F23-F74DBFE28A44}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T141241Z

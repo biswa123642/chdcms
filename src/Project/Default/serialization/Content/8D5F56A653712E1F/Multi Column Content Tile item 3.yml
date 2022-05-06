@@ -1,0 +1,53 @@
+﻿---
+ID: "3f0296ee-93e7-4b3d-a2f1-fdc94e6ee58e"
+Parent: "e56df044-2086-4945-80c8-943bb8347daf"
+Template: "2f7bfe05-bdd4-47ad-844f-3e3997eda6b4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Multi Column Content Tiles/TwoColBanner/Data/Banner with two column structure/Multi Column Content Tile item 3
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E049E519-7377-49EE-98D1-1D989548A85A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "00eccf92-e5bd-4b05-81e9-7b7d3073f484"
+      Hint: Image
+      Value: |
+        <image mediaid="{FFB44D06-63FD-4431-A777-03102A410B05}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T125730Z
+    - ID: "3e9b4d48-d3be-48a0-a917-cd07b2be2d54"
+      Hint: Title
+      Value: We Strive To Be the Best
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "644efcea-8b92-4f91-b64c-2c19303c276c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220303T101019Z
+    - ID: "dc6fb3d9-f446-4657-84aa-7445c6ce5d9d"
+      Hint: SubText
+      Value: |
+        <ul>
+            <li>We lead our markets and measure ourselves internally &amp; externally</li>
+            <li>We are committed to operating excellence and continuous improvement</li>
+            <li>We challenge the status quo and embrace change</li>
+        </ul>

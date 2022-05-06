@@ -1,0 +1,23 @@
+﻿---
+ID: "dbc3ddda-34d9-4ea4-9b36-e379b5377ae6"
+Parent: "3fb7e17e-4aab-4802-b01d-a0bcbc4c2e92"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Hero Carousel/Default Hero Carousel Variant/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "968c2e64-2b18-4e85-a979-9ec837a49045"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T112440Z

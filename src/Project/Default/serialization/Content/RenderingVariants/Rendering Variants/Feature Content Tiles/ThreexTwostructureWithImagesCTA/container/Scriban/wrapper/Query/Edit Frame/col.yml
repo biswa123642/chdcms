@@ -1,0 +1,46 @@
+﻿---
+ID: "0b651d4e-8a2b-437f-ad2b-3d62e4252cee"
+Parent: "edad3404-f8b8-4d0f-b827-4edc5c37733a"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Feature Content Tiles/ThreexTwostructureWithImagesCTA/container/Scriban/wrapper/Query/Edit Frame/col
+SharedFields:
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: 
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{RenderingClass = sc_parameter 'RenderingClass'}}
+    <div class="inner-wrapper col col-12 {{RenderingClass}}">
+    
+    {{sc_execute i_item 'copy-wrap'}}
+    
+                         
+    
+    </div>
+    
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T112240Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd7217fb-33f2-4079-baf9-dd27d8f3d55b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220226T081818Z

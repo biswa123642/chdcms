@@ -1,0 +1,27 @@
+﻿---
+ID: "ccf034c4-cab4-450d-86a4-2e14795a4bc0"
+Parent: "b48cc936-cc39-4ee0-b655-f68f97d65a0d"
+Template: "0c9bae31-9786-43ca-93fd-de3ef38a85d4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Banner/Data/test/Hero Banner CTA list Item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0FB13E06-F828-48D0-B4B6-A85C28399E89}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220131T075322Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7cef9e4b-6c6f-4d7a-b473-d7ab95b46c72"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220131T075322Z

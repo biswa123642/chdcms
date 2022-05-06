@@ -1,0 +1,37 @@
+﻿---
+ID: "5c2ce6e4-46e8-4d27-b11e-2a562ba75e97"
+Parent: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: /sitecore/templates/Foundation/OneWeb/Lookups and Grouping/List Item/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220415T162243Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "625ad83f-89e1-491d-a827-b15025065f57"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T124033Z

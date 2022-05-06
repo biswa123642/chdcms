@@ -1,0 +1,27 @@
+﻿---
+ID: "c656aadf-c574-4a52-b195-e37042efb5c9"
+Parent: "364e4b17-7621-486c-9083-4269e7c8d208"
+Template: "364e4b17-7621-486c-9083-4269e7c8d208"
+Path: /sitecore/templates/Feature/OneWeb/Utility Navigation/Rendering Parameters/Utility Navigation/__Standard Values
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T104300
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "253bad18-389e-4e2c-9080-09ec51f6372c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T103801Z

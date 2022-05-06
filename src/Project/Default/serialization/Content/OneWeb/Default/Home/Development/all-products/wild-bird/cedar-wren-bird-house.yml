@@ -1,0 +1,64 @@
+﻿---
+ID: "a9121cc4-08b4-4f0b-9183-75a9e25becfc"
+Parent: "f3d29e24-17e9-4129-b1d6-14656c8910e4"
+Template: "bc41b87d-2a9b-4689-9f51-80bb5b31a6e7"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/all-products/wild-bird/cedar-wren-bird-house"
+BranchID: "a4769d60-a7c4-4208-92d0-2d76fbbc062f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{452AB8E8-4711-4795-9C63-06FE6A1BB927}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "02a41838-168c-4858-bafd-f0031b877ddc"
+      Hint: Product Attributes
+      Value: |
+        {E322DD58-53FC-41F7-8728-F1E7D77723D9}
+        {60E6E312-4347-497C-8E79-770820105C77}
+        {36800472-5FFB-44BD-9692-B49FCC942A6F}
+        {A7B1B0D6-1164-4B71-B148-8159DD4B0923}
+    - ID: "1e2f8b03-c529-4fee-8663-5ec9f6b6a701"
+      Hint: Secondary Categories
+      Value: |
+        {F3D29E24-17E9-4129-B1D6-14656C8910E4}
+        {24896F38-033B-45AE-8067-7544FFD64FF2}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T133906Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "cedar-wren-bird-house"
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: "cedar-wren-bird-house"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48a640db-59ee-4d0d-9db4-15b745791356"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bf945509-c1bf-4ba9-8f06-f3bdfad2f742"
+      Hint: Search Facet Attributes
+      Value: |
+        {16365DAD-1CAA-474A-A7E2-CF765C3CB35F}
+        {3F4708E6-44D7-41C6-B3AB-29CC5AB283DB}
+        {59E90BC9-A31D-4F6E-A601-8772CBD3D425}
+        {F3DDDA23-9520-490E-80A2-B676945176E8}
+    - ID: "caaa6c5b-798c-4d26-8919-fe66d620f798"
+      Hint: Page Attributes
+      Value: |
+        {B36E8422-3EBA-46FF-AF50-A2217A2DF544}
+        {7D0B7C64-84E0-44C4-924C-2650692F7ED9}
+        {DA585AAB-0B92-49C8-B63F-9AD1DA13F2D4}
+        {041B96E0-9977-4EAC-9E00-3A54AA54C551}
+        {0CCB0E6C-FA75-4EA1-8AE8-184FDBC7B5CE}
+        {E79F66A9-8AE5-4C1D-B749-AF45BA657881}
+        {28029D34-5B80-43FA-8702-8376B6768E6C}
+        {60E6E312-4347-497C-8E79-770820105C77}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T155410Z

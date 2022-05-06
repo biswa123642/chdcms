@@ -1,0 +1,43 @@
+{
+	"namespace": "Project.Default",
+	"references": [ "Project.Website"],
+	"items": {
+		"includes": [
+			{
+				"name": "MediaLibrary-Themes",
+				"path": "/sitecore/media library/Themes/OneWeb/Default",
+				"scope": "ItemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "MediaLibrary-Project-OneWeb",
+				"path": "/sitecore/media library/Project/OneWeb/Default",
+				"scope": "ItemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "Content",
+				"path": "/sitecore/content/OneWeb",
+				"rules": [
+					{
+						"path": "/Default/Home/QA",
+						"scope": "ignored"
+					},
+					{
+						"path": "/Default/Home/CentralTeam",
+						"scope": "ignored"
+					},
+					{
+						"path": "/Default/Presentation/Rendering Variants",
+						"alias": "RenderingVariants"
+					},
+					{
+						"path": "/Default",
+						"scope": "ItemAndDescendants",
+						"allowedPushOperations": "createUpdateAndDelete"
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,49 @@
+﻿---
+ID: "1158a2cd-d12b-4488-acc4-41ca682ca323"
+Parent: "0f2f7159-6bc8-46f9-9fad-81fcbb3cf7f1"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/OneWeb/Pennington/Pennington/images/radiobox
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1158A2CDD12B4488ACC441CA682CA323.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 32
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "408adc74-6651-4e0d-b59c-9efd9210160e"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACAAAAAPCAYAAACFgM0XAAACGElEQVR42pzUT4iOURTH8c8dNGYYU4aS2FmYSM3On9TIzkLJQrGhWGFjo0QSO6Ukm4katpRkQ6ZmIUrKYrIYMjWmkf8Zf8cM5rFw3unO0/OON7fe3nru/Z77O+f87klFUchXSmkRFmA+mtGGVxgtn82YDqzGfVTyRVGMVsJFUUz/sBi38Rbv8BpfMYVvuIyWCm4NrmN7I3zOpjyrlNJABLuKhzWNEWQHuiPQWnypsSkl2Ih7SLgyC/8bm/C8KAp5FoOxeVf9tTzaMRJlliUwGJlOYne5SnHuRNzxvsbXNvoC7vXv1YHPeFyHP403WJGLwCF8xPGchzlRpk9Rvkp/lAy4D+NorcPfxFi0Ck7hO/ZX8JZFgBv1Lq4Q0RR97cr5bL8Z/XgaphzGgSyBaX4u1sfHvgbK/9e5KU3FpS1lPvYnwgdDWIVtuJPFmEopFWhpwpIwxmTJVI2uGXyszhA0hA84UmtPVfy2cGVvlGbWFkSAFM+xq4JfiAdx+Ra04wcuZQJyHhwNU5xvUMCZcHJrie8Jdw9jZZbkZrzAhRBZ5okpNRZm7KwnBGej3D25L4KfiNews6JV3fiJgZxPYZraoYvYFaP0ZageiSe0FHui58dwLu9pSqkrSj8eI7iK3xv//dg6LSAbp7ABJ2OQtGMefoXrB3EQz0rZSykdxpPo92z8rZim12YIKIkom3Rd9O5RXKAs4H/5PwMAHXFyTLRPSdoAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 593
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 32 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T090849Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b62ba94d-1180-4f30-bd9d-35579b757a91"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T090851Z

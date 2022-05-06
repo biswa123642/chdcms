@@ -1,0 +1,47 @@
+﻿---
+ID: "bfa4189b-d3cf-49d7-900d-e5e27d2fb70a"
+Parent: "a94a1a4e-ea06-4dfc-8adc-0291bfd871bd"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/OneWeb/Default/Presentation/Available Renderings/Custom
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {13E3446D-E00F-4EB8-8BF6-F707EC8F04FA}
+    {F8E3B6D3-64C9-4ED0-8922-107BCA5FA411}
+    {31182E20-2590-4F8E-93E2-EE3CBAC58983}
+    {4BEF244C-0EB9-4DF8-BC2C-DEBE2256A2ED}
+    {7561DEB5-5388-4A43-A4CB-353078D32352}
+    {882F60C4-4A33-4995-AC39-C8FF97EE8F1D}
+    {912A01D9-28E7-460C-A154-C4AB75B0A150}
+    {8CECDF2B-DC7E-4E39-A959-94E68B752646}
+    {42D8B60B-8BF1-4A30-979B-8F1A298BC1EB}
+    {FA1295F4-457C-4CCC-83F2-E1AC81B3D659}
+    {28F481FC-631F-4BDF-9130-A2DA74164968}
+    {1A78A8D3-5F37-47DA-BD51-1835586142F1}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220401T100433Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e16a7496-3137-40ae-b645-ef5b304bdb8b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T085626Z

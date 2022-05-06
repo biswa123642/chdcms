@@ -1,0 +1,35 @@
+﻿---
+ID: "4207319f-514b-4994-8ce3-9101b3d777ba"
+Parent: "8725569f-c814-4192-8982-4eb9bbbe29db"
+Template: "0c9bae31-9786-43ca-93fd-de3ef38a85d4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Banner/Data/Hero Banner with carousel/Hero Banner CTA list Item 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08376f75-ec67-4014-9916-44c83984ca8c"
+      Hint: Image
+      Value: |
+        <image mediaid="{79E10F9E-1B9D-4EB6-8340-CD911F930996}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220126T153604Z
+    - ID: "6c57b94a-e1ca-4e14-88be-5bf27a3b363f"
+      Hint: Title
+      Value: |
+        <strong>Mosquito</strong> <br />
+        Control
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b8c4a4c-3434-49e7-9994-006b448898e8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220126T154600Z

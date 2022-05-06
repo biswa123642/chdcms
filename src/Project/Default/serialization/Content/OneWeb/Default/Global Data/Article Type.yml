@@ -1,0 +1,23 @@
+﻿---
+ID: "c1a2255d-f0aa-4c1d-b07f-b089f1d94afa"
+Parent: "80619c96-8415-40b9-9db1-f720be9b8b6a"
+Template: "56cd1fd7-4c8a-4e09-8593-742a11e6c372"
+Path: /sitecore/content/OneWeb/Default/Global Data/Article Type
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T075134Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f92318f5-58b6-40e3-935a-847ddbf29c13"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220323T075140Z

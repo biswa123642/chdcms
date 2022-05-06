@@ -1,0 +1,27 @@
+﻿---
+ID: "757a0775-e670-4221-8194-9fc10411fea2"
+Parent: "f8622c05-494b-4275-aff4-961da9630f70"
+Template: "74934602-d408-4df4-997a-7f735f9f7fab"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Pennington Home/Data/Homepage Carousel
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{6F9DBF72-AEAD-4C1B-A31A-5F22C311CB35}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220208T144401Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1e578802-782d-46ee-974f-5d374733b0c3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T144401Z

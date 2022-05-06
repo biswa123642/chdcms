@@ -1,0 +1,31 @@
+﻿---
+ID: "ed435145-f6d6-4946-89ad-60e30a4826f0"
+Parent: "f6dcc886-a59a-4e64-8743-0d5ef11a1573"
+Template: "98e1c490-65e2-4f23-a4fd-d2d496cb387b"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Feature Content Tiles/TilesGridWithImageCTA/Container/Scriban/wrapper/Query/Edit Frame
+SharedFields:
+- ID: "0a98d4be-ed1c-4388-b156-5b586c0ba10a"
+  Hint: Buttons
+  Value: Custom List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220204T111409Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82c8498b-3502-4c61-ba19-d16671786aa9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220204T111413Z

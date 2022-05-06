@@ -1,0 +1,23 @@
+﻿---
+ID: "90917b88-0871-4d9d-a23d-276e5bbce1b7"
+Parent: "9670782e-5045-4837-9893-bdb52b143e6b"
+Template: "cc092903-d4f7-424a-89f5-8957aa5a3f1d"
+Path: /sitecore/templates/Feature/OneWeb/Header Global Menu/Social Media Item Branch/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T112342Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77a817ee-4473-4828-acd4-01ccc4e92fb6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T112342Z

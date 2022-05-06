@@ -1,0 +1,50 @@
+﻿---
+ID: "52c67e39-a1f4-4a7b-bce6-7e3635d9095f"
+Parent: "12f39c5b-0433-4b54-bc9b-1a53b035dbb4"
+Template: "20a8b875-b660-4893-91a7-b05f80e94666"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Linked Thumbnail List/Data/Link 1/Link 1
+BranchID: "6f13e7ea-9dd6-4933-bebf-47cb659579f9"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AFB42433-6D01-4420-8E8F-5AA238B9A5B7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220408T150506Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8cf016ae-7e48-4d60-a88b-212d0aae40bf"
+    - ID: "8daa9cfe-2ab1-4f9a-86ac-b2092acc9fde"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.nylabone.com/products/brand/healthy-edibles-biscuits" />
+    - ID: "9a5ce26a-e5f7-4528-b319-d23a1be1eede"
+      Hint: Description
+      Value: Text 1
+    - ID: "b3524bdb-f8ec-4d85-a20b-ef5f2837d74f"
+      Hint: Image
+      Value: |
+        <image mediaid="{8653428A-1564-4234-8865-9514665E0A13}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220413T132217Z

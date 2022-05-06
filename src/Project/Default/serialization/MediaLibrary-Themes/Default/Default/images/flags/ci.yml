@@ -1,0 +1,49 @@
+﻿---
+ID: "a03ea387-169c-41b7-b2c8-83f4a8347ca0"
+Parent: "b1f83e38-e52d-4aca-baea-766465818004"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/OneWeb/Default/Default/images/flags/ci
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A03EA387169C41B7B2C883F4A8347CA0.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "49ae6da8-bcd7-4244-9596-561acb0c54b4"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAQJQTFRFAAAA3IYCArAC644BAb0B8ZEAAMIA8ZIA44oBAbcBuXMJCZUJ24UC6Y4F7ZEF7ZEF7ZUO7daz7e7w7e3t8e7xr+GvDMEMBb8FBcAFBbwFAq4C5YsB+JYB/ZkB/JkB/JwK/OS+/P7//Pz8//3/ue+5CMwIAcsBAcgBAbgB6IwA/JgAu/K7AMsAALoAALsA3YYB9JQB+pcB+ZcB+ZcA+ZoK+eG7+fv9+fn5/fr9t+y3CMoIAMkAAckBAckBAcQBAbEBtXEJz4AI1YQI1YQH1YcP1cGi1dbY1dXV2NbYnsqeDq4OB60HCK0ICKgICZIJ/5oA/54J/+bA////B88HAM0AB84HAZVFlwAAAE90Uk5TAAAAAAAAAAAAAAAACUdaWVlZWVlZWVlZWkcJSPP+/v79/v7+/f3+8kVZ/v79V1dH8/79/f39/f39/f39/f7yRQlHWFhYWFhYWFdYWFhGCaAlz8EAAAABYktHRFINYC2QAAAACXBIWXMAAABIAAAASABGyWs+AAAAgElEQVQY02NgwAYYeXj5+PkFBIWEhUVExcTFJSSlmBiYpWVk5eTkFRSVlJRVVNXU1NQ1WBhYNbX8/f0DAoOAQDs4JCRER5cNVTB0UAiyY7hTj42BQ9/A0MjYxNTM3NzC0sraxtbOnpOBy8HRycnZxdXN3d3D08vbx8fXjxtrIAEAPm46FO+UCgsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMTMtMDktMjdUMTg6Mzk6NTcrMDI6MDAxMoBRAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDEzLTA5LTI3VDE4OjM5OjU3KzAyOjAwQG847QAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 751
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160811T140017Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fc66333-75cf-4608-be29-ae76cf95d924"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220311T095311Z

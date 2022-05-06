@@ -1,0 +1,63 @@
+﻿---
+ID: "f0810e42-4851-4176-adbe-1129bc14825d"
+Parent: "b7b50b4a-cdb1-47b5-b550-74b82bcb3eb3"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Header Global Menu/Default HeaderGlobalMenu Variant/$name/SingleColumn/Section/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ if (o_pagemode.is_experience_editor_editing) }}
+    {{sc_editframe i_item 'Custom List'}}
+    Heading Main Navigation: {{sc_field i_item "MainNavigation"}}
+    Link:  {{sc_field i_item "Link"}}
+    {{sc_endeditframe}}
+    {{else}}
+    
+    <a href="{{i_item.Link.url}}" >{{ sc_field i_item "MainNavigation"}}</a>
+    {{ end }} 
+    
+    {{flag= i_item.HasSubMenu.raw | string.contains "1" }}
+    {{ if flag==true}}
+    <div class="inner-wrap">
+    			 {{ for subnav in i_item.Children}}
+    				<div class="sub-menu-list">
+    					<div class="sub-menu-title-div">
+    						{{ if (o_pagemode.is_experience_editor_editing) }}
+                                                            {{sc_editframe subnav 'Custom List'}}
+                                                           Sub Heading: {{sc_field subnav "SubNavigation"}}
+                                                           Link:  {{sc_field subnav "Link"}}
+                                                           {{sc_endeditframe}}
+                                                    {{else}}
+                                                          <a href="{{subnav.Link.url}}" >{{ sc_field subnav "SubNavigation"}}</a>
+                                                    {{ end }} 
+    						        </div>
+                            {{end}}
+    {{ end }}
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T090048Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b8e47a11-9e96-42df-bf3c-534b73fdb9e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220218T115429Z

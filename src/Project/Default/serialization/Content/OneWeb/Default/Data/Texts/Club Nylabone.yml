@@ -1,0 +1,57 @@
+﻿---
+ID: "6ff84703-75dc-42ce-9531-4ee2733bd986"
+Parent: "d6929c3c-1a93-40dc-beec-0f7c9e9f240a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Data/Texts/Club Nylabone
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T085203Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "827725c8-fa31-437f-a3ad-3f3e82616263"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="score-right">
+        <p class="score-lead h3">
+        Club Nylabone members receive:
+        </p>
+        <div class="score-style-box radius-15" style="color:#FFFFFF;background-color:#F5AC1E;">
+        <div class="score-well well-15">
+        <div class="score-content-spot paw-list">
+        <p> </p>
+        <ul>
+            <li>Product giveaways</li>
+            <li>Photo contests</li>
+            <li>Birthday rewards for your dog</li>
+            <li>Monthly newsletter with fun content</li>
+            <li>Expert tips and solutions for dog parents</li>
+        </ul>
+        </div>
+        </div>
+        </div>
+        </div>
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T085322Z

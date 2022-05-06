@@ -1,0 +1,29 @@
+﻿---
+ID: "a4ff5501-ae4a-4423-b8af-c3a9deb20ea9"
+Parent: "3494830b-a843-4d72-8f25-c7329bac0bf0"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: "/sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Wild-Bird/Ingredients/Millet"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T124717Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Millet
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Millet
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76a8c232-9660-4bea-a4e1-28344cc8d69e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T124717Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "c133053a-9b8d-494d-a0ff-3396655567f7"
+Parent: "885d32b5-f3de-4afa-be4a-6d44f59aa266"
+Template: "21e9bd9f-1259-4a0a-b862-a250abf7a8b1"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Utility Navigation/Data/Utility Navigation Data/Navigation Link Item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{39307E3D-CDBA-4837-9D1E-600F549967BA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220215T113340Z
+    - ID: "3fbfed70-8606-40c5-9e84-45a03aa258d5"
+      Hint: Link
+      Value: |
+        <link text="Sign Up For Email" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c1a20a0d-21d5-491e-91f5-18b4cee47968"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220215T131519Z
+    - ID: "f35d245b-3a57-4132-a025-00a22429f296"
+      Hint: IconClass
+      Value: "fa fa-envelope"

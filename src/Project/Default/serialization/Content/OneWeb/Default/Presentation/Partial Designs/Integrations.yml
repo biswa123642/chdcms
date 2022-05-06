@@ -1,0 +1,52 @@
+﻿---
+ID: "c043921c-0f4a-4739-8d4d-e0fae049a7d2"
+Parent: "df9839c7-4826-49c8-b47c-82702f873d55"
+Template: "d68e3c5a-253d-4765-be54-b7b18c350cb1"
+Path: /sitecore/content/OneWeb/Default/Presentation/Partial Designs/Integrations
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: integrations
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B14CF1E1-852E-4376-821E-CD46E164CB7D}"
+          p:before="*"
+          s:id="{64739BBE-9543-49C0-A483-1337349CCBDA}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="head" />
+        <r
+          uid="{A008B24E-1CFA-4DB7-901D-5F380F93DBE1}"
+          p:after="*[1=2]"
+          s:id="{D9724DF0-BB7A-4205-8B59-EFA79332B87B}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="body-top" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T073330Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2240c655-9bec-437d-afeb-738bcfdf1fea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T051901Z

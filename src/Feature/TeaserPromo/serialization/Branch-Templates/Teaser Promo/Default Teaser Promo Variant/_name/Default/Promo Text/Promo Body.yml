@@ -1,0 +1,27 @@
+﻿---
+ID: "8669cc78-83bc-484d-a2e1-bd59e1635a4e"
+Parent: "817440d4-b92a-424a-be8f-348a84d19af8"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Teaser Promo/Default Teaser Promo Variant/$name/Default/Promo Text/Promo Body
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134835Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f25634fa-5bd9-4400-b076-59068ea8bbb9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T125606Z

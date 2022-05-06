@@ -1,0 +1,27 @@
+﻿---
+ID: "5a773177-0b1d-4ab1-9988-3dfc98ee9d51"
+Parent: "5b235a06-5693-48df-b53e-7fe3a75c57d8"
+Template: "5b235a06-5693-48df-b53e-7fe3a75c57d8"
+Path: /sitecore/templates/Feature/OneWeb/Feature Content Tiles/Rendering Parameters/Feature Content Tiles/__Standard Values
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T104300
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b13a7b4-56a3-4643-b4db-f9557f1f4ca9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220125T084117Z

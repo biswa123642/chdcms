@@ -1,0 +1,65 @@
+﻿---
+ID: "d1addf08-7a26-4e3d-b8a4-9f60224d810f"
+Parent: "5f92025a-3b98-4137-b0fa-50ffe4409718"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Hero Carousel/CarouselWithLinkList/Scriban/Div/SlideWrap/Slides/Slide/Container/LinkListWrap/PositionCenter/BottomLinkList/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ for child in i_item.Children 
+    
+     sc_editframe child 'Custom List'}}
+    
+    {{
+    hightlightClass = ""
+    
+     if child.ID == i_item.Highlight.raw
+         hightlightClass = "highlight-item"
+     end
+    }}
+    
+      <div class="{{ hightlightClass }} bottom-tile">
+    {{fetchdatafromctaitem= child.CheckToOverrideListItemCTA.raw | string.contains 1 }}
+    {{ if fetchdatafromctaitem==true}}
+    	{{ targetitem=sc_follow child"ListItemCTAOverride"}}
+        
+    	{{ sc_execute targetitem "BottomListItem" }}
+    
+    {{ else}}
+    
+    	{{ sc_execute child "BottomListItem" }}
+    
+    {{ end }}
+    
+    </div>
+    {{sc_endeditframe
+    
+    
+     end}}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220207T092524Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20f4898c-5764-4b52-8d24-309b1d03b1f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220419T061743Z

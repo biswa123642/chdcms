@@ -1,0 +1,46 @@
+﻿---
+ID: "c80234b0-5cf5-4976-8c90-ba522e799016"
+Parent: "cecf9d24-51b0-476e-a5cd-d8e174c0f308"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: "/sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Related Products and Articles/RelatedProductsAndArticle/Copy-Wrap/Scriban"
+SharedFields:
+- ID: "7b5b7e8d-e579-44aa-8174-d4594db0c2f9"
+  Hint: CssClass
+  Value: SubHeading
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: "{6E84D69B-7F26-4B19-906D-469C3354EBB0}"
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{sc_translate "RelatedArticlesAndProducts"}}
+    
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220408T131311Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d6a246fe-dba7-4f0b-b6bb-80122b245498"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T134904Z

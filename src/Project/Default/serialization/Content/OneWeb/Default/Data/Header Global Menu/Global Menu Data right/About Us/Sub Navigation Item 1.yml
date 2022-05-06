@@ -1,0 +1,38 @@
+﻿---
+ID: "91510db1-8b0e-445e-bda9-3c20ffd975e3"
+Parent: "05aa8bd5-582e-49b3-879a-6be87b69cc06"
+Template: "8e29a62c-d145-4142-a815-bb6ce1962a2e"
+Path: /sitecore/content/OneWeb/Default/Data/Header Global Menu/Global Menu Data right/About Us/Sub Navigation Item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F0C12AF4-E6D9-4FD5-AA69-190B4EC89E38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T121231Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a8a2012-d229-4565-b613-2d3a5040d3df"
+    - ID: "997a090d-2c58-4163-9833-4deb3bb48075"
+      Hint: HasSubMenu
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T121231Z

@@ -1,0 +1,98 @@
+﻿---
+ID: "051668f6-3a28-4f48-bad6-a5d5a002602a"
+Parent: "f65c23c5-963b-4b5e-a00f-34dab253dd51"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Product Image Gallery/Image Gallery/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{variantgroups = i_page.children}}
+    {{for variantgroupitem in variantgroups}}
+        {{if variantgroupitem.template_id | string.contains "F9CF5C0401C34060A1431E12421C09BE"}}
+            {{selectedvariant = sc_followmany variantgroupitem "ChooseVariant"}}
+            {{if variantgroupitem.iscarousel.raw | string.contains "1" }}
+                {{cssclass = "iscarousel"}}
+            {{end}}
+            {{if selectedvariant | array.size <= 0 }}
+                {{selectedvariant = variantgroupitem.children}}
+            {{end}}
+            {{if variantgroupitem.viewvideosfirst.raw | string.contains "1"}}
+                {{for i_pageItem in selectedvariant limit:1}}
+                    {{medialist = sc_followmany i_pageItem "MediaList" | array.sort "template_name" | array.reverse}}
+                {{end}}
+            {{else}}
+                {{for i_pageItem in selectedvariant limit:1}}
+                    {{medialist = sc_followmany i_pageItem "MediaList"}}
+                {{end}}
+            {{end}}
+            {{break}}
+        {{end}}
+    {{end}}
+    {{firstitem = medialist | array.first}}
+    {{if firstitem.template_name != "Video"}}
+        <div class="image-placeholder">
+            {{sc_execute firstitem "Blob"}}
+        </div>
+    {{else if firstitem.template_name == "Video"}}
+        {{if firstitem.YouTubeID.raw!=""}}
+            <div class="image-placeholder">
+                <iframe src="https://www.youtube.com/embed/{{firstitem.YouTubeID.raw}}?rel=0" frameborder="0" allowfullscreen></iframe>
+            </div>
+        {{else}}
+            <div class="image-placeholder">
+                <video controls>
+                    <source src="{{sc_follow firstitem "GalleryVideo" |sc_medialink}}" type="video/mp4">
+                </video>
+            </div>
+        {{end}}
+    {{end}}
+    <div class="inner-wrap {{cssclass}}">
+        <div class ="image-container">
+            {{ for i_child in medialist}}
+                {{if i_child.template_name != "Video"}}
+                    <div class="field-image">
+                        {{sc_execute i_child "Blob"}}
+                    </div>
+                {{else if i_child.template_name == "Video"}}
+                    {{if i_child.YouTubeID.raw!=""}}
+                        <div class="video-checkbox">
+                            <iframe src="https://www.youtube.com/embed/{{i_child.YouTubeID.raw}}?rel=0" frameborder="0" allowfullscreen></iframe>
+                        </div>
+                    {{else}}
+                        <div class="internal video">
+                            <video>
+                                <source src="{{sc_follow i_child "GalleryVideo" |sc_medialink}}" type="video/mp4">
+                            </video>
+                        </div>
+                    {{end}}
+                {{end}}
+            {{end}}
+        </div>
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220330T165944Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3eebb92f-5eae-4341-a6ba-dd1ddc4d61c7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T095958Z

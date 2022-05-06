@@ -1,0 +1,29 @@
+﻿---
+ID: "e79f66a9-8ae5-4c1d-b749-af45ba657881"
+Parent: "16365dad-1caa-474a-a7e2-cf765c3cb35f"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Page Attributes/Region/Southwest
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T125914Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Southwest
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Southwest
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85722b10-ab1e-4a66-8c9b-aa1302302ac4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T125914Z

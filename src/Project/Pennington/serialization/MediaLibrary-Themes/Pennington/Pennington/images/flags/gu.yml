@@ -1,0 +1,49 @@
+﻿---
+ID: "ad51a21c-089f-42a2-b0e5-a5334e128e6f"
+Parent: "e9bcf992-0443-4dab-b8cc-4c224755056e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/OneWeb/Pennington/Pennington/images/flags/gu
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/AD51A21C089F42A2B0E5A5334E128E6F.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "7c868680-b04a-44b2-a3a9-42bd5645886e"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAMAAADTRh9nAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAXFQTFRFAAAAnwYongYoqwQprwMpsAMppgQopQQoiAwohgwooAQmeCpbbTRqbjRpbTRqaTZtdytcngUnqAImZjp2QFadQlWbQlWcQ1OZZkJ/Y0OBQlSaQVadZjt2qAMmqwImZTt4ZTx5qgImZjt4ZTt4ZTt5ogMlZThzQlOZQ1KXWUSDV0WFQlKXZTlzoQMlhwsmcSZQai1bay1aZy9dcCZQhQwnOFymO1qjOlqkO1iickiBsIeUsoaWb0mCO1miOVylOVukXEmJs4eYhcajhsajrYSTWkqLPFagkFWBu8rHZ7mGdL6TusnFjlSBO1egRVCXrXSSyt3gqMi4rMu9ydveq3CPRFCXOlukSU2TtICa0M/Wy8DEy7/E0MvTsnuWSE6UQ1GYp2+O0ODmy9rUpMSups+7mmZ9Q1GZO1ihhE99xsG1xNDDtMeywbuhhE93OliiVUuMvIKA1uO54OWwxIBzUkyPZUqFy4t4yYl2Y0yGOVqk////bm526wAAADV0Uk5TAAAAAAAAAAAAAAlHWllZWUcJSPP+/v7+/v7+/vJFWf79V/79/kfz/v39/f3yRQlHWFhYRgkEVvPHAAAAAWJLR0R6ONWFagAAAAlwSFlzAAAASAAAAEgARslrPgAAAMxJREFUGNNjYMAGGLm4eXiBgI+fH0Tx8ggIMjEwCwmLiIqKiolLSEqJARnSMrLMDCxy8qZmZuYWllbWNrbmZmamCoosQEElOzMzewdHJ2cXV3szMztluKCbu4enl7ePL7KguZ9/QGBQcEioOZJgWHhEZFR0TGxcGLLK+ITEpOSU1DQUM9MzMrOyc3LzUATD8gsKi4pLwqCCrHIqpmFhYealZeUVlUAG0J2sDGyqauoaIKCppQ2i1HV02Rk49PQNDEHAyAhMGRibcGINJABfXDLt/rciogAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxMy0wOS0yN1QxODo0MDowMyswMjowMFizlG8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTMtMDktMjdUMTg6NDA6MDMrMDI6MDAp7izTAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 912
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 15
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 15
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T091137Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fb3d041-1ddc-4938-a5e8-48fecff9f91a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T091139Z

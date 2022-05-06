@@ -1,0 +1,37 @@
+﻿---
+ID: "c1413f10-3498-41c3-91af-4123bef969be"
+Parent: "4f477fdd-9992-4e04-875c-6554123f9297"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: "/sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Hero Banner/Hero Banner With Multiple Links/wrap/container/Slides-Wrap/Slides/Query"
+SharedFields:
+- ID: "3028c974-c209-4e52-881c-8b8456fac1aa"
+  Hint: MaxNumberOfResults
+  Value: 5
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:./*[@@templatename='Hero Banner CTA List Item']"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 125
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T125829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "045f0d54-12d3-4c3b-a86c-4ab0c80250de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T075524Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "8f449bbe-9110-4b29-9871-cc797fdde1ed"
+Parent: "8e356fea-c625-4759-a6af-d8f128b9e569"
+Template: "8e29a62c-d145-4142-a815-bb6ce1962a2e"
+Path: /sitecore/content/OneWeb/Default/Global Data/Two Level Navigation Menu/Investors/Sub Navigation Item Three
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220228T084313Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1de76fbe-7864-43ed-965e-e232d1caf47b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220228T084340Z
+    - ID: "e5d28aae-0643-4658-9e3d-a6e12f1bfcad"
+      Hint: Link
+      Value: |
+        <link text="Company Info" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

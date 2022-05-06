@@ -1,0 +1,27 @@
+﻿---
+ID: "6789f08c-3b54-488e-9c0a-c3177f0eadc9"
+Parent: "2d9843db-e416-4b8b-a1e0-c5ba1f842174"
+Template: "6e7c409e-1f71-4b3f-9e40-9d9a9518d33a"
+Path: /sitecore/content/OneWeb/Default/Data/Header Global Menu/Global Menu Data right
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T104400Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75ab7d3f-804c-4635-b7c2-2c8cf3f2da10"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220331T123602Z

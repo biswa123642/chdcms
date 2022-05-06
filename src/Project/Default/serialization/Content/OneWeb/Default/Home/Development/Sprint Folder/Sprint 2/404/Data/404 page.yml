@@ -1,0 +1,44 @@
+﻿---
+ID: "af0dd7e2-e2be-43cc-82a6-39dc2f0551bf"
+Parent: "511a2298-71a5-4dc3-aa28-7283aaef3600"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/404/Data/404 page
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <h2>404 Page Not Found</h2>
+        The page you selected may be broken or may have been removed. Please try again or return to the homepage.
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{6858A935-0B8B-4378-BFBC-9BC226D87861}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220308T063912Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13f0ba39-8a22-4b6f-ba88-5aef0ccf4d0c"
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link linktype="internal" text="Return To Home" querystring="" target="" id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220308T064839Z

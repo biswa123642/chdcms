@@ -1,0 +1,27 @@
+﻿---
+ID: "01485cf7-9c4b-400d-bb30-4abc067c21ea"
+Parent: "1f68752a-3603-4f63-8658-6ed7b7546dd3"
+Template: "22f452b5-451b-43a1-8139-de1368eec16d"
+Path: /sitecore/content/OneWeb/Default/Data/Rich Content Tile/TileFolder/RichContentImgTile
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Rich Content Image Tiles
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T122558Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8e086850-3c0b-449a-adfe-8adc15f625b6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220420T105615Z

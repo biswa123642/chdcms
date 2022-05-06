@@ -1,0 +1,13 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/fonts/fonts";
+@import "base/fontawesome/font-awesome";
+
+.component {
+  &.content {
+    .heading-title {
+      margin: 4rem auto;
+    }
+  }
+}

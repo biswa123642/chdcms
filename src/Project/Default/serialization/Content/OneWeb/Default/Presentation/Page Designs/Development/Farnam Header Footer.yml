@@ -1,0 +1,35 @@
+﻿---
+ID: "3498b4bf-a808-4844-973e-734523a680d8"
+Parent: "750ec9bb-e2a2-4373-944b-f5715f00e11b"
+Template: "a0609a4a-d898-47df-a558-3e8198798fe7"
+Path: /sitecore/content/OneWeb/Default/Presentation/Page Designs/Development/Farnam Header Footer
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{B8654799-1E95-47B1-AB10-6685D7272B63}|{72B3A259-ECAC-401E-9CFD-3170AF1E6FC3}|{B0D55CCB-F64D-4821-ABE9-E7E965A680A3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220325T081539Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "81f51d5e-0976-43fd-9d62-6ce2aacb8c0e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220328T120154Z

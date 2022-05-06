@@ -1,0 +1,38 @@
+﻿---
+ID: "5b950774-62b5-44d1-a207-44fc1c7c1092"
+Parent: "bd323d8e-7ae9-46d8-aa5f-e926cb5773a7"
+Template: "8e29a62c-d145-4142-a815-bb6ce1962a2e"
+Path: /sitecore/content/OneWeb/Default/Data/Header Global Menu/Global Menu Data right/Pets 101/Sub Navigation Item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F0C12AF4-E6D9-4FD5-AA69-190B4EC89E38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T120629Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "840b6d70-3ca1-4b3d-a1bf-ac3a724ca1ee"
+    - ID: "997a090d-2c58-4163-9833-4deb3bb48075"
+      Hint: HasSubMenu
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T120629Z

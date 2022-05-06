@@ -1,0 +1,40 @@
+﻿---
+ID: "e4be3f9a-b7ce-40d4-8ccb-aa71f5578079"
+Parent: "722d9093-8fab-4bfd-8f6f-dfa6db23f6fb"
+Template: "c4b001be-3e9e-4223-a779-edffa214cf7c"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Generic Content List/Data/Generic Content List Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T160732Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68bcf622-80b6-491b-b32d-e82628a494c2"
+      Hint: Description
+      Value: "Nylabone Cares proudly partners with regional humane societies, SPCAs, dog shelters and rescues, K9 law enforcement groups, and more. These are just a few of the wonderful organizations we support:"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "659fe5e9-c423-4ce7-9552-abebab41ab3d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c9b09348-d8a1-410c-8459-70d48133f548"
+      Hint: OurBrands
+      Value: "{D6183C02-298E-4B23-B83F-9AF202FDC21D}|{D618BF44-EE8A-46AD-B7F2-32B03C350A77}|{9D15A286-C9CD-4BE6-896E-BA7EA2DB902E}"
+    - ID: "cc29d53e-eac8-4871-85ef-7bbf8977d3a4"
+      Hint: Title
+      Value: Our Partnership's
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T161854Z

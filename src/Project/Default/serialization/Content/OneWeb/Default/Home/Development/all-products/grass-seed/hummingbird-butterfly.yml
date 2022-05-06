@@ -1,0 +1,134 @@
+﻿---
+ID: "c9f3b592-d8c1-4854-937f-02e41cec7652"
+Parent: "c448abcd-f2fa-45f6-9fc3-6e3338f0076b"
+Template: "bc41b87d-2a9b-4689-9f51-80bb5b31a6e7"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/all-products/grass-seed/hummingbird-butterfly"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EB891415-56C2-4C06-92CD-3D6588139D5D}"
+Languages:
+- Language: "de-AT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220412T154645Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aad31093-c482-49cd-979f-e0aed2acee6d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220412T154645Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7997DBAD-4700-44AC-89FA-63D47A0D82F0}"
+              p:before="*"
+              s:id="{D6B60627-4476-461C-B9E4-FDEFD6CFB712}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BCD8D7916-DAB5-48D9-8322-6A74630889C4%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=14"
+              s:ph="/main/sxa-product-detail/container-1/column-2-2/row-1-3/PH-PowerReviews" />
+            <r
+              uid="{542181A2-1695-44EE-9C61-80ED69D29968}"
+              p:after="r[@uid='{7997DBAD-4700-44AC-89FA-63D47A0D82F0}']"
+              s:id="{D9724DF0-BB7A-4205-8B59-EFA79332B87B}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=13"
+              s:ph="/main/sxa-product-detail/container-1/column-2-2/row-2-3/ph-product" />
+            <r
+              uid="{8A5419B6-1F98-418A-87D8-0240B961B756}"
+              p:after="r[@uid='{542181A2-1695-44EE-9C61-80ED69D29968}']"
+              s:id="{D6B60627-4476-461C-B9E4-FDEFD6CFB712}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=7&amp;FieldNames=%7B3721EE27-BF0D-4CF1-8032-739150815158%7D"
+              s:ph="/main/sxa-product-detail/container-1/row-1-4" />
+            <r
+              uid="{29A007B6-4FC9-498C-9C18-0053613AFEFC}"
+              p:after="r[@uid='{8A5419B6-1F98-418A-87D8-0240B961B756}']"
+              s:id="{8BAE17C2-8DBF-469C-B692-4BA993BCE02A}"
+              s:par="CacheClearingBehavior=Clear%20on%20publish&amp;DynamicPlaceholderId=4"
+              s:ph="/main/sxa-product-detail/container-1/column-2-2/row-2-3" />
+            <r
+              uid="{E1CB7CFC-0CDD-4410-ACD9-F61EABA68A6C}"
+              p:after="r[@uid='{29A007B6-4FC9-498C-9C18-0053613AFEFC}']"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B58D02E15-9547-4883-BFF1-EFE4E2374B47%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/sxa-product-detail/container-1/column-2-2/row-1-3" />
+            <r
+              uid="{2A5E4EC0-FC6A-49BB-A3B0-3D479BF27CAA}"
+              p:after="*[1=2]"
+              s:id="{4B9D2033-5916-4007-94A3-131401C2E710}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BF65C23C5-963B-4B5E-A00F-34DAB253DD51%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/sxa-product-detail/container-1/column-1-2" />
+          </d>
+        </r>
+    - ID: "06e34e6f-1cbe-4a99-b264-03222fe0a1f2"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{83768798-89B0-42E4-88D0-C584F830B4D1}" ></image>
+    - ID: "22618843-57c5-49c6-b835-0d19a92a068f"
+      Hint: LegacyProductGUID
+      Value: 51A4AA592A0A4D1EAB3BD336EC05DD48
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220320T182534Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hummingbird Butterfly Mix 24oz
+    - ID: "50094021-6c44-4bb3-b384-f4e2bc0262ea"
+      Hint: RelatedArticlesAndProducts
+      Value: |
+        {C9F3B592-D8C1-4854-937F-02E41CEC7652}
+        {0A2C2295-5141-4686-8156-9B9607C46236}
+        {082F4486-0CC8-4F43-992A-2F6BFCA8C34A}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "625f32a7-8b24-4b35-8f6f-1464da77bc40"
+      Hint: Content
+      Value: |
+        <span style="background-color: #ffffff; color: #595a5c;">The Strong Chew Braided Dog Ring chew toy provides a fun chewing experience that will keep your fur friend busy and entertained. Made of strong natural rubber, this tough dog chew toy is perfect for pets who love some flex &amp; give and encourages healthy, non-destructive chewing habits. You can also roll this round chew toy and watch your dog chase it for extra excitement. The braided shape with unique raised textures will keep your dog's attention while helping clean teeth&nbsp; and freshening breath through chewing action. Keep your best friend's chewing fun going with this satisfying chew toy!</span>
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: "hummingbird-butterfly"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d08d989-520e-4dfa-891b-129a6422f545"
+    - ID: "95d893d1-43ae-4c07-bc1e-9839b5cffed5"
+      Hint: RelatedProducts
+      Value: "{C9F3B592-D8C1-4854-937F-02E41CEC7652}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T081956Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "04f00ae4-28e6-4e7d-9a23-864334bc21f8"
+Parent: "47da6090-f5b4-4068-b83b-01e925d7d951"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Feature Content Tiles/FourColsTileWithImageCta/container/Scriban/wrapper/Query/Edit Frame/col
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{RenderingClass = sc_parameter 'RenderingClass'}}
+    <div class="col col-6 {{RenderingClass}}">
+    {{sc_execute i_item 'promo'}}
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T235626Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5eec1179-36ef-4a48-b51f-baf587390856"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220228T094011Z

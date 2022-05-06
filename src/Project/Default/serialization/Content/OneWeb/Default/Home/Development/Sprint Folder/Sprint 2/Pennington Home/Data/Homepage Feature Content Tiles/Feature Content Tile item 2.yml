@@ -1,0 +1,46 @@
+﻿---
+ID: "b6eed3a0-2b97-4f8d-a94e-61a4faea77c3"
+Parent: "8d3419ca-c074-47a5-a183-1a58c716837b"
+Template: "a14d9266-1924-4e7f-87cc-760e2f8429ce"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Pennington Home/Data/Homepage Feature Content Tiles/Feature Content Tile item 2
+BranchID: "bb7277a3-96ea-4093-939c-48bb45d51b5a"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B9ED82F9-B8F7-4D57-BAD9-124429F1ED49}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e4da860-d6cf-4956-8d76-66331aa43cd0"
+      Hint: SubText
+      Value: We love hearing from the folks who buy and use our products. Please share your comments, concerns or submit any questions you may have about Pennington and our products.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T085950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2db5a694-f76a-4919-ab8f-a0c5c7e5119c"
+    - ID: "ac0ef552-e2a9-4e8f-8942-4b8ab5061e4b"
+      Hint: CTA
+      Value: |
+        <link linktype="internal" text="GET IN TOUCH" querystring="" target="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T090418Z
+    - ID: "f2995045-5047-4be3-be4a-dbe0a1530118"
+      Hint: Title
+      Value: CONTACT US

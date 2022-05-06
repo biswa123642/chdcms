@@ -1,0 +1,37 @@
+﻿---
+ID: "b8f7f050-7459-4c8e-8888-d644c0cf0450"
+Parent: "fde0a0e1-6b0a-4edc-a5ba-002ddd39805c"
+Template: "f3e6da4e-5d19-49b8-9737-2ee2e9067757"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Banner/Data/Hero Banner with Logo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T085244Z
+    - ID: "2f396e45-5464-485c-a98c-091f8848fb6a"
+      Hint: HeroImageDesktop
+      Value: |
+        <image mediaid="{4CE4B78D-8FDD-49EB-931B-20E87021B291}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "44b20b01-92d9-44cf-9d30-29e712b94bbc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c4294fa3-7849-4f74-bdbe-0fee45ae32fe"
+      Hint: HeroBannerTitle
+      Value: |
+        <div class="">
+            <h1 style="display: inline-block; z-index: 1;">Sign Up for Club</h1>
+        <img alt="" src="https://www.nylabone.com/-/media/Images/Nylabone-NA/US/About-Us/Club-Nylabone/Signup-Page/nylabone-notag.png?la=en&amp;hash=B4D603296F87197CF002B4CD6658A210D243D605" width="224" height="119" /><br />
+        </div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220406T091010Z

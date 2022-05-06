@@ -1,0 +1,38 @@
+﻿---
+ID: "0305af07-0718-4bc3-be9f-86739a42ab30"
+Parent: "6ce5ad68-7d8f-45f5-a627-3492c040a38a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Email Signup/Data/Email Signup Details
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220207T125212Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43eb896b-32bb-4865-9ba6-7364ea7621f6"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="score-document-header" style="color: #333333; background-color: #ffffff; margin: 0px; padding-bottom: 9px; border: none;">
+        <h1 style="color: inherit; margin: 0px; line-height: 1.1;">EMAIL SIGN UP</h1>
+        </div>
+        <div class="score-content-spot" style="color: #333333; background-color: #ffffff; margin-bottom: 0px; line-height: 22px;">Enter your email address to receive tips and discounts from Pennington and Central Garden &amp; Pet Company</div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T125239Z

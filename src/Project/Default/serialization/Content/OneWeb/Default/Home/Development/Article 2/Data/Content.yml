@@ -1,0 +1,93 @@
+﻿---
+ID: "ce39f393-89f1-45cb-a125-0473160f7c07"
+Parent: "28b33b8a-ce3c-44b7-9fe5-7d19aa3eb0c7"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Article 2/Data/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220330T090750Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea5e4d93-ccfb-4d44-b6cc-c9e465c9e224"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="product-article">
+        <div class="score-content-spot">
+        <p> Once you have decided to get a dog, it&rsquo;s time to prepare your home for the new addition. You will need some supplies, and while you may not want to purchase every item on this list initially, it is a good idea to have some of the basics ready when your dog arrives. Here are 11 supplies you&rsquo;ll need for your new dog: </p>
+        <h2> #1: Attire </h2>
+        <p> Consider the weather in your area. If it&rsquo;s cold and your dog shivers, consider getting him a dog sweater or jacket. A constantly chilled dog is neither a healthy dog nor a well-exercised dog. If you live in a warm environment, consider buying a &ldquo;cool coat.&rdquo; This special cooling coat or vest is made of special fabric that retains moisture and cools through evaporation for up to four hours before it needs to be re-moistened. </p>
+        <h2> #2: Gates </h2>
+        <p> You may want to limit your dog to certain rooms or keep him from going up or down stairs. Baby gates work well for most dogs, but a small puppy can scoot underneath them. A better choice is a gate made especially for dogs, and there are many styles from which to choose. These gates can be free-standing, screwed into the wall, or pressure mounted, which means that the tension from a spring holds the gate in place. Make sure that the bars on the gate are close enough together that the dog cannot get his head stuck. If you have a young pup or a dog who likes to chew, a wooden gate may not be the best choice. </p>
+        <h2> #3: Bedding </h2>
+        <p> Dog beds come in a wide variety of styles, from thin pads to orthopedic foam to soft, loosely padded pillows. Prices also range widely. Of course, your dog&rsquo;s favorite place to sleep won&rsquo;t be based on price or a fancy label but on how it suits his own idea of comfort. </p>
+        <p> When you do zero in on the right kind of bed, be sure that it is large enough to let your dog stretch out and relax. It should also be washable or have a removable washable cover. If you have a puppy or young dog who likes to chew and rip things up, wait until he outgrows this phase before you buy him a bed. He&rsquo;ll sleep fine on the floor or the bottom of his crate. </p>
+        <h2> #4: Collar </h2>
+        <p> Your dog needs at least one collar. The safest basic collar for everyday wear is a &ldquo;flat collar&rdquo; made of nylon, fabric, or leather and fastened with a buckle or a quick-release fastener. This is the collar that your dog should wear with identification and license tags attached. Check the collar&rsquo;s fit frequently, especially while your dog is growing, and readjust or replace it when it no longer fits. You should be able to insert two fingers between the collar and your dog&rsquo;s neck. Tighter than that is too tight for comfort and safety, and a collar that hangs looser than that can get caught on things and trap or strangle your dog. Harnesses are a popular alternative to the traditional collar; they solve the problem of a collar cutting into your dog&rsquo;s neck. If you like harnesses for everyday or occasional use, retailers carry many fashionable choices in a variety of comfortable styles. </p>
+        <h2> #5: Crate </h2>
+        <p> Many novice dog owners balk at the idea of a crate, but from the dog&rsquo;s point of view, the confined space is like a cozy den. Dogs and puppies like to have a place where they can curl up in security and privacy. Crates come in a few basic types, including wood, wire, and plastic. Wood enclosures are expensive, heavy, and can be difficult to clean. Wire crates are easy to clean and provide good ventilation for the dog; people often drape a blanket or towel over the wire crate to make it more cave-like. Plastic crates are lightweight, easy to clean, and work well in most temperatures. How big should your dog&rsquo;s crate be? A crate must be big enough so that he can easily stand up in it and turn around. If you have a puppy, invest in a crate divider to make the enclosure smaller; this will help when you begin the housetraining process. If the crate is too large, your pup may claim one section as his sleeping area and use the excess space as his potty area. You want this first crate to be big enough to be a bedroom, not a master suite with private bathroom. </p>
+        <div class="sxa-btn sxa-btn-primary"><a data-ux-module="score_bootstrap/Components/Button" data-ux-state="loaded" href="/dog101/9-things-new-adoptive-dog-parents-should-know">9 Things New Adoptive Dog Parents Should Know</a>
+        </div>
+        <h2> #6: Exercise Pen </h2>
+        <p> If you don&rsquo;t have a room that works well to confine your dog, consider an exercise pen, or ex-pen. Ex-pens are like a child&rsquo;s playpen but for a dog. They are useful for those times when you need him to be kept someplace safe but not necessarily confined to his crate. </p>
+        <h2> #7: Food and Water Bowls </h2>
+        <p> Your dog requires two sturdy bowls: one for food and one for water. Although ceramic ones may be decorative, they are breakable, so look for sturdy plastic or stainless steel bowls. However, keep in mind that plastic is chewable, can harbor bacteria, and is a little harder to clean than stainless steel. </p>
+        <h2> #8: Grooming Supplies </h2>
+        <p> The grooming supplies that you get for your dog will depend a lot on what kind of breed you have and what activities you plan for him. The requirements for grooming a Poodle, for example, are a lot more complicated than those for a Labrador Retriever. What you need to groom a dog for the show ring may be very different from what you need for a dog who&rsquo;s going camping with you. For guidance on grooming supplies, consult your breeder and a professional groomer. They&rsquo;ll be able to give you tips specific to your particular dog. In general, here are some basic tools you need: </p>
+        <ul>
+            <li> brush and comb </li>
+            <li> coat clippers and scissors </li>
+            <li> shampoo and conditioner </li>
+            <li> nail trimmer </li>
+            <li> doggy toothbrush and toothpaste </li>
+        </ul>
+        <h2> #9: Identification </h2>
+        <p> When you register your dog with your local municipality, you will receive a numbered dog tag. When attached to your dog&rsquo;s collar, this item can help identify him if he ever becomes lost. To the average person on the street, however, this number alone means nothing. A better way to provide your dog with identification is to buy him a personalized tag. Personalized tags are extremely inexpensive and easy to find. Include your dog&rsquo;s name, your address, and your phone number (including area code). And don&rsquo;t forget to attach the tag to your dog&rsquo;s collar. If he doesn&rsquo;t wear it, a tag is useless. The most permanent form of identification is a microchip. If your dog is ever stolen, a tag will do little to bring him back to you. Microchipping him is a much more permanent and effective choice. A canine microchip, which is approximately the size of a grain of rice, can be inserted under your dog&rsquo;s skin (typically between his shoulder blades) with a needle during a routine veterinary visit with absolutely no anesthesia. Your dog&rsquo;s unique number is then registered with the appropriate company. If he becomes lost or stolen, a veterinarian or animal shelter worker can scan the chip to confirm his identity. </p>
+        <h2> #10: Leash </h2>
+        <p> The best <a href="http://www.fourpaws.com/products/dogs/leashes-collars/index.php?startPos=view_all&amp;__hstc=28362915.8f0db473603934bb4fe7ed559ecbda5d.1457386414038.1485548110191.1485793064347.158&amp;__hssc=28362915.7.1485793064347&amp;__hsfp=3393377187"> leash </a> for your dog is either 4 or 6 feet long, depending on how much of it you want to curl up in your hand when you have your dog walking close to you. The leash should be light and strong. Leather is good and long lasting if cared for properly, but a <a href="http://www.fourpaws.com/products/dogs/leashes-collars/nylon.php?__hstc=28362915.8f0db473603934bb4fe7ed559ecbda5d.1457386414038.1485548110191.1485793064347.158&amp;__hssc=28362915.7.1485793064347&amp;__hsfp=3393377187"> nylon </a> or <a href="http://www.fourpaws.com/products/cotton-web-lead.htm?__hstc=28362915.8f0db473603934bb4fe7ed559ecbda5d.1457386414038.1485548110191.1485793064347.158&amp;__hssc=28362915.7.1485793064347&amp;__hsfp=3393377187"> cotton </a> webbed lead is easier to care for and dries more quickly than leather if you get caught outside in the rain. The leash should be comfortable for you to hold and not so heavy that the weight is unpleasant for your dog. A retractable leash can be fun when you want to give your dog some extra freedom, but it does not work well for training. No matter which type of leash you choose, the snap that attaches it to your dog&rsquo;s collar should be strong, secure, and easy to use. </p>
+        <h2> #11: Toys </h2>
+        <p> When selecting a toy for your dog, try to think like he does. Ribbons, bells, plastic eyes, noses, and whatever other doodads are attached to that cute little toy are simply something to be ripped off, chewed up, and sometimes swallowed. The innards (stuffing) can be ripped out and sometimes eaten as well. Dogs often fare well with durable rubber toys, like those made by Nylabone. The most popular models are those with hollow insides where you can tuck treats. Many dogs are puzzle solvers, and trying to get those snacks out is entertaining for them&mdash;and their human spectators. Supervise your dog while he&rsquo;s playing with his toys, and examine them periodically for signs of wear, discarding them as necessary. </p>
+        <p> <strong>Excerpts adapted from:</strong> <a href="http://www.petbookexpress.com/books/rat-terrier-breed-lovers-guide.htm"> Breed Lover&rsquo;s Rat Terrier </a> by Judith Tabler, &copy; 2010 by TFH Publications, Inc. <a href="http://www.petbookexpress.com/books/french-bulldog-breed-lovers-guide.htm"> Breed Lover&rsquo;s French Bulldog </a> by Lisa Ricciotti, &copy; 2010 by TFH Publications, Inc. <a href="http://www.petbookexpress.com/petbook-express/dog/brittany-breed-lovers-guide.htm"> Breed Lover&rsquo;s Brittany </a> by Sheila Webster Boneham, Ph.D., &copy; 2011 by TFH Publications, Inc. <a href="http://www.petbookexpress.com/books/german-shorthaired-pointer-breed-lovers-guide.htm"> Breed Lover&rsquo;s German Shorthaired Pointer </a> by Tammy Gagne, &copy; 2011 by TFH Publications, Inc. <a href="http://www.petbookexpress.com/petbook-express/books/puppy-care-training-terra-nova.htm"> Terra-Nova Puppy Care &amp; Training </a> by Teoti Anderson, &copy; 2007 by TFH Publications, Inc. </p>
+        </div>
+        <div class="blog-category">
+        <span class="parent-category-name">Dog 101 | Dog Parenting &amp; Ownership Information | Nylabone</span>
+        </div>
+        <div class="blog-related-articles">
+        <label></label>
+        <ul>
+            <li><a href="/dog101/10-active-dogs-for-active-people">10 Active Dogs for Active People</a></li>
+            <li><a href="/dog101/50-dog-facts">50 Fun-to-Learn Dog Facts! | Nylabone</a></li>
+            <li><a href="/dog101/10-adorable-ways-to-include-your-dog-in-your-wedding">Saying &ldquo;I Do&rdquo;&hellip; 10 Ways to Include a Dog in Your Wedding</a></li>
+            <li><a href="/dog101/10-autumn-dog-activities">10 Autumn Dog Activities Your Fur Kid Will Fall in Love With</a></li>
+            <li><a href="/dog101/10-best-couchsurfing-champions">10 Best Couch-Surfing Champions</a></li>
+            <li><a href="/dog101/10-best-dog-breeds-for-seniors">10 Best Dogs for Seniors </a></li>
+            <li><a href="/dog101/how-to-calm-down-a-puppy-5-quick-tips">How to Calm Down a Puppy: 5 Quick Tips</a></li>
+            <li><a href="/dog101/10-best-first-time-dog-breeds">10 Best Dog Breeds for First-Time Owners </a></li>
+            <li><a href="/dog101/10-best-holiday-gifts-for-dogs">Top 10 Dog Christmas Gifts</a></li>
+            <li><a href="/dog101/10-dog-breeds-for-apartment-dwellers">10 Best Dog Breeds for Apartments and Condos</a></li>
+        </ul>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220401T095139Z

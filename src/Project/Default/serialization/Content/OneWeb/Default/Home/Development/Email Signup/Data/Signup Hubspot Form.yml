@@ -1,0 +1,37 @@
+﻿---
+ID: "783d24e6-912c-494e-8922-6ae07372f2ad"
+Parent: "6ce5ad68-7d8f-45f5-a627-3492c040a38a"
+Template: "b1f28930-86ec-4b4b-bc44-5dae936de9ec"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Email Signup/Data/Signup Hubspot Form
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21b2a416-4e6a-4fc6-9add-b3bed4c2031c"
+      Hint: FormId
+      Value: "5285a387-0619-4e88-b5b7-03e51a39b091"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220207T124536Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "85adb14d-7154-4112-a9e3-b9d297c5f846"
+      Hint: PortalId
+      Value: 454126
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0c010a2-a453-4193-aaab-520cbb33bf0b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T124831Z

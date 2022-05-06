@@ -1,0 +1,27 @@
+﻿---
+ID: "d7ad2419-9d8d-4018-a86a-63898c1e5bf2"
+Parent: "412d15fd-d805-461c-8e08-74657560670b"
+Template: "412d15fd-d805-461c-8e08-74657560670b"
+Path: /sitecore/templates/Feature/OneWeb/Teaser Promo/Rendering Parameters/Teaser Promo/__Standard Values
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T104300
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d721f2ee-73cc-4eec-af4c-4bb64092deda"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220202T125604Z

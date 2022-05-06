@@ -1,0 +1,23 @@
+﻿---
+ID: "f75c8541-eae2-45c8-873d-abe4a09ccd3a"
+Parent: "30120828-95c0-491d-81d2-c324c3f71dfc"
+Template: "e229ce6c-561d-41d9-b521-efbf47d00b6c"
+Path: /sitecore/templates/Feature/OneWeb/Header Global Menu/Main Navigation Item Branch/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T095741Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73240a40-a6e2-4350-8387-4b6284a8846f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220218T095741Z

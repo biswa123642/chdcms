@@ -1,0 +1,45 @@
+﻿---
+ID: "93029481-d415-4ecc-872d-6e19311b348f"
+Parent: "2a821030-f003-478d-9219-04e2e0d12433"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/OneWeb/Power Reviews/Rendering Parameters/Power Reviews
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {AE941FA5-4FA2-4257-A48C-33CDD90DD2D7}
+    {D959F476-2A2C-40C6-81F5-FB75342BBFB9}
+    {FF75632A-03ED-4D31-B42A-1EEE45E5147F}
+    {A9F8A74E-5F7D-4506-8661-B08E7B9A7B91}
+    {5C74E985-E055-43FF-B28C-DB6C6A6450A2}
+    {3DB3EB10-F8D0-4CC9-BE26-18CE7B139EC8}
+    {6DA8A00F-473E-487D-BEFE-6834350D5B67}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{E915C044-BCB5-41F8-B202-7AF368B772FC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220404T174921Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c88985f-5bee-4f93-a123-0e452e81a904"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220420T114035Z

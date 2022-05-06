@@ -1,0 +1,73 @@
+﻿---
+ID: "db69d5e6-8c39-4e7d-81c0-c22a826af7ce"
+Parent: "e1aea429-1f23-4ff4-9de1-731c7b5739fe"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Product tab/Data/Product tab/tab 3
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4A6F3558-D2AD-4183-B232-A426B4681E72}">
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-title"
+          uid="{EEC9179B-22B6-4547-A8E4-96FD27B43465}" />
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-content"
+          uid="{D0D1D566-CC4F-4914-BB61-2ADAE53D752E}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T094430Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: How to Use
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "871652bb-104f-4e22-9714-02fa6b348580"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: |
+        <ul class="listing-container">
+            <li>Use when insect pests or damage first appears.</li>
+            <li>Use rates recommended for the specific area and pest type, and provide uniform coverage over your treatment area.</li>
+            <li>Use a drop spreader (best for small, precise areas) or a broadcast spreader (good for large areas) for lawn applications.</li>
+            <li>Wear rubber or latex household gloves when handling or applying.</li>
+            <li>Use outdoors only. Apply on calm days, with no rain forecast for 24 hours.</li>
+            <li>Sweep scattered granules off sidewalks and driveways back onto lawns or gardens before watering.</li>
+            <li>Water immediately after spreading and sweeping. Start watering at the farthest corner and work backward, avoiding contact with wet areas.</li>
+            <li>Do not allow people or pets to enter the treated area until all dusts have settled, watering-in is complete, and the treated area has dried.</li>
+            <li>Read the product label for listed pests, and follow application instructions thoroughly.</li>
+        </ul>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220317T101449Z

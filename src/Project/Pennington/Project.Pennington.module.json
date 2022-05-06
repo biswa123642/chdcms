@@ -1,0 +1,14 @@
+{
+	"namespace": "Project.Pennington",
+	"references": [ "Project.Website"],
+	"items": {
+		"includes": [
+			{
+				"name": "MediaLibrary-Themes",
+				"path": "/sitecore/media library/Themes/OneWeb/Pennington",
+				"scope": "ItemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			}
+		]
+	}
+}

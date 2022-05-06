@@ -1,0 +1,23 @@
+﻿---
+ID: "2b91b649-90c3-4435-892a-8c6f83357d85"
+Parent: "80619c96-8415-40b9-9db1-f720be9b8b6a"
+Template: "2390a50a-ebdf-4b88-b58e-a2ffb82181f2"
+Path: /sitecore/content/OneWeb/Default/Global Data/Third Party Scripts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220309T082859Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "808ba2e9-910e-46d6-ac42-df0295221937"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T072158Z

@@ -1,0 +1,46 @@
+﻿---
+ID: "5440ae33-2218-4e25-95ad-f6bd7839795a"
+Parent: "45b039a4-d895-47c7-9a30-21ab882774e5"
+Template: "80ed8527-6794-4b69-8c25-035c6b33eeef"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/all-products"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220320T182426Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: All Products
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: All Products
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a3245ebb-02bd-4235-bb16-a76ec2fc346d"
+    - ID: "92f32441-cec4-42a7-ba44-83e8bb569c74"
+      Hint: Facet Attributes
+      Value: |
+        {7E298771-454C-425B-8C4C-9B580045147D}
+        {AC806B5F-2418-44DD-BD85-C715495D5D22}
+        {3EDEF855-4B31-4CA6-824B-F86CE8CEE8D9}
+    - ID: "b0c26a8e-ed75-4fac-9729-461caba576a0"
+      Hint: Product Details Attributes
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220417T073840Z

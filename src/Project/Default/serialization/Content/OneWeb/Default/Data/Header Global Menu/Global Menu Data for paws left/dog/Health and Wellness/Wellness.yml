@@ -1,0 +1,27 @@
+﻿---
+ID: "7d90697d-4d73-40af-b49a-b5541841abdd"
+Parent: "2253f8e7-52d7-4d09-86fa-6d2e5c51858b"
+Template: "8e29a62c-d145-4142-a815-bb6ce1962a2e"
+Path: /sitecore/content/OneWeb/Default/Data/Header Global Menu/Global Menu Data for paws left/dog/Health and Wellness/Wellness
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T141511Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48f5c9e3-274f-4d75-a417-e7cde520da24"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T094703Z
+    - ID: "e5d28aae-0643-4658-9e3d-a6e12f1bfcad"
+      Hint: Link
+      Value: |
+        <link text="Wellness" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

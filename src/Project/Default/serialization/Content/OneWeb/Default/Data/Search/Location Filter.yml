@@ -1,0 +1,31 @@
+﻿---
+ID: "0185f47c-5866-4ec4-bbca-16897129b5d8"
+Parent: "aca1cb05-37ea-4424-bbc4-53fdceb27ce5"
+Template: "c8e2a53c-6eac-49e2-bbc6-3ea8d0861834"
+Path: /sitecore/content/OneWeb/Default/Data/Search/Location Filter
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0A5BE50D-6D61-4A22-B28A-05C52AF9307D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113218Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53a6fb6c-e50b-4d2a-95a5-b2c67a11ff60"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113218Z

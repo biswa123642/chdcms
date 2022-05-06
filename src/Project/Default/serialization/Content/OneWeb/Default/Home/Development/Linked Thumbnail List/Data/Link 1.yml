@@ -1,0 +1,39 @@
+﻿---
+ID: "12f39c5b-0433-4b54-bc9b-1a53b035dbb4"
+Parent: "c4ee42f4-4062-481d-8454-82f4d681615a"
+Template: "99c0b04f-878a-4594-a187-d6926a47e672"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Linked Thumbnail List/Data/Link 1
+BranchID: "6f13e7ea-9dd6-4933-bebf-47cb659579f9"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BC6BB9A2-36DB-47ED-932E-53F79D88E60B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220408T150506Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa939cc3-4941-43cd-8fec-08541ee6da71"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c097fe0e-c592-4135-8860-09e37529d630"
+      Hint: Title
+      Value: Social Brands
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220408T150811Z

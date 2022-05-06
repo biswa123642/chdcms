@@ -1,0 +1,23 @@
+﻿---
+ID: "c7ee7244-5816-4153-81f7-da31906773b9"
+Parent: "4a3e84e9-62f8-4df8-90de-343c4a04d490"
+Template: "e854b5b7-510c-4b65-97f7-d483a9b54398"
+Path: /sitecore/content/OneWeb/Default/Data/Snippets
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113139Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5836f5f4-3a20-4bc4-98b1-00d3984943a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113139Z

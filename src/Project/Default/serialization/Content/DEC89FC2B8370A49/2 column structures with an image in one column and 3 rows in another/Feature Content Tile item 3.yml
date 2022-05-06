@@ -1,0 +1,52 @@
+﻿---
+ID: "9cd98387-5e23-4589-b7c5-5ed6fc203706"
+Parent: "3042b370-e183-4b54-983f-6e9e74e15d8c"
+Template: "a14d9266-1924-4e7f-87cc-760e2f8429ce"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 3/Feature Content Tiles/Data/2 column structures with an image in one column and 3 rows in another/Feature Content Tile item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e4da860-d6cf-4956-8d76-66331aa43cd0"
+      Hint: SubText
+      Value: For Powerful chewing styles
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T093934Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "56e00b83-fc40-44eb-8d42-cbbba12722fa"
+      Hint: IsCTAButton
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c18989be-0260-4949-bbd8-f3b0d238549a"
+    - ID: "a037a33f-213e-412e-8d6c-71b2be082773"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{48E40C07-ADFA-4C32-BB7C-062D477A26AC}" />
+    - ID: "ac0ef552-e2a9-4e8f-8942-4b8ab5061e4b"
+      Hint: CTA
+      Value: |
+        <link text="Buy Now" linktype="external" url="https://www.google.co.in/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d140070d-9058-400a-82ca-36aee31966d5"
+      Hint: Image
+      Value: |
+        <image mediaid="{79443CC5-051C-4F38-9ACE-0C7D1DA8DA31}" ></image>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220226T082215Z
+    - ID: "f2995045-5047-4be3-be4a-dbe0a1530118"
+      Hint: Title
+      Value: Puppy Power Chew Teething Rings

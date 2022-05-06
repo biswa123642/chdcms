@@ -1,0 +1,22 @@
+@import "abstracts/mixins";
+@import "abstracts/vars";
+@import "base/fontawesome/font-awesome-mix-var";
+@import "variants/component-product-details/product-article.scss";
+@import "variants/component-product-details/product-variant.scss";
+@import "variants/component-product-details/product-image.scss";
+
+// product related article and product
+.component {
+    &.variant-4 {
+        @import "variants/component-product-details/variant-4.scss";
+    }
+    &.variant-3 {
+        @import "variants/component-product-details/variant-3.scss";
+    }
+    &.variant-2 {
+        @import "variants/component-product-details/variant-2.scss";
+    }
+    &.variant-1 {
+        @import "variants/component-product-details/variant-1.scss";
+    }
+}

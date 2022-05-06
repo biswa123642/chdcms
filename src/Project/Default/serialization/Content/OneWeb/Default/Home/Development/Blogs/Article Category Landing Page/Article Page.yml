@@ -1,0 +1,29 @@
+﻿---
+ID: "3b68d923-8997-4af6-9293-99e397421601"
+Parent: "1675a122-b9b7-4af7-8b97-e41ae5bd2169"
+Template: "057af325-c948-4918-a4e4-2c3f6cf04524"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Blogs/Article Category Landing Page/Article Page
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T194708Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Article Page
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: Article Page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5217c4e1-88e6-4481-9ac2-4d52389bd8e7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T194708Z

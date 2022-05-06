@@ -1,0 +1,23 @@
+﻿---
+ID: "da336338-cdee-4cc0-98ed-2eb9e75750df"
+Parent: "3dfe7124-a233-4d02-813e-82bd71d40211"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Hubspot Form/Default Hubspot Form Variant/$name/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134629Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "716d09c9-1a83-4ba3-be6a-7aa5529687d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Ra8SfGOD1b
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220217T100621Z

@@ -1,0 +1,38 @@
+﻿---
+ID: "67fbe38e-ad70-46ad-91fb-da677354a015"
+Parent: "9d27e8c7-8046-48bf-8ddc-c16bff4bd9f2"
+Template: "78eaf4cb-0300-4ecd-be80-3a1afdd4fe32"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Pennington Home/Data/Image Gallery Data/Image Gallery List Item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "100dd90d-1e9c-44b4-a8ce-35ea4bcc2f1a"
+      Hint: Image
+      Value: |
+        <image mediaid="{72C8B40B-E804-4DD0-8086-863C7FB1456D}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220214T091900Z
+    - ID: "43744896-2016-4a47-8200-4a43438399e2"
+      Hint: Title
+      Value: "Photo credit: April Nobile, CASENT0005804 from www.antweb.org (CC BY 4.0)"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "096f0f7d-a811-409a-bb4a-7b85c73c66ea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220225T114807Z

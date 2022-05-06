@@ -1,0 +1,23 @@
+﻿---
+ID: "5c33de75-cd5d-4c10-b76e-ab7574ed54a1"
+Parent: "1c94106c-3df2-4728-b1ef-a4c52f1a6764"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Multi Column Content Tiles/Default Multi Column Content Tiles Variant/$name/Default
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134629Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c59016b4-f8a2-47f5-bd91-f364ed4505ed"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220218T122626Z

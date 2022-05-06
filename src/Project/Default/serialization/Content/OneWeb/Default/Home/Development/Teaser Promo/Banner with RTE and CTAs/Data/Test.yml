@@ -1,0 +1,49 @@
+﻿---
+ID: "794e79ca-8de4-427f-a674-527d348b6d3d"
+Parent: "65f6a754-b5a0-4269-91d2-71f49f5ee836"
+Template: "d1070ed7-b4f7-4c03-b622-f9b5fb072dea"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Teaser Promo/Banner with RTE and CTAs/Data/Test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T111333Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68a9ed16-a3b4-4b4f-b9e8-7b5585772a62"
+      Hint: SecondCTA
+      Value: |
+        <link id="{59BE2D06-D1B7-479F-92D0-B16D7F0D7891}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Demo Page with Variants" linktype="internal" target="" />
+    - ID: "7cf24deb-783d-4e7a-be2d-1c5410b73c66"
+      Hint: FirstCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" target="" text="Contact" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c92ce44-5323-4ac6-adbf-99da234823bc"
+    - ID: "9fd53b32-f6f3-484c-b662-d9a1b2013a0d"
+      Hint: Description
+      Value: Central Garden &amp; Pet is a market leader in the Garden and Pet industries. For over 40 years, Central has proudly nurtured happy and healthy homes by bringing innovative and trusted solutions to its consumers and customers.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca6a3070-03e0-47cf-ba54-c58f83c49cfa"
+      Hint: Title
+      Value: <p>About</p><p>Us</p>
+    - ID: "d5db3ec5-82d2-4995-b094-d53b8d029187"
+      Hint: ThirdCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" target="" text="Where to Buy" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220221T095133Z

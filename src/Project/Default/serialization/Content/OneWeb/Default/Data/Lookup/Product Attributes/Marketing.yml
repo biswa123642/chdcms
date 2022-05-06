@@ -1,0 +1,23 @@
+﻿---
+ID: "2ff39e59-f083-4a70-b08a-0ebc07884023"
+Parent: "169208fb-b185-46f4-a1a3-d50ac284b64c"
+Template: "1659c58a-bcf0-4364-9eff-e2da49bbde8b"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Marketing
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T131233Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04c551e4-50cf-498a-8403-a8911c9e42a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T131233Z

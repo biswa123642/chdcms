@@ -1,0 +1,16 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/fonts/fonts";
+@import "base/fontawesome/font-awesome";
+
+.component {
+    &.hero {
+        @import "variants/component-hero-banner/with-text.scss";
+
+        //@import "variants/component-hero-banner/with-card.scss";
+
+        //@import "variants/component-hero-banner/with-carousel.scss";
+
+    }
+}

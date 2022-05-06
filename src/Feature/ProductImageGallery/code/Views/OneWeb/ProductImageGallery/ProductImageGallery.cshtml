@@ -1,0 +1,20 @@
+﻿@using Sitecore.XA.Foundation.MarkupDecorator.Extensions
+@using Sitecore.XA.Foundation.RenderingVariants.Extensions
+@using Sitecore.XA.Foundation.RenderingVariants.Fields
+@using Sitecore.XA.Foundation.SitecoreExtensions.Extensions
+@using Sitecore.XA.Foundation.Variants.Abstractions.Fields
+
+
+@model CGP.Feature.ProductImageGallery.Models.ProductImageGalleryViewModel
+
+<div @Html.Sxa().Component(Model.Rendering.RenderingCssClass ?? "product-image-gallery", Model.Attributes)>
+    <div class="component-content">
+        @foreach (BaseVariantField variantField in Model.VariantFields)
+        {
+            @Html.RenderingVariants().RenderVariant(variantField, Model.Item, Model.RenderingWebEditingParams, Model)
+        }
+        <div id="product-image-gallery-json" style="display:none">
+                @Html.Raw(Model.JSONData)
+        </div>
+    </div>
+</div>

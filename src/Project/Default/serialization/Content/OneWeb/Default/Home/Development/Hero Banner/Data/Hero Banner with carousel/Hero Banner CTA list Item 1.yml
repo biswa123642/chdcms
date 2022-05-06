@@ -1,0 +1,50 @@
+﻿---
+ID: "dfbf3658-fac8-499d-9c41-0490d1cedb13"
+Parent: "8725569f-c814-4192-8982-4eb9bbbe29db"
+Template: "0c9bae31-9786-43ca-93fd-de3ef38a85d4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Banner/Data/Hero Banner with carousel/Hero Banner CTA list Item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0FB13E06-F828-48D0-B4B6-A85C28399E89}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08376f75-ec67-4014-9916-44c83984ca8c"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{F142A66F-1623-46B6-8067-C142DD1BFC53}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T180933Z
+    - ID: "2fbec29b-50c9-4308-9a2f-e7281129f1f7"
+      Hint: ListItemCTAOverride
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{DFBF3658-FAC8-499D-9C41-0490D1CEDB13}" />
+    - ID: "6c57b94a-e1ca-4e14-88be-5bf27a3b363f"
+      Hint: Title
+      Value: |
+        <strong>ANT</strong><br />
+        CONTROL
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c95bf18f-139b-4b9f-9e51-55d9599060b1"
+    - ID: "8f33dbfa-cb0e-45d5-a7aa-5256ce6d1175"
+      Hint: ListItemCTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{47C26EB8-7367-4238-B3A3-9116CEA66D9A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c5cff45a-e3d7-4944-a938-29d1b9cba345"
+      Hint: CheckToOverrideListItemCTA
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220410T165532Z

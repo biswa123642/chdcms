@@ -1,0 +1,45 @@
+﻿---
+ID: "522c1f42-7fab-4d19-96fc-af2ec9654aa1"
+Parent: "cf4488b7-f4c4-4c1a-a022-1f14afe3f3b2"
+Template: "3c7c79e8-554d-46d9-bf1a-63da22a4ee6f"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Carousel with Bottom Links/Data/Carousel Data/Slide Item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220130T093430Z
+    - ID: "3bfd4b9e-3049-4c8d-a9b5-6bebb83f895d"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{12CA1ADC-54E2-4F70-896C-B117B0C211D3}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc2db6eb-6897-4948-bdd7-1fec6038e0e8"
+    - ID: "a8933445-15ca-4e23-b171-a33892eb0ef8"
+      Hint: SlideCardTitle
+      Value: |
+        <img height="170" alt="Quote" width="510" src="-/media/8FA76D2C9A5F43439DA5F30293645DD3.ashx" />
+    - ID: "b34e88f9-8800-43b1-92b5-029fbfae12e9"
+      Hint: SlideCardLogo
+      Value: |
+        <image mediaid="{C97BC912-0A8E-42FD-9F44-01143D5C506A}" ></image>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d691b058-6e52-4e4b-baae-a23aed9de6e0"
+      Hint: SlideCardSubText
+      Value: Vitamins, supplements, and healing & care solutions expertly created for your furry friend.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T101400Z
+    - ID: "e10d2e79-68cc-438a-a732-abf80f62be76"
+      Hint: SlideCardCTA
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{56330F04-C59B-444F-8ADF-5E85F2057FCD}" />

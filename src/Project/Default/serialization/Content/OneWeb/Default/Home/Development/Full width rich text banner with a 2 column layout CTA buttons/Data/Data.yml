@@ -1,0 +1,46 @@
+﻿---
+ID: "adddd1e2-0c26-4b70-8005-ad0111a91f88"
+Parent: "ab6c25c8-1ed8-4bee-b2b1-4234a6e007b4"
+Template: "d1070ed7-b4f7-4c03-b622-f9b5fb072dea"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Full width rich text banner with a 2 column layout CTA buttons/Data/Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T114407Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68a9ed16-a3b4-4b4f-b9e8-7b5585772a62"
+      Hint: SecondCTA
+      Value: |
+        <link text="Download" anchor="download" linktype="internal" class="" title=""  querystring="" id="{179C2FE8-C785-47F1-9B12-829A3635E88F}" />
+    - ID: "7cf24deb-783d-4e7a-be2d-1c5410b73c66"
+      Hint: FirstCTA
+      Value: |
+        <link text="View" anchor="view" linktype="internal" class="" title=""  querystring="" id="{179C2FE8-C785-47F1-9B12-829A3635E88F}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6090c2f8-b432-4bef-af65-bdbde67e1eeb"
+    - ID: "9fd53b32-f6f3-484c-b662-d9a1b2013a0d"
+      Hint: Description
+      Value: |
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "ca6a3070-03e0-47cf-ba54-c58f83c49cfa"
+      Hint: Title
+      Value: Latest Quarter for Annual Filling
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T105800Z

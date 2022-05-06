@@ -1,0 +1,45 @@
+﻿---
+ID: "04890a8f-e867-4acc-bfd9-ec791cfc7241"
+Parent: "d779eda8-5c4b-483b-af1b-087d778088c7"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Hero Carousel/Default Hero Carousel Variant/$name/Default/Rendering Parameter/Carousel Wrapper/Slide Container/Section/Query/Edit Frame/Slide Overlay Card
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{flag= i_item.HideSlideOverlayCard | string.contains "1" }}
+    {{ if flag==true}}
+    <div class="section-container is-hide-slide">
+    {{ sc_execute i_item "Section" }}
+    </div>
+    {{ else}}
+    <div class="section-container">
+    {{ sc_execute i_item "Section" }}
+    </div>
+    {{ end }}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220127T103011Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ea4e783-6e85-4d0c-815f-0822ec3068ac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220128T062442Z

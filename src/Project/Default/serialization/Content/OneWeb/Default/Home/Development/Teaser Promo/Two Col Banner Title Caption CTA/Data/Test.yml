@@ -1,0 +1,55 @@
+﻿---
+ID: "d379f99c-7b89-4fa8-8279-773d6833c07d"
+Parent: "a16ebd1a-c961-4977-9ec7-caf6473edfa5"
+Template: "d1070ed7-b4f7-4c03-b622-f9b5fb072dea"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Teaser Promo/Two Col Banner Title Caption CTA/Data/Test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T113603Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68a9ed16-a3b4-4b4f-b9e8-7b5585772a62"
+      Hint: SecondCTA
+      Value: |
+        <link text="FAQ" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />
+    - ID: "7cf24deb-783d-4e7a-be2d-1c5410b73c66"
+      Hint: FirstCTA
+      Value: |
+        <link text="CONTACT US" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />
+    - ID: "81651106-4b95-4713-84df-90a36c488b2f"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{F322CD9B-DEB7-4311-903F-4E1187E19021}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95128bd7-c1b3-4a1a-8bdf-3d3255c518bc"
+    - ID: "93e6482d-fb03-46b2-8e90-1bc13a59230d"
+      Hint: SecondaryTitle
+      Value: Our Mission
+    - ID: "9fd53b32-f6f3-484c-b662-d9a1b2013a0d"
+      Hint: Description
+      Value: "Central Garden &amp; Pet (NASDAQ: CENT, CENTA) is a market leader in the Garden and Pet industries. For over 40 years, Central has proudly nurtured happy and healthy homes by bringing innovative and trusted solutions to its consumers and customers.&nbsp;"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca6a3070-03e0-47cf-ba54-c58f83c49cfa"
+      Hint: Title
+      Value: Who We Are
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220302T140933Z
+    - ID: "eb9a2ca4-0cbd-42ee-a8c4-695fbf01abfe"
+      Hint: SecondaryDescription
+      Value: Lead the future of the Garden and Pet industries... one blade of grass and one wagging tail at a time&nbsp;

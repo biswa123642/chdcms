@@ -1,0 +1,28 @@
+﻿---
+ID: "dfcb6a79-c9ae-4dda-8957-3abc9ad38534"
+Parent: "0f2c6c47-6ad8-4b77-b45f-59c33e6c28e9"
+Template: "f9cf5c04-01c3-4060-a143-1e12421c09be"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/all-products/wild-bird/12-inch-feeder-hook/Variant Grouping"
+BranchID: "a4769d60-a7c4-4208-92d0-2d76fbbc062f"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9C8214E4-22F5-4B43-B5D0-AA98EA2F5E54}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T133737Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9c419142-903c-414f-80b6-0e4ca21946d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T133737Z

@@ -1,0 +1,40 @@
+﻿---
+ID: "cb44e32e-104c-42a1-850d-61083f0ffe69"
+Parent: "c9f3b592-d8c1-4854-937f-02e41cec7652"
+Template: "f9cf5c04-01c3-4060-a143-1e12421c09be"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/all-products/grass-seed/hummingbird-butterfly/Variant Grouping"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T030112Z
+    - ID: "2e934ee7-64dd-4b50-90dc-013f157ea150"
+      Hint: SecondaryVariationName
+      Value: Flavor
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca1a3a22-2c18-4099-8ce3-012f767d77fd"
+    - ID: "9e38b146-6580-4377-9ad4-1dfd595ebe67"
+      Hint: ChooseVariant
+      Value: |
+        {62E77E36-F657-4745-BB8F-BE62E744199C}
+        {D450BAD4-C731-44C1-8AB3-A520A90BD540}
+        {90BF6C7F-E017-46AC-9D0B-C1ADB3E06A65}
+        {0FC1029C-8F8A-41C8-9C94-3CF417A11D35}
+        {CFE6A5D8-EDCF-4EEE-871D-9B4CC608AF1A}
+    - ID: "ad4bc59b-2b83-45b1-a2ce-5a5bef26f459"
+      Hint: PrimaryVariationName
+      Value: Size
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c973c857-c930-4f40-993d-398bd49252e7"
+      Hint: TertiaryVariationName
+      Value: Color
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220412T111819Z

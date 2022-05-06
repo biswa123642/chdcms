@@ -1,0 +1,29 @@
+﻿---
+ID: "7d0b7c64-84e0-44c4-924c-2650692f7ed9"
+Parent: "16365dad-1caa-474a-a7e2-cf765c3cb35f"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Page Attributes/Region/Midwest
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T125831Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Midwest
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Midwest
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72e85c7b-fe96-4e3c-acf6-cf2f3bb1fc99"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T125831Z

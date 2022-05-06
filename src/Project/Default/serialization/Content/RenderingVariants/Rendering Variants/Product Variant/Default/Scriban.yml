@@ -1,0 +1,132 @@
+﻿---
+ID: "7b3b8249-4e83-4ee5-97d4-d7f13697d358"
+Parent: "29cbb99b-99ee-465e-8d3c-6688b9a327ea"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Product Variant/Default/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{productchildren = i_page.children}}
+    {{for variantgroup in productchildren}}
+        {{variantgrouptemplateid = variantgroup.template_id }}
+        {{if variantgrouptemplateid | string.contains "F9CF5C0401C34060A1431E12421C09BE"}}
+            {{primaryname = sc_field variantgroup "PrimaryVariationName"}}
+            {{secondaryname = sc_field variantgroup "SecondaryVariationName"}}
+            {{tertiaryname = sc_field variantgroup "TertiaryVariationName"}}
+           
+            {{selectedvariants = sc_followmany variantgroup "ChooseVariant"}}
+            {{if selectedvariants | array.size <= 0}}
+                {{selectedvariants = variantgroup.children}}
+            {{end}}
+    
+            {{primaryuniquearray = []}} {{secondaryuniquearray = []}} {{tertiaryuniquearray = []}}
+    
+                {{for primaryvariantvalue in selectedvariants | array.map "PrimaryVariationValue"}}
+                    {{if !(primaryuniquearray | array.contains primaryvariantvalue.raw)}}
+                        {{primaryuniquearray = primaryuniquearray| array.add primaryvariantvalue.raw}}
+                    {{end}}
+                {{end}}
+    
+                {{if primaryuniquearray != [] && primaryuniquearray != [""] && (primaryuniquearray | array.first) != ""}}
+                    <h4>{{primaryname}}</h4>
+                    <select name = "primaryvariationvalue" id = "primaryvariationvalue">
+                    {{for primaryvalue in primaryuniquearray}}
+                        <option value = "{{primaryvalue}}">{{primaryvalue}}</option>
+                    {{end}}
+                    </select>
+                {{else}}
+                    <h4 style = "display:none">{{primaryname}}</h4>
+                    <select name ="primaryvariationvalue" id = "primaryvariationvalue" style = "display:none">
+                    {{for primaryvalue in primaryuniquearray}}
+                        <option value = "{{primaryvalue}}">{{primaryvalue}}</option>
+                    {{end}}
+                    </select>
+                {{end}}
+    
+                    {{primaryarrayfirstvalue = primaryuniquearray | array.first}}
+                    {{for child in selectedvariants}}
+                        {{if child.PrimaryVariationValue.raw | string.contains primaryarrayfirstvalue}}
+                            {{if !(secondaryuniquearray | array.contains child.SecondaryVariationValue.raw)}}
+                                {{secondaryuniquearray = secondaryuniquearray| array.add child.SecondaryVariationValue.raw}}
+                            {{end}}
+                        {{end}}
+                    {{end}}
+                    {{if secondaryuniquearray != []  && secondaryuniquearray != [""] && (secondaryuniquearray | array.first) != ""}}
+                        <h4>{{secondaryname}}</h4>
+                        <select name = "secondaryvariationvalue" id = "secondaryvariationvalue">
+                        {{for secondaryvalue in secondaryuniquearray}}
+                            {{if secondaryvalue != ""}}
+                                <option value = "{{secondaryvalue}}">{{secondaryvalue}}</option>
+                            {{end}}
+                        {{end}}
+                        </select>
+                    {{else}}
+                        <h4 style = "display:none">{{secondaryname}}</h4>
+                        <select name = "secondaryvariationvalue" id = "secondaryvariationvalue" style = "display:none">
+                        {{for secondaryvalue in secondaryuniquearray}}
+                            <option value = "{{secondaryvalue}}">{{secondaryvalue}}</option>
+                        {{end}}
+                        </select>
+                   {{end}}
+    
+                   {{secondaryarrayfirstvalue = secondaryuniquearray | array.first}}
+                    {{for child in selectedvariants}}
+                        {{if (child.PrimaryVariationValue.raw | string.contains primaryarrayfirstvalue) && (child.SecondaryVariationValue.raw | string.contains secondaryarrayfirstvalue)}}
+                            {{if !(tertiaryuniquearray | array.contains child.TertiaryVariationValue.raw)}}
+                                {{tertiaryuniquearray = tertiaryuniquearray | array.add child.TertiaryVariationValue.raw}}
+                            {{end}}
+                        {{end}}
+                    {{end}}
+                    {{if tertiaryuniquearray != [] && tertiaryuniquearray != [""] && (tertiaryuniquearray | array.first) != ""}}
+                        <h4>{{tertiaryname}}</h4>
+                        <select name = "tertiaryvariationvalue" id = "tertiaryvariationvalue">
+                        {{for tertiaryvalue in tertiaryuniquearray}}
+                            {{if tertiaryvalue != ""}}
+                            <option value = "{{tertiaryvalue}}">{{tertiaryvalue}}</option>
+                            {{end}}
+                        {{end}}
+                        </select>
+                    {{else}}
+                        <h4 style = "display:none">{{tertiaryname}}</h4>
+                        <select name = "tertiaryvariationvalue" id = "tertiaryvariationvalue" style = "display:none">
+                        {{for tertiaryvalue in tertiaryuniquearray}}
+                            <option value = "{{tertiaryvalue}}">{{tertiaryvalue}}</option>
+                        {{end}}
+                        </select>
+                    {{end}}
+               
+                <div class = "where-to-buy">
+                    {{sc_placeholder"ph-product"}}
+                </div>
+                <div class = "variant-description">
+                </div>
+            {{break}}
+        {{end}}
+    {{end}}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T092847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4cdca000-b7d6-40eb-b4de-769ee470fcbd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T105031Z

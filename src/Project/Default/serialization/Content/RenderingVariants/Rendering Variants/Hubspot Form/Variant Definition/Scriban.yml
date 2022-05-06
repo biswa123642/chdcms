@@ -1,0 +1,59 @@
+﻿---
+ID: "8852d6ec-cf8d-4f30-9607-3e3b5f2cc101"
+Parent: "0a165447-fff3-44fb-8521-2afcdfea24e5"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Hubspot Form/Variant Definition/Scriban
+SharedFields:
+- ID: "7b5b7e8d-e579-44aa-8174-d4594db0c2f9"
+  Hint: CssClass
+  Value: "hubspot-form"
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ if (o_pagemode.is_experience_editor_editing) }}
+    
+    Portal ID : {{ sc_field i_item "PortalId" }} 
+    <br>
+    Form ID : {{ sc_field i_item "FormId" }}
+    {{ else }}
+    
+    <!--[if lte IE 8]>
+    <script charset="utf-8" type="text/javascript" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+    <div id="hubspot-{{i_item.FormId}}">
+    </div>
+    <script charset="utf-8" type="text/javascript" src="https://js.hsforms.net/forms/v2.js"></script>
+    <script>
+    hbspt.forms.create({
+    region: "na1",
+    portalId: "{{i_item.PortalId}}",
+    formId: "{{i_item.FormId}}",
+    target: "#hubspot-{{i_item.FormId}}"
+    });
+    </script>
+    {{ end }}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220207T115353Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e696d33-b336-4559-9eb6-73793cca49d0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220207T134947Z

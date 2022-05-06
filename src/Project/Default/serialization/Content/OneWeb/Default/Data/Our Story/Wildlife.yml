@@ -1,0 +1,37 @@
+﻿---
+ID: "d1850ffd-b953-4447-ab7f-842b1474595c"
+Parent: "3f4952a0-d365-4e55-915a-9c43431ec706"
+Template: "89d040b7-105e-42ba-ab77-40b955bf1497"
+Path: /sitecore/content/OneWeb/Default/Data/Our Story/Wildlife
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T135247Z
+    - ID: "40761a54-86ff-42e9-8a58-8ec4823a95bf"
+      Hint: SubTitle
+      Value: Wildlife
+    - ID: "88626934-cbf9-42ec-9278-5e67819ff269"
+      Hint: BrandDescription
+      Value: With more than three decades of research and development, Pennington products have become a leader in the production of wildlife seed.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "57c34a64-f46c-45c4-a564-115fa60e41d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220422T052304Z
+    - ID: "da855756-75ea-4220-b5cd-bcaabe9ef7d0"
+      Hint: BrandLogo
+      Value: |
+        <image mediaid="{57D64563-D82E-47E0-A67A-149A8EC78C5B}" />
+    - ID: "f83550c0-3d8d-4626-af31-d9840375ee0d"
+      Hint: CTA
+      Value: |
+        <link text="ABOUT" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

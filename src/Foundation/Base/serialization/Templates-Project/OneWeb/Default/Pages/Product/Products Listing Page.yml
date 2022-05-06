@@ -1,0 +1,45 @@
+﻿---
+ID: "80ed8527-6794-4b69-8c25-035c6b33eeef"
+Parent: "25dc28d3-d700-4622-b44f-ab3450d240f5"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/OneWeb/Default/Pages/Product/Products Listing Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: ApplicationsV2/32x32/preferences.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {0BEC8E55-1F86-4C69-94D3-8651E1A1D38A}
+    {A7AEB4B3-99F3-439A-9F98-948D9228250B}
+    {CDFB50F9-B72C-464B-966F-9D17379C9262}
+    {B030C982-19DB-419F-AB29-183532B0791E}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{679F8766-073B-4F14-91BC-9222A9827058}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220320T180708Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0158e8d8-5eae-433c-8351-8d89b5b5b9cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T164629Z

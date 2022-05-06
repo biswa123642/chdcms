@@ -1,0 +1,29 @@
+﻿---
+ID: "a7aec107-0b8f-4079-97bc-373af1dfd653"
+Parent: "58529d4e-dfda-4b65-8823-1da65d4fc5ac"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Page Attributes/Topic/Lawn Care
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T130329Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Lawn Care
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Lawn Care
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "838f7e53-1f9e-42fe-b7fd-c5607df59bf2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T130329Z

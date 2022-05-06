@@ -1,0 +1,38 @@
+﻿---
+ID: "73d87da0-7243-46c2-b62f-14ac65c8d4da"
+Parent: "1e28caee-eafe-4f72-9b97-84408c9abd5a"
+Template: "21e9bd9f-1259-4a0a-b862-a250abf7a8b1"
+Path: /sitecore/content/OneWeb/Default/Presentation/Partial Designs/Development/Footer/Data/Brand Listing/Navigation Link Item 1
+BranchID: "574ddb5d-100b-48b0-a8eb-91aa817a72f2"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{39307E3D-CDBA-4837-9D1E-600F549967BA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1a984fb2-76bd-4a5b-a71b-c163ae3d23e9"
+      Hint: Image
+      Value: |
+        <image mediaid="{840BBD12-7D19-4FA3-BC91-589F504FDB40}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220309T090227Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd9af18f-48fc-4853-b1ec-cfaf95765fcc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220309T090541Z

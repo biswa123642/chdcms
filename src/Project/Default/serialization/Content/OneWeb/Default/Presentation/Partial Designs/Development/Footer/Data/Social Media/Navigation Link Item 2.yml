@@ -1,0 +1,31 @@
+﻿---
+ID: "8b3d7356-9b67-4617-80eb-eb5cba4a2f12"
+Parent: "e856ba39-4f0a-48bf-8a52-9a6c3167e5c1"
+Template: "21e9bd9f-1259-4a0a-b862-a250abf7a8b1"
+Path: /sitecore/content/OneWeb/Default/Presentation/Partial Designs/Development/Footer/Data/Social Media/Navigation Link Item 2
+BranchID: "574ddb5d-100b-48b0-a8eb-91aa817a72f2"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AF65064D-304A-4B40-92C6-A4EA161DBA79}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220309T083616Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dfb6e07f-1602-4b77-9007-c27c1b8d96d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220314T120602Z
+    - ID: "f35d245b-3a57-4132-a025-00a22429f296"
+      Hint: IconClass
+      Value: "fa fa-facebook fa-2x"

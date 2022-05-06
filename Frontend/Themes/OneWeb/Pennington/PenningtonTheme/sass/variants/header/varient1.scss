@@ -1,0 +1,25 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/fonts/fonts";
+@import "base/fontawesome/font-awesome";
+
+&.varient-1{
+    position: relative;
+    border-top: 8px solid $bg-blue-active;
+    transition:all ease-in-out 200ms;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: 1;
+    min-height: 190px;
+    background-position: 50% 90%;
+    background-image: url(../images/menubar.png);
+    .logo-wrap{
+        position: absolute;
+        transform: translateX(-50%);
+        left: 50%;
+        top: 15px;
+        z-index: 1;
+    }
+}

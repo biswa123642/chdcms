@@ -1,0 +1,45 @@
+﻿---
+ID: "71b2257a-a10c-43a7-872c-dfd4bf80b9b3"
+Parent: "58d02e15-9547-4883-bff1-efe4e2374b47"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Page Content/Product Description/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    <div class ="product-wrapper">
+    <div class ="product-title">
+    <h1>{{sc_field i_item "Title"}}</h1>
+    <p>{{sc_field i_item "SubTitle"}}</p>
+    </div>
+    
+    {{sc_placeholder "PH-PowerReviews"}}
+    
+    <div class ="body-copy">{{sc_field i_item "Content"}}</div>
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T092847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8b823bd6-7217-4ecb-9f5e-dc669cdbe6e4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220323T063435Z

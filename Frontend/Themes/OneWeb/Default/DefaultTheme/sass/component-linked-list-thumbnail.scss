@@ -1,0 +1,72 @@
+@import "abstracts/mixins";
+@import "abstracts/vars";
+@import "base/fontawesome/font-awesome-mix-var";
+
+.component {
+    &.linked-thumbnail {
+        max-width: 90%;
+        margin: auto;
+        padding: 2rem;
+
+        h3 {
+            font-size: 2.1rem;
+            color: $orange;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 4rem;
+        }
+
+        ul {
+            .slick-track {
+                display: flex;
+                
+                 .slick-slide {
+                display: flex;
+                height: auto;
+                align-items: center;
+                justify-content: center;
+                }
+            }
+            button {
+
+                &.slick-prev,
+                &.slick-next {
+                    color: $orange;
+                    margin-top: -0.8rem;
+
+                    &:before,
+                    &:after {
+                        font-size: 2rem;
+                    }
+                }
+            }
+
+            /*&.slick-next {
+        color:$orange;
+         }
+    }*/
+            li {
+                img {
+                    width:20rem;
+                    margin: auto;
+                    padding: 1rem;
+                }
+
+            }
+        }
+
+        @include respond-to(desktop) {
+            h3 {
+                font-size: 2.8rem;
+            }
+            ul{
+            li {
+                img {
+                    width: 8rem;
+                }
+            }
+        }
+    }
+
+    }
+}

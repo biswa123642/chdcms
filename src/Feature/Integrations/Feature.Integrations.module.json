@@ -1,0 +1,32 @@
+{
+	"namespace": "Feature.Integrations",
+	"references": [ "*Foundation.*" ],
+	"items": {
+		"includes": [
+			{
+				"name": "Renderings",
+				"path": "/sitecore/layout/Renderings/Feature/OneWeb/Integrations",
+				"allowedPushOperations": "createUpdateandDelete",
+				"scope": "itemAndDescendants"
+			},
+			{
+				"name": "PowerReviewsTemplates",
+				"path": "/sitecore/templates/Feature/OneWeb/Power Reviews",
+				"allowedPushOperations": "createUpdateandDelete",
+				"scope": "itemAndDescendants"
+			},
+			{
+				"name": "PowerReviewsBranch-Templates",
+				"path": "/sitecore/templates/Branches/Feature/OneWeb/Power Reviews",
+				"allowedPushOperations": "createUpdateandDelete",
+				"scope": "itemAndDescendants"
+			},
+			{
+				"name": "System/Settings",
+				"path": "/sitecore/system/Settings/Feature/OneWeb/Power Reviews",
+				"allowedPushOperations": "createUpdateandDelete",
+				"scope": "itemAndDescendants"
+			}
+		]
+	}
+}

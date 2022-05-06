@@ -1,0 +1,20 @@
+{
+	"namespace": "Project.Website",
+	"references": [ "*Feature.*"],
+	"items": {
+		"includes": [	
+			// {
+			// 	"name": "Templates-Project",
+			// 	"path": "/sitecore/templates/Project/OneWeb",
+			// 	"scope": "DescendantsOnly",
+			// 	"allowedPushOperations": "createUpdateAndDelete"
+			// },		
+			{
+				"name": "MediaLibrary-Project-OneWeb-shared",
+				"path": "/sitecore/media library/Project/OneWeb/shared",
+				"scope": "ItemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			}
+		]
+	}
+}

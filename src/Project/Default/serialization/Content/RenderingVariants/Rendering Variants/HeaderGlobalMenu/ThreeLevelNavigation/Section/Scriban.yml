@@ -1,0 +1,144 @@
+﻿---
+ID: "602bcd85-4b4a-467f-b18c-ec91ae5eb20f"
+Parent: "d08e66e2-807a-4e78-a4ac-841538021e8e"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/HeaderGlobalMenu/ThreeLevelNavigation/Section/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{sc_editframe i_item 'Custom List'}}
+    {{img= i_item.ImageAsLink.raw | string.contains "1"}}
+    {{flag= i_item.HasSubMenu.raw | string.contains "1" }}
+    {{if(img==true)}}
+    <i class="arrow"></i>
+    {{sc_field i_item "Image"}}
+    {{sc_field i_item "Link"}}
+    
+    
+    
+    
+    
+    {{else if flag==true}}
+    <i class="arrow"></i>
+    {{sc_field i_item "Link"}}
+    {{else}}
+    {{sc_field i_item "Link"}}
+    
+    
+    
+    
+    
+    {{end}}
+    {{sc_endeditframe}}
+    
+    
+    
+    {{ if flag==true}}
+    <div class="sub-menu-container">
+    <div class="sub-menu-left">
+    {{ for subnav in i_item.Children}}
+    <ul class="sub-menu-list-div">
+    <li>
+    {{sc_editframe i_item 'Custom List'}}
+    {{img= subnav.ImageAsLink.raw | string.contains "1"}}
+    {{if (img==true)}}
+    {{ sc_field subnav "Image"}}
+    {{ sc_field subnav "Link"}}
+    {{else}}
+    {{ sc_field subnav "Link"}}
+    {{end}}
+    {{sc_endeditframe}}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    {{flag= subnav.HasSubMenu.raw | string.contains "1" }}
+    {{ if flag==true}}
+    <ul class="sub-menu-link-list">
+    {{ for thirdnav in subnav.Children}}
+    <li>
+    {{sc_editframe i_item 'Custom List'}}
+    {{img= thirdnav.ImageAsLink.raw | string.contains "1"}}
+    {{if (img==true)}}
+    {{ sc_field thirdnav "Image"}}
+    {{ sc_field thirdnav "Link"}}
+    {{else}}
+    {{ sc_field thirdnav "Link"}}
+    {{ end }}
+    {{sc_endeditframe}}
+    </li>
+    {{end}}
+    </ul>
+    {{end}}
+    </li>
+    </ul>
+    {{end}}
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    <div class="sub-menu-right">
+    {{sc_editframe i_item 'Custom List'}}
+    <div class="links">
+    {{sc_field i_item "ViewAllProductsLink"}}
+    
+    
+    
+    
+    
+    
+    
+    {{sc_field i_item "SolutionFinderLink"}}
+    
+    
+    
+    
+    
+    
+    
+    {{sc_field i_item "WhereToBuyLink"}}
+    </div>
+    <div class="social-media">
+    {{if (i_item.SocialMedia)}}
+    {{ for i_socialmedia in (sc_followmany i_item "SocialMedia") }}
+    <a href="{{i_item.Link.url}}"><span class="{{i_socialmedia.IconClass.raw}}"></span></a>
+    {{end}}
+    {{end}}
+    </div>
+    {{sc_endeditframe}}
+    </div>
+    </div>
+    {{end}}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T070322Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1d83d0c-7249-4b24-ac35-fabc8ed02198"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220328T074528Z

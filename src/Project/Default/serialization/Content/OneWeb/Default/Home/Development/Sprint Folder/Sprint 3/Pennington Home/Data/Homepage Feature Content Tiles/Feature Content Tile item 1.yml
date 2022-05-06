@@ -1,0 +1,50 @@
+﻿---
+ID: "4e4f8be1-ffeb-4e3d-bbb2-a0d170226513"
+Parent: "49662c40-749d-4e7f-8533-4df318cea8e1"
+Template: "a14d9266-1924-4e7f-87cc-760e2f8429ce"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 3/Pennington Home/Data/Homepage Feature Content Tiles/Feature Content Tile item 1
+BranchID: "bb7277a3-96ea-4093-939c-48bb45d51b5a"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1A57BAFB-522B-4F89-BD3E-1173C27900B7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1e4da860-d6cf-4956-8d76-66331aa43cd0"
+      Hint: SubText
+      Value: There are a lot of factors that go into growing a beautiful stand of grass or a thriving garden. Here we’ll share the expertise we’ve honed since 1945 to make sure your project is a success.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T085950Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11078c2a-ba62-4216-9dcb-bf91926c6fc4"
+    - ID: "ac0ef552-e2a9-4e8f-8942-4b8ab5061e4b"
+      Hint: CTA
+      Value: |
+        <link linktype="internal" text="GET ANSWERS" querystring="" target="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d140070d-9058-400a-82ca-36aee31966d5"
+      Hint: Image
+      Value: |
+        <image mediaid="{90CFEF18-2DBC-4430-AAC7-F785619E17C1}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T090418Z
+    - ID: "f2995045-5047-4be3-be4a-dbe0a1530118"
+      Hint: Title
+      Value: FAQS

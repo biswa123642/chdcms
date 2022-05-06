@@ -1,0 +1,29 @@
+﻿---
+ID: "6bf71ac8-51ea-45c5-91e0-2797f62a48cd"
+Parent: "b9bdd8b9-b23d-4f25-8718-9d95dac804c3"
+Template: "b9bdd8b9-b23d-4f25-8718-9d95dac804c3"
+Path: /sitecore/templates/Project/OneWeb/Default/Utility/Media Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {4CA4C238-434D-48FC-8408-6AF16C8C76FA}
+    {1E9F56B7-FD80-4EAE-9FD4-8AB6242C6DB8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T051152Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec7f6639-b63f-4790-995c-0fe7653b753e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220321T051247Z

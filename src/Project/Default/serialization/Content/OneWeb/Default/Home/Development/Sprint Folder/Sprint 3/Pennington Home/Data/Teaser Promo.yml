@@ -1,0 +1,49 @@
+﻿---
+ID: "3165f4a7-0f5e-470c-88eb-9b3252e238bb"
+Parent: "82dd88f8-bb8d-40f8-854f-9cb2ad99afca"
+Template: "d1070ed7-b4f7-4c03-b622-f9b5fb072dea"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 3/Pennington Home/Data/Teaser Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T102422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68a9ed16-a3b4-4b4f-b9e8-7b5585772a62"
+      Hint: SecondCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Website" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "7cf24deb-783d-4e7a-be2d-1c5410b73c66"
+      Hint: FirstCTA
+      Value: |
+        <link id="{1826AEB8-F6BE-4D3D-85CA-6E5AA5007D34}" querystring="" text="Contact" url="/OneWeb/Default/Home/Demo Folder/Pennington Demo" linktype="internal" target="" />
+    - ID: "81651106-4b95-4713-84df-90a36c488b2f"
+      Hint: TeaserImage
+      Value: |
+        <image mediaid="{ED0ECF1B-DCEC-46FF-8FB4-B9064ADD25EC}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4aaeace2-34ed-4ec9-904f-c165c59861ae"
+    - ID: "9fd53b32-f6f3-484c-b662-d9a1b2013a0d"
+      Hint: Description
+      Value: "Central Garden Distribution is a full-scale distribution and logistics company committed to distributing lawn, garden, pottery and other outdoor products to our loyal customers.&nbsp; We differentiate ourselves through superior customer service and aim to delight all of our customers with outstanding products."
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca6a3070-03e0-47cf-ba54-c58f83c49cfa"
+      Hint: Title
+      Value: <p>Garden</p><p>Distribution</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220224T125744Z

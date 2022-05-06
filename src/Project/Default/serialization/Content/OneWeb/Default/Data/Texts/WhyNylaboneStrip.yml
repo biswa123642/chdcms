@@ -1,0 +1,69 @@
+﻿---
+ID: "5819f032-46f0-4ec7-b6cb-10fcf2064d77"
+Parent: "d6929c3c-1a93-40dc-beec-0f7c9e9f240a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Data/Texts/WhyNylaboneStrip
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Why Nylabone Strip
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220414T054240Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "390ea3d9-c549-47fd-a216-d841ef184e68"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="score-stripe orange-why-nyla" style="color: #ffffff; background-color: #f47523;">
+        <div class="container score-page-layout-column1">
+        <div class="score-column1">
+        <div class="score-center">
+        <div class="score-well well-15">
+        <div class="score-content-spot white-text-why-nylab">
+        <h3 style="z-index: 1;">WHY NYLABONE?</h3>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="score-stripe get-ready-stripe">
+        <div class="container full-width score-page-layout-column1">
+        <div class="score-column1">
+        <div class="score-center">
+        <div class="score-center-text">
+        <div class="score-content-spot get-ready-content-spot">
+        <p style="z-index: 1;">
+        Since 1955, Nylabone&reg; has been making the very best chew toys, chew treats, play toys, and dental solutions for dogs of every breed, shape, and size. Our wide assortment of products keeps our best friends happy
+        and entertained, promotes proper dental health, and satisfies dogs' natural chewing instincts.
+        </p>
+        <p style="z-index: 1;">&nbsp;</p>
+        <p style="z-index: 1;">To put it simply, Nylabone Chews Best&trade;!</p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220414T054341Z

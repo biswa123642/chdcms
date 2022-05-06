@@ -1,0 +1,22 @@
+
+@import "abstracts/vars";
+
+    &.brand-listing {
+        padding-top: 2rem;
+        .brand-img-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .inner-wrapper {
+            padding: 0rem 1rem;
+            & img {
+                max-width: 100%;
+                max-height: 6rem;
+                width: auto;
+            }
+        }
+    }
+    
+
+

@@ -1,0 +1,51 @@
+﻿---
+ID: "ca1d4376-c716-44d2-bfee-216cc72f63e0"
+Parent: "3fbe4ca6-233e-44ef-9223-64c79af0b43f"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Hero Carousel/CarouselWithLinkList/Scriban/Div/SlideWrap/Slides
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{timeout=sc_parameter "Timeout"}}
+    {{pauseonhover=sc_parameter "PauseOnHover" | string.contains "1"}}
+    {{autoplay=sc_parameter "Autoplay" | string.contains "1"}}
+    <div class="slides" data-slick='{"autoplay": {{autoplay}},"pauseOnHover":{{pauseonhover}},"autoplaySpeed":{{timeout}}}'>
+    {{ for child in i_item.Children 
+    
+     sc_editframe child 'Custom List'}}
+    
+    {{ sc_execute child "Slide"}}
+    
+    
+    {{sc_endeditframe
+    
+    
+     end}}
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T123654Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c80f01e-4d90-4ce2-b79a-ce8b3eeab6e5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220419T082741Z

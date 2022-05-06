@@ -1,0 +1,26 @@
+﻿@model CGP.Feature.Integrations.Models.IntegrationsViewModel
+
+@if (Model.EnableWhereToBuy)
+{
+    <meta name="ps-key" content="@Model.WhereToBuy.Account-@Model.WhereToBuy.Config">
+    <meta name="ps-country" content="@Model.WhereToBuy.Country">
+    <meta name="ps-language" content="@Sitecore.Context.Language">
+    <script src="//cdn.pricespider.com/1/lib/ps-widget.js" async></script>
+}
+
+@if (Model.EnablePowerReviews && Model.IsProductDetailPage)
+{
+    <style type="text/css">
+        .p-w-r {
+            display: none;
+        }
+    </style>
+    <link href="https://ui.powerreviews.com/tag-builds/10329/4.0/styles.css" type="text/css" rel="stylesheet">
+    <script>
+        window.pwr = window.pwr || function () {
+            (pwr.q = pwr.q || []).push(arguments);
+        };
+        data = @Html.Raw(Model.PowerReviews);
+        pwr("render", data);
+    </script>
+}

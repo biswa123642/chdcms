@@ -1,0 +1,30 @@
+﻿---
+ID: "3cf988cd-0463-4c0e-ac99-1647d19822bd"
+Parent: "3a38bfa1-f795-49da-9505-1e8dfc364847"
+Template: "1e9f56b7-fd80-4eae-9fd4-8ab6242c6db8"
+Path: /sitecore/media library/Project/OneWeb/Default/Development/Product Image Gallery/Video 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220330T170429Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a88cea74-96da-4526-8869-ba98e4490341"
+    - ID: "a887990a-c4b5-4a1b-bc2d-93617bbbb4f7"
+      Hint: YouTubeID
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220412T155818Z
+    - ID: "fa2bf576-4337-4c4f-82e7-490974c7a68b"
+      Hint: GalleryVideo
+      Value: |
+        <link id="{47C2F548-4117-4A97-B02B-24558E8B7295}" querystring="" text="" anchor="" title="" class="" url="/sitecore/media library/Project/OneWeb/Default/Development/Product Image Gallery/file_example_MP4_640_3MG" linktype="internal" />

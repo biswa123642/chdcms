@@ -1,0 +1,31 @@
+﻿---
+ID: "fd9c41c3-5e78-45bb-a5a6-64631ba112a1"
+Parent: "e77eee1c-4f50-4a68-918c-47e9a8fc0957"
+Template: "b0666cfe-8c7b-4cc1-8e32-8253742ebfa9"
+Path: /sitecore/content/Applications/WebEdit/Edit Frame Buttons/OneWeb
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T110255Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b58debd-fd79-41b2-873b-3857f66f477b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220201T073938Z

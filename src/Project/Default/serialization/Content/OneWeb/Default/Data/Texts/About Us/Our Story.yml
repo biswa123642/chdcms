@@ -1,0 +1,238 @@
+﻿---
+ID: "0e666f07-80a8-44fa-b295-114198dfa20d"
+Parent: "0ffb182c-bdde-49e7-a895-d3250dfacba1"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Data/Texts/About Us/Our Story
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220420T110107Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "359bd7aa-4c40-4a17-bc6b-8b74b1ee2535"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="container score-page-layout-column1 layout--wider">
+        <div class="score-column1 ">
+        <div class="score-center">
+        <div class="score-document-header">
+        <h1>Our Story
+        </h1>
+        </div>
+        <div class="score-content-spot">
+        Amdro products started with humble beginnings in the Southeast and quickly developed a devoted,
+        cult-like following for eliminating fire ants. Over 40 years later, the makers of Amdro products
+        continue to build the brand&rsquo;s following nationwide with products controlling ants, spiders,
+        cockroaches, grubs, mosquitoes, carpenter bees and many more. With our tested formulas, you can feel
+        confident your pest problem is over and get back to your life. Choose your weapon and let the battle
+        begin.
+        </div>
+        <ul class="score-list-group list-group--timeline">
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            1978
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/65A886639E9342579E2FA5942C0234F0.ashx?la=en&amp;hash=C61C05FE1588F7FC583C361EA17EBB7C8D09D0ED" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>THE BEGINNING</h3>
+            <p><a href="https://www.amdro.com/all-products/fire-ant-bait">Amdro
+            Fire Ant Bait</a> was patented (patent now expired) with delayed toxicity, so
+            soldier ants had time to carry the bait into the mound and feed to the queen. Once a
+            queen dies, the fire ant mound can no longer sustain itself.
+            </p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            1980s
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/99760B5ED805453AAA293CB92F105628.ashx?h=147&amp;la=en&amp;w=187&amp;hash=4003AC66F818BF70774EDF33BA51428956DE41B7" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>BACK ON THE FARM </h3>
+            <p><a href="/all-products/fire-ant-bait">Amdro Fire Ant Bait</a>
+            started to enter the marketplace primarily as an agricultural product. Farmers loved
+            it for its ability to eliminate fire ants from large pastures and fields in one
+            application.</p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            1989
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/F5FABFD8D8F241CA9DF366B6E40FD29B.ashx?h=121&amp;la=en&amp;w=181&amp;hash=4107649F06F58973397DC0CBCC35CCB2CEF1BBA1" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>BRINGING IT HOME</h3>
+            <p>Thanks to a redeveloped delivery method for the <a href="/all-products/fire-ant-bait">Fire Ant Bait</a>, homeowners could now
+            purchase Amdro products at their local hardware store or home center to use on their
+            lawns. </p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            2000
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/CAD36F00EE1941309AFB35DEE7B72BEA.ashx?la=en&amp;hash=5763D70BE89A7CCE3B906791CFF2E3B040BCE9D9" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>NEW FAMILY</h3>
+            <p>The Amdro products became a part of the <a rel="noopener noreferrer" href="https://www.central.com/" target="_blank">Central Garden &amp;
+            Pet</a>&nbsp;family of brands, making them
+            more accessible to a broader distribution network.</p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            2003
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/D68F8D6DC6C74538A83CE66F240143C9.ashx?h=144&amp;la=en&amp;w=145&amp;hash=E7C73FEC0B7770A5EB5026D175F62A8A68EA5C58" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>THE WHOLE YARD</h3>
+            <p>At the time, fire ants usually were treated after they were found
+            one mound at a time - enter <a href="/all-products/yard-treatment-fire-ant-bait-granules">Amdro Yard
+            Treatment</a>. Consumers now could treat their entire yard all at once to
+            prevent outbreaks.</p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            2004
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/DB1AC35CF970430CBCC68ED2AEB63CB9.ashx?h=138&amp;la=en&amp;w=143&amp;hash=F0131B36696E380BDE2DA641661EC6F85ED5D611" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>DEFEND THE HOME</h3>
+            <p>If Amdro products could eliminate fire ants, then they certainly
+            could protect your home from common ants. Enter <a href="/all-products/ant-block-home-perimeter-ant-bait-granules">Amdro Ant
+            Block</a> products as a home perimeter ant bait. Within a very short time it was
+            listed nationally and became the number one selling Amdro product.</p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            2012
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/B0C0EDE43CF34BA4BDA8EC3E6D2DE591.ashx?h=170&amp;la=en&amp;w=242&amp;hash=280FE18EE759D58C1A9C4B92617C0D44505F64CE" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>MOVING INSIDE</h3>
+            <p>The makers of Amdro products launched the brand&rsquo;s first
+            indoor product, <a href="/all-products/amdro-ant-killing-bait-stations">Ant Killing
+            Bait Stations</a>, providing consumers a complete indoor and outdoor ant
+            solution.</p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            2016
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/F5C8325601A64FA59A3E1E1EA2E0F245.ashx?h=159&amp;la=en&amp;w=232&amp;hash=FA5D76682F050042F982190659A7E8E554F947A8" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>MORE THAN JUST ANTS</h3>
+            <p><a href="/all-products/quick-kill-outdoor-insect-killer-concentrate">Amdro Quick
+            Kill Outdoor Insect Killer</a> and <a href="/all-products/quick-kill-lawn-insect-killer-granules">Quick Kill Lawn
+            Insect Killer</a>&nbsp;is launched giving consumers broad spectrum control of
+            over 500 listed insects found in lawns and landscapes.</p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item">
+            <h4 class="list-group-item-heading">
+            2018
+            </h4>
+            <div class="score-column2 equal">
+            <div class="score-left">
+            <img alt="" src="-/media/4C09F30B82AB4A778EBB3DB31DB7BCCE.ashx?h=146&amp;la=en&amp;w=146&amp;hash=84C79250FF3FBF0A14D8C17548CAD3AA9BA2EEAE" class="score-image img-responsive" />
+            </div>
+            <div class="score-right">
+            <div class="score-content-spot">
+            <h3>MOSQUITOES TOO</h3>
+            <p>The most annoying and disease-laden insect met its match when the
+            makers of Amdro products launched a two-step <a href="/all-products/quick-kill-mosquito-yard-spray">Amdro Quick Kill
+            Mosquito</a>&nbsp;line. When used together, Amdro Quick Kill mosquito delivers a
+            1-2 punch to kill adult mosquitoes and prevent the growth of new ones. </p>
+            </div>
+            </div>
+            </div>
+            </li>
+            <li class="score-list-group-item list-group-item--timeline-end">
+            <h4 class="list-group-item-heading">
+            AMDRO
+            </h4>
+            <div class="score-content-spot">
+            Stay tuned to see how
+            </div>
+            <div class="score-content-spot">
+            products can help you control and eliminate pests
+            </div>
+            </li>
+        </ul>
+        </div>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220420T122515Z

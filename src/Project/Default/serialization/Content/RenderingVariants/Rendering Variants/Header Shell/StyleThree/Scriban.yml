@@ -1,0 +1,51 @@
+﻿---
+ID: "6a3d8f49-d284-4c4f-8024-10fb36fcb4e2"
+Parent: "39522a7b-29c2-4cfe-88ac-f91459b7379f"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Header Shell/StyleThree/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{stickyHeaderFlag=sc_parameter "StickyFunctionality" | string.contains "1"}}
+    {{if stickyHeaderFlag == true
+    stickyHeader = "sticky-header"
+    end}}
+    
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-12 col-lg-3">
+    			{{ sc_placeholder "headerleft*"}}
+    			</div>
+    			<div class="col-12 col-lg-9">
+    			{{ sc_placeholder "headerright*"}}
+    			</div>
+    		</div>
+    	</div>
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220315T095506Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12235255-91a7-45b8-b5b7-a320e56d007a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220321T154838Z

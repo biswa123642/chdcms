@@ -1,0 +1,37 @@
+﻿---
+ID: "1c416c88-abc7-414b-8fa0-2d7b9fc6e267"
+Parent: "55768eea-3722-41ec-88ad-23fc6d36777a"
+Template: "b7e119bd-bebd-4fca-8371-f914e1ed335f"
+Path: /sitecore/content/OneWeb/Default/Presentation/Page Designs
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b3BC22E05-E1FF-45A6-B8C3-FCF4C8F84A43%7d%3d%257B113D0326-4383-465E-8566-D864D1533C36%257D%26%7bBC41B87D-2A9B-4689-9F51-80BB5B31A6E7%7d%3d%257BEB891415-56C2-4C06-92CD-3D6588139D5D%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B1BCA627A-1C4C-47BE-AF83-98B378C93879%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113116Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b09dd4d2-c34e-433a-ae41-81f41e129f8e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220413T115731Z

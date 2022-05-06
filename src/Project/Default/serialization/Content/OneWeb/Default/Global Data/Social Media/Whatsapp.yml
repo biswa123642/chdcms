@@ -1,0 +1,42 @@
+﻿---
+ID: "3a3c5e99-e6ec-4746-bc58-d58a47ecc18b"
+Parent: "ef9422f5-58ca-4e77-b457-3b8bb9f3a6b9"
+Template: "ced38067-35de-4210-a121-7e763a57af04"
+Path: /sitecore/content/OneWeb/Default/Global Data/Social Media/Whatsapp
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{859B02EA-290F-4087-B0AA-37F2FA31F9E3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09a44f8a-623e-4f8f-8573-ae5033777784"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="http://www.google.com" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T112448Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61a2b1a4-7e1e-4373-9178-4e856c6eeb8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T144044Z
+    - ID: "fe51caef-d303-40d1-bf9e-f1d1557603a2"
+      Hint: IconClass
+      Value: "fa fa-whatsapp"

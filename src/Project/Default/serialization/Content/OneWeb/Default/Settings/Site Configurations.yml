@@ -1,0 +1,68 @@
+﻿---
+ID: "592435ee-f314-46c8-96e8-eb41acf0f00a"
+Parent: "f4c559fa-2eb2-4beb-97e0-890408d6878c"
+Template: "77820909-82a2-4308-9e62-f54e15110ef3"
+Path: /sitecore/content/OneWeb/Default/Settings/Site Configurations
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220331T103855Z
+    - ID: "4762f3c8-900d-44ff-ba2e-d44e57e8f5fb"
+      Hint: BrandName
+      Value: Pennington Law and Garden
+    - ID: "7be09131-f96b-4f0e-acb8-2d50aa27c6e2"
+      Hint: PowerReviewsAPIKey
+      Value: "53f4a894-a149-4709-ba13-fa1b6235b335"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d85b5a2e-5cd1-4896-a3fa-000207c1f94e"
+    - ID: "8f0f4b7c-759c-4871-91ae-d6166bf319ea"
+      Hint: PowerReviewsMerchantID
+      Value: 660759
+    - ID: "9b7bb2ea-cc16-4ef0-862a-b5da3537a938"
+      Hint: PriceSpiderAccount
+      Value: 1747
+    - ID: "afcfbb0d-d8af-4442-9083-d0f0712ed0a2"
+      Hint: PowerReviewsLocale
+      Value: en_US
+    - ID: "b40ebd0e-ff54-4ee7-8d12-e95a86743552"
+      Hint: ReviewMapperURL
+      Value: "{876443FD-275F-43B5-9D01-C59FD39FE629}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "be547b09-1b5f-4ed9-8772-2f79b5e64d83"
+      Hint: PriceSpiderConfig
+      Value: 595438f57e479e884abf7405
+    - ID: "bf6b073f-2c03-4d90-bda3-fd070fe69665"
+      Hint: EnablePriceSpider
+      Value: 1
+    - ID: "c07be27b-fcb2-44eb-9162-a1e183ee79b9"
+      Hint: BrandLogo
+      Value: |
+        <image mediaid="{B276359B-9BF5-4E38-9435-7074797B4AF9}" />
+    - ID: "d30967e5-f8c5-4ee6-a5a0-559a6cf5d639"
+      Hint: PowerReviewsMerchantGroupID
+      Value: 79086
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220420T125716Z
+    - ID: "ec3719f3-58b4-4504-8545-df1af5aef83d"
+      Hint: EnableSeoSchema
+      Value: 1
+    - ID: "ed38d73e-a875-424c-8f31-8e0b0c0d197e"
+      Hint: EnablePowerReviews
+      Value: 1
+    - ID: "f6a9e708-acdf-411a-a685-9d9cbf9252c1"
+      Hint: SelectSeoSchema
+      Value: |
+        {31906487-4CE4-42A4-97E4-4AF3390A11C5}
+        {258F3385-A91A-4F85-91BE-23754F010FCB}
+        {1E8390B0-6166-4E1E-81E2-FBEDE861C90F}
+        {5A6884B5-B433-458B-960F-A6959A28206E}
+        {61FE73DD-0B53-447B-8071-917CAF2B9161}

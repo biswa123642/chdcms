@@ -1,0 +1,27 @@
+﻿---
+ID: "dc04504e-d250-4f7a-b56f-b10f119165cf"
+Parent: "2ff39e59-f083-4a70-b08a-0ebc07884023"
+Template: "1659c58a-bcf0-4364-9eff-e2da49bbde8b"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Marketing/Product Line
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T131755Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e11dc2f9-7703-4522-a468-244398696659"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T170055Z

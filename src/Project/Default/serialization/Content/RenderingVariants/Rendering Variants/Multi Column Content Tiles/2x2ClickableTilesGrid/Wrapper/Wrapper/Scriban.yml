@@ -1,0 +1,61 @@
+﻿---
+ID: "0f209452-30fa-4911-8c0d-5f6bda1eaabb"
+Parent: "869100f0-b0f9-425d-b8d6-52cee9b167cd"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Multi Column Content Tiles/2x2ClickableTilesGrid/Wrapper/Wrapper/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{renderingClass = sc_parameter 'GridClass'}}
+    {{textAlign=sc_parameter "TextAlign"}}
+    {{imageAlign=sc_parameter "ImageAlign"}}
+    {{backgroundColor=sc_parameter "Background"}}
+    {{showOverlayFlag=sc_parameter "ShowOverlay" | string.contains "1"}}
+    {{if showOverlayFlag == true
+    showOverlay = "show-tile-overlay"
+    end}}
+    
+    
+    {{flag= i_datasource.IsMobileCarousel | string.contains "1" }}
+    {{ if flag==true
+    isCarouselClass="is-mobile-carousel"
+    end}}
+    
+    <div class="section-container row {{isCarouselClass}}">
+    
+    {{ for child in i_item.Children 
+    
+     sc_editframe i_item 'Custom List'}}
+    <div class="col col-12 col-md-6 spacer-col  {{textAlign}} {{imageAlign}} {{showOverlay}} {{renderingClass }}" >
+    {{ sc_execute child "Section"}}
+    
+    
+    </div>
+    {{sc_endeditframe
+    
+    
+     end}}
+    </div>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T130701Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a9ecdaf-8edb-439d-b740-4b8657e89cd2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220307T114222Z

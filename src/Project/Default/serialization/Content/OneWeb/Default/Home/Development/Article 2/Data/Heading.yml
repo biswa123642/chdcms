@@ -1,0 +1,48 @@
+﻿---
+ID: "4c5e485c-5889-4acd-b39f-bb4bc5f63083"
+Parent: "28b33b8a-ce3c-44b7-9fe5-7d19aa3eb0c7"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Article 2/Data/Heading
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220330T090548Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dbccb90f-0829-4850-9c2d-1e8248206db0"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="product-article">
+        <img alt="" class="article-blog-img" height="auto" width="100%" src="-/media/A216F94C26D2440B875A118EF3119BDA.ashx?h=auto&amp;w=100%25" />
+        <div>
+        <h3 class="blog-type">
+        Article
+        </h3>
+        <h1>
+        Checklist of Dog Supplies for Your New Fur Kid
+        </h1>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220401T095110Z

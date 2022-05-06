@@ -1,0 +1,33 @@
+﻿---
+ID: "9d6b8681-b6fb-4b20-8669-e6ce61696583"
+Parent: "86627173-692a-4ed5-8c56-335213cfa70e"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: "/sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Wild-Bird/Product-Category/Other"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T125419Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Other
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Other
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de26cb1e-37d5-4c74-b0d8-93c9ffd61d18"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T125429Z

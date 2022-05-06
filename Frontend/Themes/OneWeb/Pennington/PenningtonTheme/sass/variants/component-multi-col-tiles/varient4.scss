@@ -1,0 +1,69 @@
+
+/* Full width rich text banner with a 2 column layout CTA buttons */
+.copy-wrap{    
+    .body-copy{
+        h2{
+            font-size: 2.6rem;
+            color: $dark-green;
+            font-weight: 600;
+            padding-bottom: 20px;
+            line-height: 32px;
+        }
+        p{
+            font-size: 1.8rem;
+            color: $light-gray-paragraph;            
+        }
+    }
+    .cta-grp{
+        text-align: left;        
+    }
+    .field-firstcta,.field-secondcta{   
+        display: block;     
+        cursor: pointer;
+        border: 1px solid $dark-green;
+        background-color: transparent;
+        max-width: 150px;
+        text-align: center;   
+        margin: 20px 0;     
+        a{
+            background-color: transparent;
+            color: $dark-green;
+            border: none;
+            padding: 14px 20px;
+            font-size: 1.6rem;
+            font-weight: 700;            
+        }
+        &:hover{            
+            background-color: $dark-green;
+            a{
+                color: $white;
+            }
+        }
+    }
+}
+@include respond-to(desktop) {
+    .copy-wrap{
+        align-items: end;
+        .body-copy{
+            h2{
+                font-size: 3.2rem;                
+            }
+            p{
+                font-size: 2.2rem;
+            }
+        }
+        .cta-grp{
+            text-align: right;   
+            padding-bottom: 20px;     
+        }
+        .field-firstcta,.field-secondcta{
+            display: inline-block;            
+            min-width: 130px;   
+            margin: 10px;         
+            a{                
+                font-size: 1.8rem;               
+            }
+            
+        }
+    }
+}

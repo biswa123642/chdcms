@@ -1,0 +1,37 @@
+﻿---
+ID: "81b9fd04-a42c-4406-8ae3-bda654b714e2"
+Parent: "64f38783-64a4-4ea7-8d92-e2907032373f"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Job Location Finder Map/Data/Map
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+        <div class="job-location-finder">
+            <iframe src="https://www.careerarc.com/job-map/central-garden-pet/campaign/20801" allow="geolocation" style="width: 80%;height: 600px;border:0;" width="80%" height="600px" frameborder="0" class="optanon-category-C0003-C0004"></iframe>
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220422T110248Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de37b13b-c988-4257-891b-91dc94b40cdd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220422T110341Z

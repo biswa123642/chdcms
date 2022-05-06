@@ -1,0 +1,50 @@
+﻿---
+ID: "1720b8a1-82c0-4af4-8e44-e21c4250698e"
+Parent: "fce16526-6c9a-4395-be61-bf9d8754ee63"
+Template: "a14d9266-1924-4e7f-87cc-760e2f8429ce"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Feature Content Tiles/Data/Multiple row structure with CTA images which upon click takes the user to an external website/Feature Content Tile item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1A57BAFB-522B-4F89-BD3E-1173C27900B7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220203T104026Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cf7db02f-e3da-4390-85c6-b91420b31bf9"
+    - ID: "a037a33f-213e-412e-8d6c-71b2be082773"
+      Hint: MobileImage
+      Value: |
+        <image mediaid="{693618A7-4E34-418F-85B7-261FE0326EE9}" />
+    - ID: "ac0ef552-e2a9-4e8f-8942-4b8ab5061e4b"
+      Hint: CTA
+      Value: |
+        <link text="BUY NOW" linktype="external" url="https://www.google.co.in/" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d140070d-9058-400a-82ca-36aee31966d5"
+      Hint: Image
+      Value: |
+        <image mediaid="{E94F55E7-09E8-4D79-9270-1B957B3920E7}" ></image>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220221T061624Z
+    - ID: "f2995045-5047-4be3-be4a-dbe0a1530118"
+      Hint: Title
+      Value: HEALTHY EDIBLES TWIN PACK

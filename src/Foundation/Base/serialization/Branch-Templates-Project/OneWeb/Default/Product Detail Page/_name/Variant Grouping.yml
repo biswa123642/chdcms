@@ -1,0 +1,23 @@
+﻿---
+ID: "9c8214e4-22f5-4b43-b5d0-aa98ea2f5e54"
+Parent: "452ab8e8-4711-4795-9c63-06fe6a1bb927"
+Template: "f9cf5c04-01c3-4060-a143-1e12421c09be"
+Path: /sitecore/templates/Branches/Project/OneWeb/Default/Product Detail Page/$name/Variant Grouping
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T052650Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f90617b1-4c75-41a9-afda-d6ecd5dd0aca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220321T052650Z

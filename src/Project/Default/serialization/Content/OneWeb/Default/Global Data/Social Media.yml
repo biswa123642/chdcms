@@ -1,0 +1,30 @@
+﻿---
+ID: "ef9422f5-58ca-4e77-b457-3b8bb9f3a6b9"
+Parent: "80619c96-8415-40b9-9db1-f720be9b8b6a"
+Template: "cc092903-d4f7-424a-89f5-8957aa5a3f1d"
+Path: /sitecore/content/OneWeb/Default/Global Data/Social Media
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{90917B88-0871-4D9D-A23D-276E5BBCE1B7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T112447Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9df36523-ebb8-46ab-8a1b-1a49310f1906"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T130913Z

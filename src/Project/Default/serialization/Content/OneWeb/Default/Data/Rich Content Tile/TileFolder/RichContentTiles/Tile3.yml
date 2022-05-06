@@ -1,0 +1,44 @@
+﻿---
+ID: "c191e1e9-a6fb-457d-98ee-d82b27e8cf77"
+Parent: "42fb1cd4-32f0-46d5-8d80-1382d2c334b6"
+Template: "5052be8f-77fa-49c8-a356-7efc2b556d80"
+Path: /sitecore/content/OneWeb/Default/Data/Rich Content Tile/TileFolder/RichContentTiles/Tile3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "14b4207b-04ed-46da-8f2e-dff32844807c"
+      Hint: TileImage
+      Value: |
+        <image mediaid="{AC905F46-6588-45B5-8375-FEB38C58DDC7}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T104312Z
+    - ID: "3330a14a-3683-4025-bede-52f49b02c81a"
+      Hint: TileSummary
+      Value: Our team collaborates with veterinarians, trainers, and pet parents to carefully design products for every kind of dog and purpose&mdash;from keeping dogs occupied to training and treating.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74ed0caf-5f93-4b27-8608-4e788d8ec3f0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d53016cd-0ffc-442e-b799-5b175804050f"
+      Hint: TileTitle
+      Value: Trained Dog Experts
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220407T090029Z

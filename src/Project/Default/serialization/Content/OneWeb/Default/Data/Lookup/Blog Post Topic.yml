@@ -1,0 +1,23 @@
+﻿---
+ID: "e6ae0487-998c-4c0e-a28d-b4c681c48d6d"
+Parent: "a4cf5110-aae2-4ec2-9aca-72e3518e0f06"
+Template: "56cd1fd7-4c8a-4e09-8593-742a11e6c372"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Blog Post Topic
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220421T191957Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d04b8f2-fcf9-45e2-bf0f-a81ed884faa4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220421T191957Z

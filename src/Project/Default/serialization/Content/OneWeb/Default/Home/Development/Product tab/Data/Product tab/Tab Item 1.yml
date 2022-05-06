@@ -1,0 +1,127 @@
+﻿---
+ID: "e33272cd-62ed-45bf-b1a2-dc29057d0450"
+Parent: "e1aea429-1f23-4ff4-9de1-731c7b5739fe"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Product tab/Data/Product tab/Tab Item 1
+BranchID: "a306f3b4-98f5-4973-9ae8-e3693bcb3252"
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4A6F3558-D2AD-4183-B232-A426B4681E72}">
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-title"
+          uid="{E6AA7F47-3A49-4991-9CF9-000FC8EB41A2}" />
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-content"
+          uid="{4E3853F7-CB73-42CA-9C72-E06582BF5144}" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4724B0B1-7CDC-4D58-AA03-CBFB7A0A2001}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T093728Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: Insects Controlled
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb0e9ae0-3337-4d9e-b0ec-cf3dfdb5de1c"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: |
+        <div class="score-column3 equal">
+        <div class="score-left">
+        <div class="score-content-spot">
+        <ul>
+            <li><a href="/insects/ants" target="_blank">Ants</a>&nbsp;(except Carpenter and Pharaoh ants)</li>
+            <li><a href="/insects/aphids" target="_blank">Aphids</a>&nbsp;(including Greenbugs)</li>
+            <li><a href="/insects/armyworms" target="_blank">Armyworms</a></li>
+            <li><a href="/insects/billbugs" target="_blank">Billbugs</a></li>
+            <li>Bristletails</li>
+            <li>Caterpillars</li>
+            <li><a href="/insects/chiggers">Chiggers</a></li>
+            <li><a href="/insects/chinch-bugs" target="_blank">Chinch Bugs</a></li>
+            <li><a href="/insects/crickets" target="_blank">Crickets</a></li>
+            <li><a href="/insects/cutworms" target="_blank">Cutworms</a></li>
+            <li><a href="/insects/earwigs" target="_blank">Earwigs</a></li>
+            <li>European Chafer</li>
+            <li><a href="/insects/fire-ants" target="_blank">Fire Ants</a></li>
+        </ul>
+        </div>
+        </div>
+        <div class="score-center">
+        <div class="score-content-spot">
+        <ul>
+            <li><a href="/insects/fleas" target="_blank">Fleas</a></li>
+            <li><a href="/insects/grasshoppers" target="_blank">Grasshoppers</a></li>
+            <li><a href="/insects/ground-beetles" target="_blank">Ground Beetles</a></li>
+            <li>Ground Pearls</li>
+            <li>Grubs</li>
+            <li><a href="/insects/japanese-beetles" target="_blank">Japanese Beetles</a></li>
+            <li>June Beetles</li>
+            <li>Ladybeetles</li>
+            <li><a href="/insects/leafhoppers" target="_blank">Leafhoppers</a></li>
+            <li><a href="/insects/mealybugs" target="_blank">Mealybugs</a></li>
+            <li><a href="/insects/millipedes" target="_blank">Millipedes</a></li>
+            <li><a href="/insects/mole-crickets" target="_blank">Mole Crickets</a></li>
+            <li>Pillbugs</li>
+            <li><a href="/insects/scale" target="_blank">Scales</a></li>
+            <li><a href="/insects/scarab-beetles" target="_blank">Scarab Beetles</a></li>
+        </ul>
+        </div>
+        </div>
+        <div class="score-right">
+        <div class="score-content-spot">
+        <ul>
+            <li><a href="/insects/scorpions" target="_blank">Scorpions</a></li>
+            <li><a href="/insects/sod-webworms" target="_blank">Sod Webworms</a></li>
+            <li>Sowbugs</li>
+            <li>Spider Mites</li>
+            <li><a href="/insects/spiders" target="_blank">Spiders</a></li>
+            <li><a href="/insects/springtails" target="_blank">Springtails</a></li>
+            <li><a href="/insects/ticks" target="_blank">Ticks</a></li>
+            <li>Two-Lined&nbsp;<a href="/insects/spittlebugs" target="_blank">Spittle Bugs</a></li>
+            <li>Webworms</li>
+            <li>Weevils</li>
+            <li><a href="/insects/white-grubs" target="_blank">White Grubs</a></li>
+            <li>Wireworms</li>
+            <li>and many more listed on the label</li>
+        </ul>
+        </div>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220317T100000Z

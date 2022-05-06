@@ -1,0 +1,35 @@
+﻿---
+ID: "2b8a1e66-976b-4d97-8d69-5b93d876ec27"
+Parent: "467b5d2b-bb6f-48b5-a372-20c372cd9b89"
+Template: "efafbbf5-01a0-46d3-9f7b-e71763e7f221"
+Path: /sitecore/content/OneWeb/Default/Settings/Social Media Groups/Default
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E35BE623-2154-4300-A80E-F054B26B76C5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113214Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "986a6404-a209-4d2a-a163-e1b0f687f55d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113214Z

@@ -1,0 +1,45 @@
+﻿---
+ID: "ddec95ea-0bd5-446b-942e-b7f8b3b514e5"
+Parent: "ea7ed87d-ad4f-4d45-b3b1-0b35a54ba56e"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: "/sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Feature Content Tiles/TilesGridWithImageCTA/Container/Scriban/wrapper/Query/Edit Frame/col/promo/field-data/CTA"
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{flag=i_item.IsCTAButton | string.contains "1" }}
+    
+    {{if flag==true}}
+    <div class = "sxa-btn sxa-btn-primary">
+    {{sc_field i_item 'CTA'}}
+    </div>
+    {{else}}
+    <div class = "sxa-btn sxa-btn-primary">
+    {{sc_field i_item 'CTA'}}
+    </div>
+    {{end}}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220204T111632Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a6a8f4fb-0b08-4ae4-8dca-f720e3af6ca1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T095040Z

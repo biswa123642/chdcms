@@ -1,0 +1,23 @@
+﻿---
+ID: "919c5607-1daa-454d-affc-2ead7d74a7ff"
+Parent: "2fed567d-a3ff-43da-adc3-9a2fb0ac654f"
+Template: "f3e6da4e-5d19-49b8-9737-2ee2e9067757"
+Path: /sitecore/templates/Feature/OneWeb/Hero Banner/Hero Banner Branch/$name
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220124T124915Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1c11122-39ba-4fea-9f3c-7fb89bf3b3df"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220124T124915Z

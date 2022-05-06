@@ -1,0 +1,96 @@
+﻿---
+ID: "6ffa5ccd-6499-48de-9b41-a7c82cf3047a"
+Parent: "98cff4d0-53ed-4de7-a9ce-6716f6153172"
+Template: "0bec8e55-1f86-4c69-94d3-8651e1a1d38a"
+Path: /sitecore/content/OneWeb/Default/Home/Development/BannerOverlay/BannerOverlayPage
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Banner Overlay Page
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7BFD1891-C0BF-45DB-8943-129C8EDEC2C4}"
+              p:before="*"
+              s:ds="{01485CF7-9C4B-400D-BB30-4ABC067C21EA}"
+              s:id="{70BB3A1F-7525-4D7D-8618-79D865332364}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;RenderingFields=image-overlay&amp;FieldNames=%7B826AA69C-3564-40BD-9E8B-E16716304124%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/container-3"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{063A957E-606D-4C84-8BDB-140B900A0382}"
+              p:after="r[@uid='{7BFD1891-C0BF-45DB-8943-129C8EDEC2C4}']"
+              s:ds="{42FB1CD4-32F0-46D5-8D80-1382D2C334B6}"
+              s:id="{70BB3A1F-7525-4D7D-8618-79D865332364}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;RenderingFields=text-overlay&amp;FieldNames=%7B826AA69C-3564-40BD-9E8B-E16716304124%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/main/container-1"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{A41CD28D-6E38-4536-818D-26FC21D89EC0}"
+              p:after="r[@uid='{063A957E-606D-4C84-8BDB-140B900A0382}']"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{0D8CC408-EE12-4D9F-8A3D-50ACD25B32E8}"
+              p:after="*[1=2]"
+              s:ds=""
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220402T051719Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Banner with Overlay Page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "82f4bd76-0837-4e55-a1f6-15231096b2b9"
+      Hint: Attributes
+      Value: "viewport=width%3Ddevice-width%2C%20initial-scale%3D1"
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: Banner with Overlay Page
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e3a93ab9-6a8a-4f8b-9672-b3da2c84412f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220420T105531Z

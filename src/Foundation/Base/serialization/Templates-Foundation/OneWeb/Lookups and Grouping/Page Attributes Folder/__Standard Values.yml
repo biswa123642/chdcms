@@ -1,0 +1,29 @@
+﻿---
+ID: "6925a598-6a4b-4e0d-b59b-6b521bafc406"
+Parent: "405d1129-887e-4b12-af6e-1be55c2c315f"
+Template: "405d1129-887e-4b12-af6e-1be55c2c315f"
+Path: /sitecore/templates/Foundation/OneWeb/Lookups and Grouping/Page Attributes Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {186E0BD4-2905-404A-B92C-868EFC6F42A8}
+    {405D1129-887E-4B12-AF6E-1BE55C2C315F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T122535Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bdf901ce-6393-4241-a884-65a156eea5b6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T122908Z

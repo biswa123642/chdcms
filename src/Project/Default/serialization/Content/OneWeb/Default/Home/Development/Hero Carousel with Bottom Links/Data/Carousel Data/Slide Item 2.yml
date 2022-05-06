@@ -1,0 +1,52 @@
+﻿---
+ID: "ccfb5cb8-fca4-42d7-9194-ce78a2b605e2"
+Parent: "cf4488b7-f4c4-4c1a-a022-1f14afe3f3b2"
+Template: "3c7c79e8-554d-46d9-bf1a-63da22a4ee6f"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Carousel with Bottom Links/Data/Carousel Data/Slide Item 2
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EF9754D4-467B-4EB3-8448-1448D6B26943}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220127T104516Z
+    - ID: "3bfd4b9e-3049-4c8d-a9b5-6bebb83f895d"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{D5CD6841-74DD-4500-AE7B-9D5A482333C7}" height="252" hspace="" width="480" alt="" vspace="" />
+    - ID: "76cfd5c3-e3b6-44c7-ac23-c287015b6772"
+      Hint: HideSlideOverlayCard
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f7836809-39e6-4aaa-8b79-e13f73b2c7e4"
+    - ID: "a8933445-15ca-4e23-b171-a33892eb0ef8"
+      Hint: SlideCardTitle
+      Value: |
+        <img height="170" alt="Quote" width="510" src="-/media/B38095FAF16E45B3A21668E6993249CF.ashx" />
+    - ID: "b34e88f9-8800-43b1-92b5-029fbfae12e9"
+      Hint: SlideCardLogo
+      Value: |
+        <image mediaid="{595619DB-6207-4A16-812B-B3847656FCDD}" height="" hspace="" width="" alt="" vspace="" ></image>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d691b058-6e52-4e4b-baae-a23aed9de6e0"
+      Hint: SlideCardSubText
+      Value: "Wee-Wee Pads with the Power of Febreze Freshness now offer even more coverage."
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T101400Z
+    - ID: "e10d2e79-68cc-438a-a732-abf80f62be76"
+      Hint: SlideCardCTA
+      Value: |
+        <link text="Click me" linktype="external" url="http://www.twitter.com" anchor="" target="" />

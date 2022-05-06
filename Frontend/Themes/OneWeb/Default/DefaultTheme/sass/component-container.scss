@@ -1,0 +1,14 @@
+@import "styles/container/*";
+@import "abstracts/mixins";
+@import "abstracts/vars";
+.container {
+    padding: 0;
+    .component-content {
+        @include clearfix();
+    }
+    @include respond-to(extra-largedesktop) {
+        &:not(.col-12) {
+            max-width: 127rem;
+        }
+    }
+}

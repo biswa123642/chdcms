@@ -1,0 +1,26 @@
+// product description
+.product-wrapper {
+    h1 {
+        color: $orange;
+        font-size: 3.697rem;
+        font-weight: 700;
+    }
+    .body-copy {
+        color: $product-description-body;
+        font-size: 1.6rem;
+        margin-bottom: 3rem;
+    }
+    .description-list {
+        color: $product-description-body;
+        margin-top: 3rem;
+        margin-bottom: 1rem;
+        li {
+            font-size: 1.6rem;
+        }
+    }
+    @include respond-to(tab) {
+        h1 {
+            font-size: 4.8rem;
+        }
+    }
+}

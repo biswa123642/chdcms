@@ -1,0 +1,75 @@
+﻿---
+ID: "55b49141-868d-4c1e-8389-c842f4a0bed2"
+Parent: "e1aea429-1f23-4ff4-9de1-731c7b5739fe"
+Template: "b27059e6-1190-4273-92a0-d22af3c440b4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Product tab/Data/Product tab/tab4
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{4A6F3558-D2AD-4183-B232-A426B4681E72}">
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B5423143A-760D-4F0E-BA4D-0B02E649A778%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-title"
+          uid="{01F2E03A-FAB7-478B-ADCD-57574C044A8A}" />
+        <r
+          ds=""
+          id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          par="FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D"
+          ph="section-content"
+          uid="{B9E2E874-3261-473F-A55E-C9D29B896720}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220317T094506Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "70181515-2aab-4710-91f4-52a08151693e"
+      Hint: Heading
+      Value: Previous Products
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0aa1f075-ba2e-4db2-ac4b-deeb4e23017a"
+    - ID: "99f62656-1f3e-4f98-9eac-a596fb174ba0"
+      Hint: Content
+      Value: |
+        <div class="tab-pane fade score-tab-panel active in">
+        <div class="score-content-spot">
+        <p><a rel="noopener noreferrer" href="https://www.gardentech.com/-/media/Images/GardenTech-NA/US/product-images/Sevin%20Granules%2010lb%20Bag%20jpg.jpg?la=en&amp;hash=1A5B5554D9EFCD6EFBF0C67A40076305DC6A7609" target="_blank">Sevin&reg; Lawn Insect Granules 10lb</a></p>
+        <p><a rel="noopener noreferrer" href="https://www.gardentech.com/-/media/Images/GardenTech-NA/US/product-images/Sevin%20Granules%2020lb_%20jpg.jpg?la=en&amp;hash=E7AC4D2C5B44C6DD6E3231C1CFF63ADA4A35258E" target="_blank">Sevin&reg; Lawn Insect Granules 20lb</a></p>
+        </div>
+        <div class="attachment-list">
+        <h3>Product Labels</h3>
+        <a rel="noopener noreferrer" href="https://www.gardentech.com/-/media/Files/GardenTech-NA/US/SDS/GardenTech-Sevin-Lawn-Insect-Granules-SDS.pdf" class="link-icon link-pdf" target="_blank">Sevin&reg; Lawn Insect Granules SDS </a>
+        <a rel="noopener noreferrer" href="https://www.gardentech.com/-/media/Files/GardenTech-NA/US/SDS/GardenTech-Sevin-Lawn-Insect-Granules-SDS-Spanish.pdf" class="link-icon link-pdf" target="_blank">Sevin&reg; Lawn Insect Granules SDS - Spanish </a>
+        <a rel="noopener noreferrer" href="https://www.gardentech.com/-/media/Files/GardenTech-NA/US/product-labels/GardenTech%20Sevin%20Lawn%20Insect%20Granules%2010lb%20Label%20pdf.pdf" class="link-icon link-pdf" target="_blank">Sevin&reg; Lawn Insect Granules 10 lb. Label </a>
+        <a rel="noopener noreferrer" href="https://www.gardentech.com/-/media/Files/GardenTech-NA/US/product-labels/GardenTech%20Sevin%20Lawn%20Insect%20Granules%2020lb%20Label%20pdf.pdf" class="link-icon link-pdf" target="_blank">Sevin&reg; Lawn Insect Granules 20 lb. Label </a>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220317T101151Z

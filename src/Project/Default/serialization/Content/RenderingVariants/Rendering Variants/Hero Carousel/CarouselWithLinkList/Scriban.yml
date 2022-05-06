@@ -1,0 +1,42 @@
+﻿---
+ID: "2c4ac288-9671-4acd-aaa3-abb53774c5d4"
+Parent: "26c0ba8f-a3e5-49ac-a4b2-e440d63f11cd"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Hero Carousel/CarouselWithLinkList/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{timeout=sc_parameter "Timeout"}}
+    {{pauseonhover=sc_parameter "PauseOnHover" | string.contains "1"}}
+    <div data-carousel-properties = "{timeout:{{timeout}}, pauseonhover:{{pauseonhover}}}">
+    {{sc_execute i_item 'Div'}}
+    </div>
+    
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220128T060354Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7bf592da-8135-41de-af68-4b0978d1357a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220225T115946Z

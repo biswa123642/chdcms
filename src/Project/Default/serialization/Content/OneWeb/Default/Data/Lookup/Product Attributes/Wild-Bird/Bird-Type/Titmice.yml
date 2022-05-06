@@ -1,0 +1,29 @@
+﻿---
+ID: "5bc3c75f-ad53-4f16-ac41-c8d3404b2f3a"
+Parent: "3adaad07-31a1-4210-a049-75476f56570d"
+Template: "62e96c2c-0949-4eea-997a-d9408a414d7e"
+Path: "/sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Wild-Bird/Bird-Type/Titmice"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T125123Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Titmice
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Titmice
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6b232120-66e4-4280-b9cf-d7ea9875abb0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T125123Z

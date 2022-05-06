@@ -1,0 +1,41 @@
+﻿---
+ID: "4ed1fdba-4b80-4798-bb3f-ea8d300b8fe6"
+Parent: "757a0775-e670-4221-8194-9fc10411fea2"
+Template: "3c7c79e8-554d-46d9-bf1a-63da22a4ee6f"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Sprint Folder/Sprint 2/Pennington Home/Data/Homepage Carousel/Slide Item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220208T145814Z
+    - ID: "3bfd4b9e-3049-4c8d-a9b5-6bebb83f895d"
+      Hint: SlideImage
+      Value: |
+        <image mediaid="{0CD7A366-047A-4815-839F-EF98C0D40E63}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4106b0a8-56f0-43ea-b454-f5bd8dbbdd85"
+    - ID: "a8933445-15ca-4e23-b171-a33892eb0ef8"
+      Hint: SlideCardTitle
+      Value: THE BIRD FOOD PEOPLE
+    - ID: "b34e88f9-8800-43b1-92b5-029fbfae12e9"
+      Hint: SlideCardLogo
+      Value: |
+        <image mediaid="{C97BC912-0A8E-42FD-9F44-01143D5C506A}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d691b058-6e52-4e4b-baae-a23aed9de6e0"
+      Hint: SlideCardSubText
+      Value: Pennington is dedicated to creating the best wild bird food available—by birders, for birders.
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220211T095954Z
+    - ID: "e10d2e79-68cc-438a-a732-abf80f62be76"
+      Hint: SlideCardCTA
+      Value: |
+        <link linktype="internal" text="Where to Buy" querystring="" target="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

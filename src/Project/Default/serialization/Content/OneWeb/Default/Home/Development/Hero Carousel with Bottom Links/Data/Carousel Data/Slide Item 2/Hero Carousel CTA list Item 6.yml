@@ -1,0 +1,37 @@
+﻿---
+ID: "f0d89938-1533-4925-a38e-7d8e00dbc173"
+Parent: "ccfb5cb8-fca4-42d7-9194-ce78a2b605e2"
+Template: "0c9bae31-9786-43ca-93fd-de3ef38a85d4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Carousel with Bottom Links/Data/Carousel Data/Slide Item 2/Hero Carousel CTA list Item 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08376f75-ec67-4014-9916-44c83984ca8c"
+      Hint: Image
+      Value: |
+        <image mediaid="{FC26F662-6C51-4AF9-A9C3-CE3C06CC270A}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220126T153616Z
+    - ID: "6c57b94a-e1ca-4e14-88be-5bf27a3b363f"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9ed42d4-0599-4736-af1c-6fd85215cc36"
+    - ID: "8f33dbfa-cb0e-45d5-a7aa-5256ce6d1175"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220208T085844Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "363d6b41-2e4a-472b-9b9a-2b7d2638a162"
+Parent: "051668f6-3a28-4f48-bad6-a5d5a002602a"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Product Image Gallery/Image Gallery/Scriban/Blob
+SharedFields:
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: Blob
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220330T170158Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79bc9dec-43a2-48f7-ab21-c24c24b7d0b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220330T170158Z

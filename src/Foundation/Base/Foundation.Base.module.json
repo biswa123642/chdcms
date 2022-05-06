@@ -1,0 +1,94 @@
+{
+	"namespace": "Foundation.Base",
+	"items": {
+		"includes": [
+			{
+				"name": "Templates-Feature",
+				"path": "/sitecore/templates/Feature/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "Templates-Project",
+				"path": "/sitecore/templates/Project/OneWeb",
+				"scope": "itemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "Templates-Foundation",
+				"path": "/sitecore/templates/Foundation/OneWeb",
+				"scope": "itemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "Branch-Templates-Feature",
+				"path": "/sitecore/templates/Branches/Feature/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "Branch-Templates-Project",
+				"path": "/sitecore/templates/Branches/Project/OneWeb",
+				"scope": "itemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "Forms",
+				"path": "/sitecore/Forms/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "MediaLibrary-Feature",
+				"path": "/sitecore/media library/Feature/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "MediaLibrary-Project",
+				"path": "/sitecore/media library/Project/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "MediaLibrary-Themes",
+				"path": "/sitecore/media library/Themes/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "Renderings-Feature",
+				"path": "/sitecore/layout/Renderings/Feature/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "System-Settings-Feature",
+				"path": "/sitecore/system/Settings/Feature/OneWeb",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "coreDB-WebEdit-EditFrameButtons-CustomList",
+				"path": "/sitecore/content/Applications/WebEdit/Edit Frame Buttons/Custom List",
+				"database": "core",
+				"scope": "itemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "coreDB-WebEdit-CustomExpButtons-OneWeb",
+				"path": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/OneWeb",
+				"database": "core",
+				"scope": "singleItem",
+				"allowedPushOperations": "createUpdateAndDelete"
+			},
+			{
+				"name": "coreDB-WebEdit-EditFrameButtons-OneWeb",
+				"path": "/sitecore/content/Applications/WebEdit/Edit Frame Buttons/OneWeb",
+				"database": "core",
+				"scope": "itemAndDescendants",
+				"allowedPushOperations": "createUpdateAndDelete"
+			}
+		]
+	}
+}

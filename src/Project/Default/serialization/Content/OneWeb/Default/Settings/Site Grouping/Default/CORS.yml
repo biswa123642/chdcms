@@ -1,0 +1,27 @@
+﻿---
+ID: "fa943472-3d33-485b-af3d-1adf6a62becd"
+Parent: "a2a38306-e624-4e7f-b350-b97a8dbd0302"
+Template: "3d55c326-3353-48cd-bedc-e8ae0cb9ef4d"
+Path: /sitecore/content/OneWeb/Default/Settings/Site Grouping/Default/CORS
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B6DAB7A0-4F89-4FF1-A1F8-683C1077162A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113144Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00b8ea56-a6a5-4bb2-85cc-240b00eebecc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113144Z

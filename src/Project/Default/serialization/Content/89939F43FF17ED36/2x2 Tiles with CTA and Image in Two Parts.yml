@@ -1,0 +1,30 @@
+﻿---
+ID: "4bfae7f0-d832-47b0-b7ec-ad440c374c68"
+Parent: "b337c586-cc32-4920-a1d5-a87b8e88b8f6"
+Template: "270675cf-883b-4333-b86d-7bac3ee80d67"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Multi Column Content Tiles/2x2 Layout Each Tile Being CTA and Divided in Two Parts demo/Data/2x2 Tiles with CTA and Image in Two Parts
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{46A38FBA-99D6-4022-A82B-E51C94A31D96}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T144858Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4170c912-8bdf-4649-8af0-251c44513211"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c777e385-9946-4c42-bd50-10c5ab78ce70"
+      Hint: Heading
+      Value: Naturally Delicious
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220303T115553Z

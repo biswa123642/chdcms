@@ -1,0 +1,29 @@
+﻿---
+ID: "f9f5a66b-ac2e-4b54-8a9e-8fc6d6ecc920"
+Parent: "b806b02e-809a-4682-97cb-9913faa048bb"
+Template: "4165f10a-7e0d-4331-b811-8be903a1ca37"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Seed/Product Type
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T170511Z
+    - ID: "4973f6e9-3498-4979-a48b-ea9697c730dd"
+      Hint: Key
+      Value: Product Type
+    - ID: "713a5545-19de-407f-8a6e-21c54b858834"
+      Hint: Value
+      Value: Product Type
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d88324b5-ee3c-4a1d-a668-73f10be93a56"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T170511Z

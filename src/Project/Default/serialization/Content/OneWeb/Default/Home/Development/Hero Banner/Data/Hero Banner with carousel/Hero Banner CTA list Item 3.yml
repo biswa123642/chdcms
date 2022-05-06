@@ -1,0 +1,35 @@
+﻿---
+ID: "5d00e469-0efb-484c-bc80-c5cbce217461"
+Parent: "8725569f-c814-4192-8982-4eb9bbbe29db"
+Template: "0c9bae31-9786-43ca-93fd-de3ef38a85d4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Hero Banner/Data/Hero Banner with carousel/Hero Banner CTA list Item 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "08376f75-ec67-4014-9916-44c83984ca8c"
+      Hint: Image
+      Value: |
+        <image mediaid="{B952CD9B-0D93-4675-A203-44B39FF6C67D}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220126T153538Z
+    - ID: "6c57b94a-e1ca-4e14-88be-5bf27a3b363f"
+      Hint: Title
+      Value: |
+        <strong>Spider</strong><br />
+        Control
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "40052bc6-3b08-404a-949c-ae58b8071066"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220126T154559Z

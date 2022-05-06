@@ -1,0 +1,40 @@
+﻿---
+ID: "d33c3af1-dcca-421c-a79e-89b4852d620d"
+Parent: "6f782325-848f-4528-b175-9ba0f9b67b9a"
+Template: "dc4ebc23-a470-4b5d-8df8-4a55fa823bb4"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/File List/Title and Image/File/Date
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: __Updated
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{BF84B580-F138-47BF-B7E6-768DD39392DF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "00aa3e05-dd03-47a9-aa1b-03a4dfbb3156"
+      Hint: DateFormat
+      Value: "{E087488F-8969-4668-AAB6-04BFB10F7193}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113153Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "169c5af0-4081-4e8b-b0bf-f8989b39974e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113153Z

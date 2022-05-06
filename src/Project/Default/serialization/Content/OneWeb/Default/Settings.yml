@@ -1,0 +1,71 @@
+﻿---
+ID: "f4c559fa-2eb2-4beb-97e0-890408d6878c"
+Parent: "0704b1f9-ea3b-493f-a654-37766fd00f83"
+Template: "3845a334-0d01-4d82-80cf-ffae3ebd8754"
+Path: /sitecore/content/OneWeb/Default/Settings
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {11F57D7B-CBB2-4647-B98C-71457564BA4F}
+    {0D792404-79AA-483D-BB0C-50785F2E295B}
+    {F86FE270-00A4-492F-BFAF-5BF27E40CE13}
+    {E1CF805E-7F49-4EC9-A25A-182DC798CB5F}
+    {DC66D5DA-3216-48E6-AE78-BAC8445B6A46}
+    {70461699-48E4-45FA-B74B-0CCE849FCA6A}
+    {20EF5E69-B366-4E9E-960B-E451B24DBD46}
+    {5C76AD53-96CD-4B96-9690-DD9AF2650171}
+    {44936C95-BCA9-4FB3-9D98-2066A5FBBB4D}
+    {5A6BF1D1-836B-425A-A6E6-32CEAA8FF3A5}
+    {B14BAB5B-8965-466B-886B-1F93175BCAB3}
+    {041C1F9F-99A4-4EE6-8308-985499F91032}
+- ID: "96e5e297-6fd1-46d6-8e92-b03e33a9376c"
+  Hint: Error404Page
+  Value: /sitecore/content/OneWeb/Default/Home/ErrorPage
+- ID: "ad84cc6b-32ef-49d8-9326-916976cb2520"
+  Hint: Grid Mapping
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257BFDFEE3CD-14DA-4485-B311-79F21BDE952D%257D"
+- ID: "af332c24-fe17-41e7-8caf-8e64c588fe72"
+  Hint: EditingTheme
+  Value: "{3C922BD4-EA4C-4E8B-9A43-323079252A27}"
+- ID: "b31a3b74-d75c-477a-be16-f44c4593dfe9"
+  Hint: Favicon
+  Value: |
+    <image mediaid="{951ABCB9-2E08-4B0F-A26B-9DD926AE909C}" />
+- ID: "beeede03-ab13-4558-96f9-c3e8957b46f8"
+  Hint: Themes
+  Value: |
+    {1BCA627A-1C4C-47BE-AF83-98B378C93879}
+    {E99B315F-8C89-4419-A84F-BE1005EF2DDC}
+    {102E37E6-03A6-4F62-94A0-8D7C8842F113}
+- ID: "d91bf82c-0e2b-4b79-ae85-e54b9afd5026"
+  Hint: Error500Page
+  Value: /sitecore/content/OneWeb/Default/Home/ErrorPage
+- ID: "e81e1f9e-8b87-495b-9cb7-84a2a23133be"
+  Hint: MediaLibrary
+  Value: "{FAA80F0E-FE97-4264-9920-418E9C192767}"
+- ID: "e8881464-38af-4655-be4a-ee10586578a2"
+  Hint: Templates
+  Value: "{ECED2D0F-DA91-49D8-B8CC-2620D520428A}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3E739E69-859C-4694-8D14-2BA6CA779CC6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113117Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18c0d67c-2be7-4683-8001-bc0c0792aebc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220411T163905Z

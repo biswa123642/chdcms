@@ -1,0 +1,33 @@
+﻿---
+ID: "9b873d9e-0734-4dbf-b8d4-a3de13d82a2a"
+Parent: "2898b96b-5c14-45b6-baeb-d350e55d325a"
+Template: "2898b96b-5c14-45b6-baeb-d350e55d325a"
+Path: /sitecore/templates/Feature/OneWeb/SEO/Page Script Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {96395C9B-B8AB-480D-B3F1-B9497405E242}
+    {2898B96B-5C14-45B6-BAEB-D350E55D325A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38f21f22-6446-4e40-94dc-a942f12cf571"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220309T113953Z

@@ -1,0 +1,97 @@
+﻿---
+ID: "7ec99f43-d9fc-4c2b-b847-d4316ca2d13e"
+Parent: "0ffb182c-bdde-49e7-a895-d3250dfacba1"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Data/Texts/About Us/Tropical Fish
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220420T095117Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "486f24d9-65db-4e98-94a1-fa7157a8b00b"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="score-stripe about-us-stripe"><img alt="" src="-/media/FE58D32BE4934FA0BF7AF6801B1CECE1.ashx" />
+        <div class="container score-page-layout-column1 ">
+        <div class="score-column1 ">
+        <div class="score-center">
+        <div class="score-column2 equal">
+        <div class="score-left">
+        <div class="score-document-header white-h1">
+        <h1>
+        About Us
+        </h1>
+        </div>
+        <div class="score-content-spot about-us-content">
+        <p><em>Tropical Fish Hobbyist </em>magazine has been the world&rsquo;s
+        most trusted source of information about the fascinating world of fishkeeping since our
+        first issue rolled off the presses in 1952. More than half a century and over 700 issues
+        later, with an international following dedicated to both our print magazine and digital
+        channels, <em>TFH</em> is proud to inform and shape the modern aquarium hobby. Our
+        world-renowned contributors keep up with the latest aquatic discoveries and
+        technological developments balanced with a long-established, knowledgeable expertise.
+        Now in our seventh decade of publication, <em>TFH</em> is still the number-one
+        comprehensive aquarium magazine for new and seasoned fishkeepers alike.
+        </p>
+        <p><em>TFH</em> offers unique perspectives on all aspects of
+        fishkeeping, from freshwater to saltwater, aquatic plants to corals, nano tanks to
+        outdoor ponds, and so much more. Every issue of <em>TFH&rsquo;s</em> large-format,
+        glossy print aquarium magazine features cutting-edge content, expert advice, and
+        world-class photography showcasing the vibrant beauty of aquatic life, whether in the
+        wild or our aquaria. <em>TFH</em> is committed to educating and entertaining our readers
+        no matter what their interests or where they are in their fishkeeping journey.</p>
+        </div>
+        </div>
+        <div class="score-right">
+        <div class="score-style-box white-left-border">
+        <div class="score-document-header white-h1">
+        <h1>
+        <br />
+        Contact Information
+        </h1>
+        </div>
+        <div class="score-content-spot contact-content-abt-us">
+        <h3>Phone</h3>
+        <p>Customer Support<br />
+        <a href="tel:+ 1 (888) 859-9034">1 (888) 859-9034</a>
+        </p>
+        <h3>Email</h3>
+        <p>Customer Support<br />
+        <a href="mailto:customersupport@tfh.com">CustomerSupport@tfh.com</a>
+        </p>
+        <h3>Address</h3>
+        <p><em>Tropical Fish Hobbyist</em> Magazine<br />
+        85 West Sylvania Ave.<br />
+        Neptune City, NJ 07753</p>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220420T122459Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "56d41e43-442f-458b-b968-a876b8c188e1"
+Parent: "2d9843db-e416-4b8b-a1e0-c5ba1f842174"
+Template: "6e7c409e-1f71-4b3f-9e40-9d9a9518d33a"
+Path: /sitecore/content/OneWeb/Default/Data/Header Global Menu/Global Menu Data for paws left
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T104400Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e1050124-609a-4cf6-9d34-4255343c9f87"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220222T121655Z

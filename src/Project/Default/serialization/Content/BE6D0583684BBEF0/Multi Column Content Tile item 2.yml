@@ -1,0 +1,53 @@
+﻿---
+ID: "83ca6244-9f08-4363-9ea8-d580bc9421df"
+Parent: "7281d9c7-168d-47e1-bfe5-256f5dfbf2c7"
+Template: "2f7bfe05-bdd4-47ad-844f-3e3997eda6b4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Multi Column Content Tiles/FullWidthBannerTiles/Data/Full Width Banner General Information/Multi Column Content Tile item 2
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E049E519-7377-49EE-98D1-1D989548A85A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T145605Z
+    - ID: "3e9b4d48-d3be-48a0-a917-cd07b2be2d54"
+      Hint: Title
+      Value: 
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64e0e11f-dde3-4a16-8d5f-8f0b6d2d9d5a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220305T115745Z
+    - ID: "dc6fb3d9-f446-4657-84aa-7445c6ce5d9d"
+      Hint: SubText
+      Value: |
+        <p><strong>$1MM</strong> in product donations<br />
+        to support animal rescues</p>
+        <p><img alt="" height="61" width="169" src="-/media/57443F7275AE4F339CF6A19685030A9E.ashx" /></p>
+        <p><img alt="" height="53" width="156" src="-/media/851169D88B914C569D6E0A405D99F154.ashx" /></p>
+        <p><img alt="" height="61" width="167" src="-/media/FBD9C9AAB7704EDF8E8E4DF478BE6D21.ashx" /></p>
+    - ID: "e14eb220-b69e-4d99-a279-7666a732a16b"
+      Hint: CTA
+      Value: |
+        <link text="VIEW FAQS" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

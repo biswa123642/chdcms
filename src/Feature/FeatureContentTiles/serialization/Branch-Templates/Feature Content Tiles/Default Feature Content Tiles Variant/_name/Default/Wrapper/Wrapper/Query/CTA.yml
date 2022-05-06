@@ -1,0 +1,45 @@
+﻿---
+ID: "a07866ed-bd10-4808-a999-de53c8dd7e93"
+Parent: "c310874d-3150-4a9b-94cb-1bb0a704f054"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/templates/Branches/Feature/OneWeb/Feature Content Tiles/Default Feature Content Tiles Variant/$name/Default/Wrapper/Wrapper/Query/CTA
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{flag=i_item.IsCTAButton | string.contains "1" }}
+    
+    {{if flag==true}}
+    <div class = "CTA Button class">
+    {{sc_field i_item 'CTA'}}
+    </div>
+    {{else}}
+    <div class = "CTA Link">
+    {{sc_field i_item 'CTA'}}
+    </div>
+    {{end}}
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: class=%24%28CTAClass%29
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220125T040814Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c0e56610-3c98-4d18-844e-e0a7f2865589"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220127T044724Z

@@ -1,0 +1,47 @@
+﻿---
+ID: "eaa6c812-756b-4fbf-b715-0cc2f38e7563"
+Parent: "408c637a-ef04-4779-8ed2-812dd0cf2a8d"
+Template: "1ca0304b-e5b6-4810-8211-54426f1752c2"
+Path: /sitecore/content/OneWeb/Default/Presentation/Placeholder Settings/Product Detail Shell/Product Shell Left Right
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "productshell-leftright-ph"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {4B9D2033-5916-4007-94A3-131401C2E710}
+    {8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}
+    {8BAE17C2-8DBF-469C-B692-4BA993BCE02A}
+    {D6B60627-4476-461C-B9E4-FDEFD6CFB712}
+    {331025A1-4B41-471B-AA32-315CF2701038}
+    {428AF6CB-DF53-44E6-9DD2-BD8A9558C9DA}
+    {14C4D62B-2068-4BBA-972F-6340D19B8A5D}
+    {0B33F7CF-AD75-4ED0-9344-7F51A3689406}
+    {E12D3FF8-925D-4448-A854-27C71F296BB0}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220413T112002Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24b3c1ab-55d6-4b4e-b957-f67d41507858"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220413T115303Z

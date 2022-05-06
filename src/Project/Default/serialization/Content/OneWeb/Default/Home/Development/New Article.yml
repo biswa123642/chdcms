@@ -1,0 +1,45 @@
+﻿---
+ID: "0a2c2295-5141-4686-8156-9b9607c46236"
+Parent: "45b039a4-d895-47c7-9a30-21ab882774e5"
+Template: "057af325-c948-4918-a4e4-2c3f6cf04524"
+Path: /sitecore/content/OneWeb/Default/Home/Development/New Article
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{E54B9411-325A-4D45-A3EC-D30ECB4E809A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "06e34e6f-1cbe-4a99-b264-03222fe0a1f2"
+      Hint: BannerImage
+      Value: |
+        <image mediaid="{589A5CD3-1762-4A23-AE2B-3E2652FFC550}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220321T122622Z
+    - ID: "36aa965e-f5ea-4871-a55b-53e090d5026e"
+      Hint: ArticleType
+      Value: "{25960560-DE80-4498-B085-15E3AA9A08BC}"
+    - ID: "8ccbb921-d330-4712-95b3-f77a0ff02cb4"
+      Hint: Title
+      Value: Checklist of Dog Supplies for Your New Fur Kid
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "598de0ee-3bbb-4c83-85bd-3e23bed66ddd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220325T075144Z
+    - ID: "fb742e87-7bf7-4c72-97a9-987a40989ece"
+      Hint: RelatedArticles
+      Value: |
+        {0A2C2295-5141-4686-8156-9B9607C46236}
+        {082F4486-0CC8-4F43-992A-2F6BFCA8C34A}

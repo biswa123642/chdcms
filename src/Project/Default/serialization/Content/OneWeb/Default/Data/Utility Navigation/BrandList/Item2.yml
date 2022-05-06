@@ -1,0 +1,30 @@
+﻿---
+ID: "41c5a049-f037-411f-927b-a30f933583b6"
+Parent: "cdb1fc29-1508-438c-b16e-c6d58d8a0085"
+Template: "21e9bd9f-1259-4a0a-b862-a250abf7a8b1"
+Path: /sitecore/content/OneWeb/Default/Data/Utility Navigation/BrandList/Item2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1a984fb2-76bd-4a5b-a71b-c163ae3d23e9"
+      Hint: Image
+      Value: |
+        <image mediaid="{A07836DA-67CB-4493-AA56-104312C8E931}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220405T064100Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8e3a289-0b42-49e2-bc3c-9697da1720c5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220406T052444Z
+    - ID: "f35d245b-3a57-4132-a025-00a22429f296"
+      Hint: IconClass
+      Value: 

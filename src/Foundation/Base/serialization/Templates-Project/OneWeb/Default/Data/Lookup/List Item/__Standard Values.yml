@@ -1,0 +1,26 @@
+﻿---
+ID: "0159de9b-b332-4a6a-b809-77c18abdc02a"
+Parent: "b2568a0a-eb94-4180-afb7-2b66a7fd4cee"
+Template: "b2568a0a-eb94-4180-afb7-2b66a7fd4cee"
+Path: /sitecore/templates/Project/OneWeb/Default/Data/Lookup/List Item/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220323T082751Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18827dfb-79be-45eb-aedf-ba0734d55ae3"
+    - ID: "af305190-66a3-4ddf-aac2-1c4311bb0518"
+      Hint: TypeName
+      Value: $name
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220323T082755Z

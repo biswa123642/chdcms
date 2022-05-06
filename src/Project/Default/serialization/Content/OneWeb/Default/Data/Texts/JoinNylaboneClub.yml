@@ -1,0 +1,98 @@
+﻿---
+ID: "fc17408b-94df-46b7-a6a7-3b44d86d35d6"
+Parent: "d6929c3c-1a93-40dc-beec-0f7c9e9f240a"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/OneWeb/Default/Data/Texts/JoinNylaboneClub
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Join Nylabone Club
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220414T055005Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "216bb47f-b9b5-4f65-b048-85d03c4b3efa"
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <div class="score-stripe">
+        <div class="container score-page-layout-column1">
+        <div class="score-column1">
+        <div class="score-center">
+        <div class="score-style-box dog-club-wrapper">
+        <div class="score-style-box footer-dog">
+        <img alt="footer_dog" src="-/media/20985851203543A7B69915763B14CB1E.ashx" class="score-image img-responsive" />
+        </div>
+        <div class="score-style-box">
+        <div class="score-content-spot">
+        <div class="popup-wrapper">
+        <div class="club-button">
+        <a class="btn btn-join-club" href="##">Join Our Club</a>
+        </div>
+        <div class="modal-container">
+        <div class="popup-inner">
+        <a href="/about-us/club-nylabone">
+        <img class="join-our-club" alt="Join Our Club" src="-/media/333F4BA829964A8AB4E456B5DD42D904.ashx" />
+        </a>
+        <a class="popup-close" href="##">x</a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        <div class="score-stripe" style="color: #ffffff; background-color: #f47523;">
+        <div class="container score-page-layout-column1">
+        <div class="score-column1">
+        <div class="score-center">
+        <div class="score-center-text style-box-padding">
+        <p class="score-lead white-lead" style="z-index: 1;">
+        FOLLOW US!
+        </p>
+        <div class="score-button-group">
+        <a class="score-image-button icon-facebook" href="https://www.facebook.com/Nylabone/">
+        <img alt="facebook" src="-/media/66EFCB6DE1FC44FDA7E407DEB8192B76.ashx" class="img-responsive" />
+        </a>
+        <a class="score-image-button icon-instagram" href="https://www.instagram.com/nylabone/">
+        <img alt="instagram" src="-/media/66EFCB6DE1FC44FDA7E407DEB8192B76.ashx" class="img-responsive" />
+        </a>
+        <a class="score-image-button icon-twitter" href="https://twitter.com/nylabone">
+        <img alt="twitter" src="-/media/66EFCB6DE1FC44FDA7E407DEB8192B76.ashx" class="img-responsive" />
+        </a>
+        <a class="score-image-button icon-youtube" href="https://www.youtube.com/user/nylaboneproducts">
+        <img alt="youtube" src="-/media/66EFCB6DE1FC44FDA7E407DEB8192B76.ashx" class="img-responsive" />
+        </a>
+        <a class="score-image-button icon-pinterest" href="https://www.pinterest.com/nylabone/">
+        <img alt="pinterest" src="-/media/66EFCB6DE1FC44FDA7E407DEB8192B76.ashx" class="img-responsive" />
+        </a>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220414T055055Z

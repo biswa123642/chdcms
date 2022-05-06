@@ -1,0 +1,44 @@
+﻿---
+ID: "61070482-5683-48c4-ab4a-4d80ee226ce1"
+Parent: "01485cf7-9c4b-400d-bb30-4abc067c21ea"
+Template: "5052be8f-77fa-49c8-a356-7efc2b556d80"
+Path: /sitecore/content/OneWeb/Default/Data/Rich Content Tile/TileFolder/RichContentImgTile/Tile1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "14b4207b-04ed-46da-8f2e-dff32844807c"
+      Hint: TileImage
+      Value: |
+        <image mediaid="{73C569BF-D27B-452C-892A-78562D05D744}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220406T122625Z
+    - ID: "3330a14a-3683-4025-bede-52f49b02c81a"
+      Hint: TileSummary
+      Value: "Nylabone has been creating the most satisfying products for dogs since 1955. Our all-new Power Play Toys are our industry-leading team’s latest innovations developed in collaboration with veterinarians, trainers, and pet parents.<br />"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "339e6b4f-1ba1-4ab6-8c62-6b1a11880dd5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d53016cd-0ffc-442e-b799-5b175804050f"
+      Hint: TileTitle
+      Value: Made by the Brand Dogs Love and Pet Parents Trust
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220414T053626Z

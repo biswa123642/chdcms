@@ -1,0 +1,28 @@
+﻿---
+ID: "325fb2d3-051f-428b-9c87-1e833eea6c69"
+Parent: "39809a52-7c27-424a-8529-9514d8e4bef7"
+Template: "d2ff873c-705e-46a1-9068-8cf6d3cbe6d2"
+Path: "/sitecore/content/OneWeb/Default/Home/Development/Brand Listing - Social Links/Data/Social Links"
+BranchID: "574ddb5d-100b-48b0-a8eb-91aa817a72f2"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C6CD6944-F08B-4567-84C1-F6DA97DC2FAC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220302T083339Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6eb11037-cfc0-4ced-9562-cf391645ba07"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220302T083339Z

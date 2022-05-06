@@ -1,0 +1,52 @@
+﻿---
+ID: "83c131b8-cbf4-49bc-96d3-0fe57e99dbfc"
+Parent: "a6357d7f-2633-42ef-b268-a1f36031807f"
+Template: "2f7bfe05-bdd4-47ad-844f-3e3997eda6b4"
+Path: /sitecore/content/OneWeb/Default/Home/Development/Multi Column Content Tiles/TilesGridWithOverlay/Data/Full Width Banner General Information/Multi Column Content Tile item 1
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{0E370E63-E961-4018-8956-321C3D6B674D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "00eccf92-e5bd-4b05-81e9-7b7d3073f484"
+      Hint: Image
+      Value: |
+        <image mediaid="{F1FCC639-6052-40FC-B704-4DFAD33601C0}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T145605Z
+    - ID: "3e9b4d48-d3be-48a0-a917-cd07b2be2d54"
+      Hint: Title
+      Value: Build and Grow Brands Consumers Love
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7610534d-254a-4add-8af9-6f87c28372d5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220218T152924Z
+    - ID: "dc6fb3d9-f446-4657-84aa-7445c6ce5d9d"
+      Hint: SubText
+      Value: We aim to connect with our consumers to better understand them and provide them with the brands they want and love. It’s through this connection that we create organic growth. We’re also creating innovative platforms and investing in digital marketing to develop our brands’ recognition and desirability.
+    - ID: "e14eb220-b69e-4d99-a279-7666a732a16b"
+      Hint: CTA
+      Value: |
+        <link text="VIEW COMPANY PRESENTATION" anchor="" linktype="internal" class="" title=""  querystring="" id="{BD37C511-EE0F-4568-BD0E-FB51969420F0}" />

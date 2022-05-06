@@ -1,0 +1,55 @@
+﻿---
+ID: "41df5f50-7d7b-43b1-8809-9b434a820972"
+Parent: "3b4ec334-a65f-49e4-bbab-8a6ceab6eba8"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Page Script/HeadPgScript/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ current_env = sc_get_settings "EnvironmentName" }}
+    {{if current_env == "DEV"}}
+      {{ script_items = sc_followmany i_datasource "DevScript"}}
+      {{ for child in script_items}}
+            {{ child.Script.raw}}
+       {{end}}
+    {{else if current_env == "QA"}}
+       {{script_items = sc_followmany i_datasource "QAScript"}}
+       {{ for child in script_items}}
+             {{  child.Script.raw}}
+        {{end}}
+    {{else}}
+       {{script_items = sc_followmany i_datasource "ProdScript"}}
+       {{ for child in script_items}}
+    
+             {{ child.Script.raw}}
+    
+        {{end}}
+    {{end}}
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220310T074624Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9622bb3a-3b76-46fc-9211-10ad235d9e2b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220310T074718Z

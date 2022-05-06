@@ -1,0 +1,23 @@
+﻿---
+ID: "6e51db1b-0915-4fcc-ab65-6c515bf041c7"
+Parent: "4a3e84e9-62f8-4df8-90de-343c4a04d490"
+Template: "68c00cb0-320b-4324-903a-f6ad56a2a105"
+Path: /sitecore/content/OneWeb/Default/Data/Accordions
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220121T113138Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e850a87a-9d58-4642-998f-c1023e3b338c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220121T113138Z

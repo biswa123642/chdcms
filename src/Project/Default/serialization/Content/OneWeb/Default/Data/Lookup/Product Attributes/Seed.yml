@@ -1,0 +1,23 @@
+﻿---
+ID: "b806b02e-809a-4682-97cb-9913faa048bb"
+Parent: "169208fb-b185-46f4-a1a3-d50ac284b64c"
+Template: "1659c58a-bcf0-4364-9eff-e2da49bbde8b"
+Path: /sitecore/content/OneWeb/Default/Data/Lookup/Product Attributes/Seed
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220416T170353Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "49efca0b-334f-4c7a-964e-93d04bd7d202"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220416T170353Z

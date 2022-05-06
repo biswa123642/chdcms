@@ -1,0 +1,27 @@
+﻿---
+ID: "5c9492bf-a12b-4212-837c-b4d29e050ce6"
+Parent: "f5f2dd78-1657-4530-ac38-8c2518e93f68"
+Template: "f5f2dd78-1657-4530-ac38-8c2518e93f68"
+Path: /sitecore/templates/Feature/OneWeb/Related Products and Articles/Rendering Parameters/Related Products and Articles/__Standard Values
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: __Standard Values
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151021T125358Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "397af628-3340-42cd-98a9-6c610075d514"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220417T182841Z

@@ -1,0 +1,59 @@
+﻿---
+ID: "363b9b40-0769-4df7-8d4f-ec44d91be788"
+Parent: "be304407-2869-4176-a05d-58cd32b0cf0f"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/OneWeb/Default/Presentation/Rendering Variants/Page Content/Four Column Image Listing/row/Image Listing/Scriban
+SharedFields:
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    {{ if  i_item.MaxWidth == "max-width" }}
+    <div class="inner-wrap max-width col-6">
+    <div class="field-tile-image">
+    {{sc_field i_item "BrandLogo" }}
+    </div> <div class="field-tile-title" >{{sc_field i_item "SubTitle" }}</div>
+    <div class="field-tile-description">
+    {{sc_field i_item "BrandDescription" }}</div>
+    
+    </div>
+    {{ else }}
+    <div class="inner-wrap col-3">
+    
+    <div class="field-tile-image">
+    {{sc_field i_item "BrandLogo" }}</div>
+    
+     <div class="field-tile-title">{{sc_field i_item "SubTitle" }}</div>
+    <div class="field-tile-description">
+    {{sc_field i_item "BrandDescription" }}</div>
+    </div>
+    
+    {{end}}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220425T060406Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7ad3bad-8892-4ecf-a36c-6b6f3e854801"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220425T081824Z

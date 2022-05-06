@@ -1,0 +1,81 @@
+@import "abstracts/vars";
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "base/fonts/fonts";
+@import "base/fontawesome/font-awesome";
+
+.header-shell {
+    @import "variants/component-header/common-nav.scss";
+    @import "variants/component-header/varient1.scss";
+    @import "variants/component-header/varient2.scss";
+    @import "variants/component-header/varient3.scss";
+    width: 100%;
+}
+
+.on-page-editor,
+.preview {
+    padding-top: 0 !important;
+
+    .header-shell {
+        &.varient-3 {
+            position: static;
+            background-color: $dark-green;
+        }
+
+        &.varient-1 {
+            position: static;
+        }
+
+        &.varient-2 {
+            position: static;
+        }
+    }
+}
+
+.header-shell {
+    ul {
+        list-style: none;
+        margin: 0;
+
+        li {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+    }
+
+    &.varient-1 {
+        position: fixed;
+        top: 0;
+        z-index: 99;
+
+        @media screen and (max-width: 991px) {
+            background-color: $white;
+        }
+    }
+
+    &.varient-2 {
+        position: fixed;
+        top: 0;
+        z-index: 99;
+        background-color: $white;
+    }
+
+    &.varient-3 {
+        position: fixed;
+        top: 0;
+        z-index: 99;
+        background-color: $dark-green;
+    }
+}
+
+#header {
+    position: relative;
+}
+.on-page-editor {
+    .varient-2 {
+        .logo-container {
+            display: block ;
+        }
+    }
+}
